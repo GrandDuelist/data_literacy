@@ -19,7 +19,7 @@ r <- tapply(automobile.data$price,automobile.data$body.style,mean)
 max(r) # the result of max() is 22208.5, so we set ylim = 25000
 
 # plot the relation between different  body style and its average price
-barplot(r,ylim = c(0:25000))
+barplot(r,ylim = c(0,25000))
 
 #density distribution of price
 stripchart(automobile.data$price)

@@ -1,0 +1,1 @@
+setwd("~/workspace/data_literacy/week2")
