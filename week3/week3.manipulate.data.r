@@ -51,3 +51,4 @@ education[adult$education %in% c(" 1st-4th", " 5th-6th", " 7th-8th", " 9th", " 1
 mosaicplot(table(education,adult$salary),color=3:4,xlab="salary",main="education v. salary")
 
 
+adult.hs.master <- subset(adult,education %in% c(' HS-grad',' Masters'))
