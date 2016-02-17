@@ -42,4 +42,7 @@ for(i in 1:10000){
   D_null[i] <- mean(russia_null) - mean(china_null)
 }
 hist(D_null)
-p <- length(D_null[D_null>D])/length(D_null)
+abline(v=D,col='red')
+line(x=D, y=)
+p <- length(D_null[D_null>=D])/length(D_null)
+
