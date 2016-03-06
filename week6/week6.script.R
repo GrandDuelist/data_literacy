@@ -19,11 +19,11 @@ l_russia <- length(russia.happiness)
 #standard deviation
 sd_russia_china <- sqrt(sd_china^2/l_china+sd_russia^2/l_russia)
 #z score
-zeta <- (mean(russia.happiness)-mean(china.happiness))/sd_russia_china
+zeta <- (mean(russia.happiness)-mean(china.happiness ))/sd_russia_china
 zeta
 
 #plot red line
-plot(x=seq(from = -5, to= 5, by=0.1),y=dnorm(seq(from = -5, to= 5, by=0.1),mean=0),type='l',xlab = 'mean difference', ylab='possibility')
+plot(x=seq(from = -5, to= 5, by=0.1),y=pnorm(seq(from = -5, to= 5, by=0.1),mean=0),type='l',xlab = 'mean difference', ylab='possibility')
 abline(v=zeta, col='red')
 #get p
 p = 1-pnorm(zeta)
