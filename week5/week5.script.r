@@ -33,8 +33,7 @@ china_null <-null[null$null_country=='China',2]
 
 D_null <- mean(russia_null) - mean(china_null)
 
-for(i in 1:10000){
-  null_country <- rep("Russia",l)
+for(i in 1:10000){null_country <- rep("Russia",l)
   null_country[sample(l,l_china)] <- 'China'
   null <- data.frame(null_country,two.country.happiness[,6])
   russia_null <-null[null$null_country=='Russia',2]
