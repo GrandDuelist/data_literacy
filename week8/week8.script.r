@@ -19,7 +19,7 @@ ratio <- n_incident/n_all
 # 4. Lost the game?  
 # 5. Did Suarez score 0 goals in the game?  
 
-incident <- rep(n_all,1)
+incident <- rep(1,n_all)
 incident[suarez$INCIDENT=='none'] = 0
 
 features <- matrix(0,nrow = n_all,ncol = 5)
@@ -62,7 +62,7 @@ home <- features[,"home"]
 #mean difference about two group: incident at home and incident out of home
 p_diff <- mean(incident[home==1]) - mean(incident[home==0])
 
-
+n <- n_all
 # do permutation test
 p_perm <- rep(NA,10000)
 for(jj in 1:10000){
