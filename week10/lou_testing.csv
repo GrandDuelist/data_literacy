@@ -1,0 +1,586 @@
+ID,INCIDENT,PENALTY,VICTIM,LOCATION,COUNTRY,WHEN,MOON_NIGHT_BEFORE,YEAR,RESULT,GOALS
+10000,not bite,Red Card,midfielder,opponent team penalty area,Netherlands,62,Half,2007,Win,1
+10001,not bite,None,forward,opponent team penalty area,Netherlands,2,Full,2007,Draw,1
+10002,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,82,Full,2007,Win,1
+10003,bite,None,None,opponent team penalty area,Netherlands,89,Full,2007,Win,0
+10004,not bite,Not Caught,spectator,off field,Netherlands,21,Full,2007,Loss,2
+10005,not bite,Yellow card,spectator,off field,Netherlands,74,No Moon,2007,Loss,0
+10006,not bite,Red Card,defender,off field,Netherlands,44,Half,2007,Loss,1
+10007,bite,Yellow card,spectator,off field,Netherlands,82,Full,2007,Loss,0
+10008,bite,None,goalkeeper,off field,Netherlands,89,Full,2007,Win,0
+10009,not bite,None,None,No location,Netherlands,90,Full,2007,Win,1
+10010,not bite,yellow card,referee,opponent team penalty area,Netherlands,60,No Moon,2007,Loss,0
+10011,bite,None,defender,opponent team penalty area,Netherlands,84,Half,2007,Draw,3
+10012,not bite,Red Card,referee,off field,Netherlands,10,Full,2007,Win,1
+10013,not bite,yellow card,referee,off field,Netherlands,52,No Moon,2007,Win,2
+10014,not bite,yellow card,spectator,off field,Netherlands,76,Full,2007,Win,0
+10015,bite,Yellow card,spectator,off field,Netherlands,90,Full,2007,Win,3
+10016,bite,Not Caught,referee,opponent team penalty area,Netherlands,89,No Moon,2008,Loss,1
+10017,not bite,None,None,No location,Netherlands,90,No Moon,2008,Draw,0
+10018,not bite,Yellow card,goalkeeper,midfield,Netherlands,33,Half,2008,Win,3
+10019,not bite,None,forward,his team penalty area,Netherlands,88,No Moon,2008,Win,0
+10020,not bite,yellow card,midfielder,opponent team penalty area,Netherlands,42,Full,2008,Draw,1
+10021,not bite,None,None,No location,Netherlands,90,Half,2008,Draw,1
+10022,not bite,Yellow card,spectator,off field,Netherlands,17,Half,2008,Win,3
+10023,bite,None,goalkeeper,his team penalty area,Netherlands,83,Half,2008,Draw,0
+10024,not bite,Suspended for several games,journalist,off field,Netherlands,71,Half,2008,Draw,1
+10025,not bite,Yellow card,midfielder,off field,Netherlands,5,No Moon,2008,Draw,2
+10026,not bite,Yellow card,None,off field,Netherlands,26,No Moon,2008,Win,0
+10027,not bite,None,None,No location,Netherlands,90,Full,2008,Loss,3
+10028,not bite,None,None,No location,Netherlands,90,Full,2008,Win,0
+10029,not bite,None,midfielder,midfield,Netherlands,66,Half,2008,Win,1
+10030,not bite,yellow card,goalkeeper,midfield,Netherlands,61,Half,2008,Draw,1
+10031,not bite,None,None,No location,Netherlands,90,Full,2008,Loss,0
+10032,not bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,17,Full,2008,Loss,0
+10033,not bite,Suspended for several games,referee,midfield,Netherlands,75,Full,2008,Loss,0
+10034,not bite,Yellow card,defender,his team penalty area,Netherlands,34,Full,2008,Loss,0
+10035,not bite,None,None,No location,Netherlands,90,Full,2008,Loss,0
+10036,not bite,Yellow card,defender,opponent team penalty area,Netherlands,89,Half,2008,Loss,3
+10037,not bite,None,None,No location,Netherlands,90,Half,2008,Win,0
+10038,bite,Red Card,defender,off field,Netherlands,84,Half,2008,Draw,0
+10039,not bite,Not Caught,defender,off field,Netherlands,38,No Moon,2008,Draw,2
+10040,not bite,None,None,No location,Netherlands,90,Full,2008,Win,3
+10041,not bite,Red Card,defender,off field,Netherlands,76,No Moon,2008,Win,1
+10042,not bite,Red Card,defender,midfield,Netherlands,24,Half,2008,Win,3
+10043,not bite,None,None,No location,Netherlands,90,Half,2008,Loss,1
+10044,not bite,Not Caught,defender,his team penalty area,Netherlands,47,No Moon,2008,Draw,2
+10045,bite,Not Caught,journalist,off field,Netherlands,87,Full,2008,Win,1
+10046,not bite,Suspended for several games,defender,midfield,Netherlands,9,Half,2008,Draw,1
+10047,not bite,yellow card,midfielder,midfield,Netherlands,82,No Moon,2008,Draw,1
+10048,not bite,Suspended for several games,defender,opponent team penalty area,Netherlands,2,No Moon,2008,Loss,0
+10049,not bite,Red Card,forward,his team penalty area,Netherlands,17,Full,2008,Win,2
+10050,not bite,None,None,No location,Netherlands,90,No Moon,2008,Loss,2
+10051,not bite,None,None,his team penalty area,Netherlands,36,Half,2008,Win,1
+10052,not bite,Not Caught,spectator,off field,Netherlands,49,Full,2008,Loss,0
+10053,not bite,None,goalkeeper,off field,Netherlands,63,No Moon,2008,Win,3
+10054,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,72,Half,2008,Win,1
+10055,bite,Red Card,spectator,off field,Netherlands,90,Half,2008,Loss,3
+10056,not bite,None,None,No location,Netherlands,90,Full,2008,Draw,0
+10057,not bite,None,None,No location,Netherlands,90,No Moon,2008,Win,0
+10058,not bite,None,defender,midfield,Netherlands,19,Full,2008,Win,3
+10059,not bite,None,None,No location,Netherlands,90,Full,2008,Win,0
+10060,not bite,yellow card,defender,off field,Netherlands,81,Full,2008,Win,2
+10061,bite,Suspended for several games,goalkeeper,his team penalty area,Netherlands,87,Full,2008,Win,2
+10062,bite,Red Card,midfielder,midfield,Netherlands,84,Full,2008,Draw,2
+10063,not bite,Red Card,defender,midfield,Netherlands,0,No Moon,2008,Draw,0
+10064,not bite,yellow card,referee,off field,Netherlands,68,Full,2008,Loss,2
+10065,not bite,Not Caught,goalkeeper,off field,Netherlands,85,Full,2008,Loss,1
+10066,not bite,Red Card,forward,midfield,Netherlands,2,No Moon,2008,Win,1
+10067,not bite,None,None,No location,Netherlands,90,Full,2008,Draw,1
+10068,not bite,Suspended for several games,referee,his team penalty area,Netherlands,29,Full,2008,Draw,3
+10069,not bite,yellow card,referee,opponent team penalty area,Netherlands,77,Full,2008,Draw,3
+10070,not bite,yellow card,midfielder,opponent team penalty area,Netherlands,81,Half,2008,Win,2
+10071,not bite,Suspended for several games,spectator,off field,Netherlands,30,Full,2008,Draw,2
+10072,not bite,Yellow card,defender,his team penalty area,Netherlands,81,Half,2008,Win,2
+10073,not bite,Yellow card,spectator,off field,Netherlands,57,Full,2008,Win,0
+10074,not bite,Yellow card,defender,opponent team penalty area,Netherlands,85,No Moon,2008,Win,2
+10075,not bite,Yellow card,journalist,off field,Netherlands,85,No Moon,2008,Draw,2
+10076,not bite,Red Card,journalist,off field,Netherlands,77,Half,2008,Loss,1
+10077,not bite,None,None,No location,Netherlands,90,Full,2008,Win,2
+10078,not bite,None,forward,opponent team penalty area,Netherlands,18,Full,2008,Draw,2
+10079,not bite,Yellow card,referee,midfield,Netherlands,69,Full,2008,Loss,1
+10080,bite,Yellow card,forward,midfield,Netherlands,85,Half,2008,Win,2
+10081,not bite,Yellow card,spectator,off field,Netherlands,69,Full,2008,Win,2
+10082,not bite,None,spectator,off field,Netherlands,48,Full,2008,Win,0
+10083,not bite,Red Card,goalkeeper,off field,Netherlands,25,Full,2008,Loss,1
+10084,bite,Suspended for several games,referee,his team penalty area,Netherlands,86,Half,2008,Win,3
+10085,not bite,None,None,No location,Netherlands,90,Half,2008,Win,3
+10086,not bite,None,None,No location,Netherlands,90,No Moon,2008,Win,2
+10087,not bite,Yellow card,None,his team penalty area,Netherlands,3,Half,2008,Draw,2
+10088,not bite,Yellow card,referee,midfield,Netherlands,33,Full,2008,Win,3
+10089,not bite,yellow card,journalist,off field,Netherlands,75,Full,2008,Draw,1
+10090,not bite,Red Card,journalist,off field,Netherlands,36,Half,2008,Win,1
+10091,bite,Red Card,midfielder,his team penalty area,Netherlands,88,Full,2008,Win,1
+10092,not bite,Not Caught,forward,midfield,Netherlands,39,Half,2008,Draw,1
+10093,not bite,Suspended for several games,spectator,off field,Netherlands,31,Full,2008,Win,0
+10094,not bite,Not Caught,spectator,off field,Netherlands,36,Half,2008,Win,1
+10095,bite,Suspended for several games,journalist,off field,Netherlands,89,Full,2008,Loss,1
+10096,not bite,None,None,No location,Netherlands,90,Half,2008,Win,2
+10097,not bite,None,None,No location,Netherlands,90,Half,2008,Draw,0
+10098,not bite,Not Caught,journalist,off field,Netherlands,76,Full,2008,Win,0
+10099,not bite,None,None,No location,Netherlands,90,Half,2008,Win,1
+10100,not bite,Suspended for several games,forward,his team penalty area,Netherlands,69,Full,2008,Draw,0
+10101,bite,Red Card,spectator,off field,Netherlands,85,Half,2008,Loss,2
+10102,not bite,Not Caught,midfielder,off field,Netherlands,76,Full,2008,Win,1
+10103,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,2
+10104,not bite,None,spectator,off field,Netherlands,69,Half,2009,Draw,2
+10105,not bite,yellow card,referee,opponent team penalty area,Netherlands,18,Full,2009,Loss,3
+10106,not bite,Suspended for several games,forward,his team penalty area,Netherlands,23,Full,2009,Loss,2
+10107,not bite,None,defender,opponent team penalty area,Netherlands,57,No Moon,2009,Win,2
+10108,not bite,None,None,No location,Netherlands,90,Full,2009,Draw,2
+10109,not bite,Not Caught,journalist,off field,Netherlands,60,Full,2009,Win,1
+10110,not bite,None,None,No location,Netherlands,90,Full,2009,Win,1
+10111,not bite,Red Card,goalkeeper,opponent team penalty area,Netherlands,64,No Moon,2009,Win,1
+10112,not bite,Not Caught,journalist,off field,Netherlands,55,Full,2009,Loss,2
+10113,not bite,yellow card,None,midfield,Netherlands,66,Full,2009,Draw,2
+10114,not bite,Not Caught,forward,midfield,Netherlands,52,No Moon,2009,Draw,2
+10115,not bite,None,None,No location,Netherlands,90,Full,2009,Win,2
+10116,not bite,Yellow card,journalist,off field,Netherlands,82,Full,2009,Win,2
+10117,not bite,None,None,No location,Netherlands,90,Half,2009,Loss,1
+10118,bite,Yellow card,None,off field,Netherlands,82,Half,2009,Loss,0
+10119,not bite,Suspended for several games,referee,his team penalty area,Netherlands,69,Half,2009,Win,3
+10120,not bite,Not Caught,midfielder,his team penalty area,Netherlands,1,Full,2009,Win,0
+10121,not bite,None,None,No location,Netherlands,90,Half,2009,Win,0
+10122,not bite,Yellow card,None,off field,Netherlands,48,Full,2009,Win,1
+10123,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,2
+10124,not bite,None,None,No location,Netherlands,90,Half,2009,Win,2
+10125,not bite,yellow card,midfielder,his team penalty area,Netherlands,54,Half,2009,Win,3
+10126,bite,Yellow card,journalist,off field,Netherlands,82,Full,2009,Win,1
+10127,not bite,Yellow card,forward,off field,Netherlands,75,Full,2009,Win,0
+10128,bite,Yellow card,midfielder,off field,Netherlands,83,Full,2009,Draw,3
+10129,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,2
+10130,not bite,None,defender,opponent team penalty area,Netherlands,1,No Moon,2009,Win,0
+10131,not bite,Red Card,goalkeeper,off field,Netherlands,31,Half,2009,Loss,0
+10132,not bite,Red Card,defender,his team penalty area,Netherlands,82,Full,2009,Win,1
+10133,not bite,Not Caught,defender,midfield,Netherlands,30,Full,2009,Win,1
+10134,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,1
+10135,not bite,Red Card,None,midfield,Netherlands,50,Half,2009,Win,2
+10136,not bite,Suspended for several games,forward,opponent team penalty area,Netherlands,5,Full,2009,Loss,1
+10137,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,51,Full,2009,Win,0
+10138,not bite,Red Card,spectator,off field,Netherlands,86,Half,2009,Draw,2
+10139,not bite,Yellow card,spectator,off field,Netherlands,7,Full,2009,Draw,1
+10140,not bite,None,spectator,off field,Netherlands,73,Half,2009,Win,0
+10141,not bite,Yellow card,journalist,off field,Netherlands,66,No Moon,2009,Loss,1
+10142,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,30,Full,2009,Win,1
+10143,bite,Yellow card,goalkeeper,off field,Netherlands,83,Half,2009,Draw,3
+10144,not bite,None,None,No location,Netherlands,90,Full,2009,Draw,2
+10145,not bite,None,None,No location,Netherlands,90,Half,2009,Win,1
+10146,not bite,None,None,No location,Netherlands,90,No Moon,2009,Draw,1
+10147,not bite,Red Card,goalkeeper,off field,Netherlands,35,No Moon,2009,Win,2
+10148,not bite,Not Caught,midfielder,off field,Netherlands,22,Full,2009,Draw,1
+10149,not bite,yellow card,midfielder,off field,Netherlands,27,Full,2009,Win,2
+10150,not bite,Not Caught,referee,midfield,Netherlands,9,Half,2009,Win,1
+10151,not bite,None,None,No location,Netherlands,90,No Moon,2009,Draw,0
+10152,not bite,None,None,No location,Netherlands,90,Full,2009,Win,1
+10153,not bite,Yellow card,journalist,off field,Netherlands,69,Full,2009,Draw,1
+10154,not bite,None,None,No location,Netherlands,90,Half,2009,Win,1
+10155,not bite,None,spectator,off field,Netherlands,58,Full,2009,Loss,2
+10156,bite,Not Caught,defender,off field,Netherlands,88,Half,2009,Loss,1
+10157,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,11,Full,2009,Draw,2
+10158,not bite,None,None,No location,Netherlands,90,Half,2009,Win,2
+10159,not bite,None,journalist,off field,Netherlands,14,Half,2009,Loss,2
+10160,bite,None,referee,off field,Netherlands,84,Full,2009,Loss,0
+10161,not bite,yellow card,None,his team penalty area,Netherlands,11,No Moon,2009,Win,2
+10162,not bite,None,None,No location,Netherlands,90,Full,2009,Win,2
+10163,not bite,Suspended for several games,spectator,off field,Netherlands,56,No Moon,2009,Loss,0
+10164,not bite,Yellow card,midfielder,midfield,Netherlands,5,Half,2009,Win,1
+10165,not bite,None,None,No location,Netherlands,90,Full,2009,Loss,1
+10166,not bite,Suspended for several games,forward,midfield,Netherlands,47,Half,2009,Win,0
+10167,not bite,Not Caught,midfielder,midfield,Netherlands,56,Half,2009,Loss,3
+10168,not bite,Yellow card,journalist,off field,Netherlands,34,Full,2009,Draw,0
+10169,not bite,Red Card,forward,off field,Netherlands,44,Full,2009,Loss,0
+10170,not bite,None,None,No location,Netherlands,90,No Moon,2009,Draw,0
+10171,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,79,Half,2009,Win,1
+10172,not bite,Yellow card,referee,midfield,Netherlands,32,Half,2009,Loss,1
+10173,not bite,Not Caught,journalist,off field,Netherlands,3,No Moon,2009,Win,1
+10174,not bite,None,None,No location,Netherlands,90,Half,2009,Loss,1
+10175,not bite,Red Card,referee,midfield,Netherlands,24,Full,2009,Win,1
+10176,not bite,yellow card,goalkeeper,midfield,Netherlands,31,No Moon,2009,Draw,0
+10177,not bite,Yellow card,journalist,off field,Netherlands,52,No Moon,2009,Win,1
+10178,not bite,Yellow card,defender,opponent team penalty area,Netherlands,88,Full,2009,Win,2
+10179,not bite,Red Card,journalist,off field,Netherlands,70,Half,2009,Loss,1
+10180,not bite,Not Caught,spectator,off field,Netherlands,39,No Moon,2009,Win,3
+10181,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,2
+10182,not bite,Yellow card,forward,off field,Netherlands,65,Half,2009,Loss,0
+10183,not bite,None,None,No location,Netherlands,90,Half,2009,Win,3
+10184,not bite,None,None,No location,Netherlands,90,Half,2009,Loss,1
+10185,not bite,Yellow card,journalist,off field,Netherlands,68,Full,2009,Win,1
+10186,not bite,yellow card,None,his team penalty area,Netherlands,62,No Moon,2009,Win,1
+10187,not bite,Not Caught,forward,opponent team penalty area,Netherlands,83,No Moon,2009,Loss,1
+10188,not bite,Not Caught,spectator,off field,Netherlands,8,Full,2009,Win,0
+10189,not bite,Suspended for several games,journalist,off field,Netherlands,77,Half,2009,Win,0
+10190,not bite,Suspended for several games,midfielder,off field,Netherlands,29,Full,2009,Win,1
+10191,not bite,None,None,No location,Netherlands,90,Full,2009,Loss,1
+10192,not bite,Suspended for several games,spectator,off field,Netherlands,59,No Moon,2009,Win,1
+10193,not bite,Yellow card,forward,opponent team penalty area,Netherlands,87,Half,2009,Loss,1
+10194,not bite,Suspended for several games,midfielder,off field,Netherlands,76,Full,2009,Win,1
+10195,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,1
+10196,not bite,yellow card,None,off field,Netherlands,25,Full,2009,Win,0
+10197,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,37,Half,2009,Win,0
+10198,not bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,71,No Moon,2009,Loss,0
+10199,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,2
+10200,not bite,None,None,off field,Netherlands,79,No Moon,2009,Draw,1
+10201,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,0
+10202,not bite,Red Card,midfielder,his team penalty area,Netherlands,51,Full,2009,Win,2
+10203,not bite,Suspended for several games,goalkeeper,off field,Netherlands,89,Half,2009,Draw,2
+10204,not bite,None,None,No location,Netherlands,90,Full,2010,Win,2
+10205,not bite,yellow card,forward,opponent team penalty area,Netherlands,82,No Moon,2010,Win,0
+10206,not bite,None,spectator,off field,Netherlands,79,No Moon,2010,Win,0
+10207,not bite,Red Card,referee,off field,Netherlands,20,Full,2010,Draw,2
+10208,not bite,None,None,No location,Netherlands,90,No Moon,2010,Draw,2
+10209,not bite,yellow card,journalist,off field,Netherlands,65,Half,2010,Win,1
+10210,not bite,None,None,No location,Netherlands,90,No Moon,2010,Loss,1
+10211,bite,Not Caught,spectator,off field,Netherlands,89,Full,2010,Draw,1
+10212,bite,Not Caught,journalist,off field,Netherlands,82,Half,2010,Draw,2
+10213,not bite,yellow card,midfielder,his team penalty area,Netherlands,18,Half,2010,Loss,1
+10214,not bite,Not Caught,None,midfield,Netherlands,49,Full,2010,Draw,0
+10215,not bite,None,None,No location,Netherlands,90,Full,2010,Draw,2
+10216,not bite,yellow card,referee,midfield,Netherlands,56,Full,2010,Loss,1
+10217,not bite,Suspended for several games,referee,off field,Netherlands,90,No Moon,2010,Win,2
+10218,not bite,Suspended for several games,forward,his team penalty area,Netherlands,74,Full,2010,Win,1
+10219,not bite,Not Caught,forward,opponent team penalty area,Netherlands,26,No Moon,2010,Win,1
+10220,bite,Red Card,referee,off field,Netherlands,84,Full,2010,Win,2
+10221,not bite,None,None,No location,Netherlands,90,Half,2010,Win,1
+10222,not bite,yellow card,goalkeeper,midfield,Netherlands,55,Full,2010,Win,2
+10223,not bite,None,None,No location,Netherlands,90,No Moon,2010,Win,0
+10224,not bite,Not Caught,spectator,off field,Netherlands,62,Full,2010,Loss,0
+10225,not bite,Not Caught,defender,his team penalty area,Netherlands,55,Full,2010,Loss,0
+10226,not bite,Suspended for several games,forward,off field,Netherlands,31,Full,2010,Win,0
+10227,not bite,None,None,No location,Netherlands,90,Full,2010,Win,0
+10228,not bite,None,None,No location,Netherlands,90,Full,2010,Loss,0
+10229,not bite,yellow card,forward,his team penalty area,Netherlands,8,Full,2010,Win,0
+10230,not bite,Suspended for several games,None,off field,Netherlands,35,Full,2010,Win,1
+10231,not bite,None,None,No location,Netherlands,90,Full,2010,Draw,2
+10232,not bite,Suspended for several games,journalist,off field,Netherlands,4,No Moon,2010,Win,0
+10233,not bite,Not Caught,forward,off field,Netherlands,53,Half,2010,Win,0
+10234,not bite,yellow card,journalist,off field,Netherlands,11,No Moon,2010,Win,3
+10235,not bite,None,spectator,off field,Netherlands,17,Half,2010,Loss,1
+10236,not bite,None,goalkeeper,opponent team penalty area,Netherlands,10,No Moon,2010,Draw,0
+10237,not bite,None,spectator,off field,Netherlands,79,Half,2010,Loss,0
+10238,not bite,None,None,No location,Netherlands,90,Full,2010,Win,0
+10239,not bite,Red Card,None,off field,Netherlands,84,Half,2010,Loss,3
+10240,bite,Not Caught,referee,his team penalty area,Netherlands,80,Full,2010,Win,1
+10241,not bite,Red Card,None,his team penalty area,Netherlands,66,Half,2010,Loss,1
+10242,not bite,None,defender,opponent team penalty area,Netherlands,50,Full,2010,Win,0
+10243,not bite,None,None,No location,Netherlands,90,Full,2010,Win,3
+10244,not bite,Yellow card,referee,midfield,Netherlands,17,Full,2010,Win,0
+10245,not bite,yellow card,midfielder,midfield,Netherlands,27,Half,2010,Win,1
+10246,not bite,Suspended for several games,referee,his team penalty area,Netherlands,69,Half,2010,Draw,2
+10247,not bite,yellow card,spectator,off field,Netherlands,73,Half,2010,Draw,1
+10248,not bite,None,forward,midfield,Netherlands,71,Full,2010,Win,2
+10249,not bite,yellow card,defender,off field,Netherlands,8,Half,2010,Win,1
+10250,not bite,None,None,No location,Netherlands,90,No Moon,2010,Draw,1
+10251,not bite,Suspended for several games,midfielder,his team penalty area,Netherlands,88,No Moon,2010,Loss,0
+10252,not bite,Not Caught,journalist,off field,Netherlands,51,Full,2010,Win,0
+10253,not bite,Not Caught,journalist,off field,Netherlands,73,Full,2010,Loss,1
+10254,not bite,Yellow card,defender,midfield,Netherlands,1,Full,2010,Win,0
+10255,not bite,None,None,No location,Netherlands,90,Half,2010,Loss,2
+10256,not bite,Not Caught,spectator,off field,Netherlands,36,Full,2010,Win,0
+10257,not bite,Not Caught,midfielder,his team penalty area,Netherlands,18,No Moon,2010,Draw,1
+10258,not bite,Not Caught,forward,opponent team penalty area,Netherlands,74,No Moon,2010,Loss,2
+10259,not bite,Red Card,forward,midfield,Netherlands,15,Half,2010,Draw,0
+10260,not bite,None,None,No location,Netherlands,90,No Moon,2010,Win,1
+10261,not bite,None,None,No location,Netherlands,90,Half,2010,Loss,0
+10262,not bite,Red Card,defender,off field,Netherlands,49,Full,2010,Win,2
+10263,bite,Red Card,forward,opponent team penalty area,Netherlands,80,Half,2010,Draw,3
+10264,not bite,Suspended for several games,midfielder,off field,Netherlands,4,No Moon,2010,Win,0
+10265,not bite,Yellow card,midfielder,his team penalty area,Netherlands,45,Half,2010,Win,0
+10266,bite,None,defender,opponent team penalty area,Netherlands,82,Full,2010,Win,2
+10267,not bite,Suspended for several games,None,midfield,Netherlands,19,No Moon,2010,Draw,1
+10268,not bite,Red Card,defender,midfield,Netherlands,74,No Moon,2010,Loss,0
+10269,not bite,Not Caught,goalkeeper,off field,Netherlands,44,Full,2010,Win,1
+10270,not bite,Suspended for several games,referee,midfield,Netherlands,28,Half,2010,Win,1
+10271,not bite,None,None,No location,Netherlands,90,Half,2010,Loss,1
+10272,not bite,Yellow card,None,opponent team penalty area,Netherlands,1,No Moon,2010,Win,2
+10273,not bite,Red Card,journalist,off field,Netherlands,63,Full,2010,Win,1
+10274,not bite,None,None,No location,Netherlands,90,Half,2010,Draw,1
+10275,bite,Not Caught,spectator,off field,Netherlands,81,Half,2010,Win,3
+10276,not bite,Suspended for several games,spectator,off field,Netherlands,74,Full,2010,Win,2
+10277,not bite,None,None,No location,Netherlands,90,Full,2010,Win,4
+10278,not bite,Yellow card,midfielder,his team penalty area,Netherlands,14,No Moon,2010,Win,0
+10279,not bite,Yellow card,forward,his team penalty area,Netherlands,46,Full,2010,Loss,0
+10280,bite,Yellow card,referee,opponent team penalty area,Netherlands,85,Half,2011,Win,1
+10281,not bite,Red Card,journalist,off field,Netherlands,4,No Moon,2011,Win,2
+10282,not bite,Suspended for several games,goalkeeper,opponent team penalty area,Netherlands,88,No Moon,2011,Win,0
+10283,not bite,Not Caught,referee,off field,Netherlands,39,Half,2011,Draw,2
+10284,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,48,Half,2011,Draw,2
+10285,not bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,66,No Moon,2011,Loss,1
+10286,not bite,Not Caught,forward,opponent team penalty area,Netherlands,45,Full,2011,Win,0
+10287,not bite,yellow card,midfielder,off field,Netherlands,51,Full,2011,Draw,1
+10288,bite,Suspended for several games,goalkeeper,off field,Netherlands,84,Full,2011,Win,0
+10289,not bite,Red Card,spectator,off field,Netherlands,63,Full,2011,Win,3
+10290,not bite,None,None,No location,Netherlands,90,Full,2011,Win,2
+10291,not bite,Suspended for several games,midfielder,midfield,Netherlands,33,Full,2011,Loss,0
+10292,not bite,Suspended for several games,defender,off field,Netherlands,10,Half,2011,Draw,0
+10293,not bite,Suspended for several games,spectator,off field,Netherlands,27,Full,2011,Win,1
+10294,bite,Not Caught,defender,off field,Netherlands,82,Half,2011,Loss,3
+10295,not bite,None,None,No location,Netherlands,90,Half,2011,Win,1
+10296,bite,Yellow card,journalist,off field,Netherlands,90,Half,2011,Win,1
+10297,not bite,Yellow card,goalkeeper,off field,Netherlands,3,No Moon,2011,Win,0
+10298,not bite,None,None,his team penalty area,Netherlands,0,No Moon,2011,Draw,1
+10299,not bite,None,None,No location,Netherlands,90,No Moon,2011,Win,1
+10300,not bite,Not Caught,journalist,off field,Netherlands,71,Half,2011,Win,0
+10301,not bite,None,None,No location,Netherlands,90,No Moon,2011,Win,1
+10302,bite,Suspended for several games,goalkeeper,opponent team penalty area,Netherlands,87,Half,2011,Loss,1
+10303,not bite,Suspended for several games,spectator,off field,Netherlands,22,No Moon,2011,Draw,0
+10304,not bite,None,spectator,off field,Netherlands,89,Half,2011,Win,1
+10305,not bite,yellow card,defender,opponent team penalty area,Netherlands,29,Full,2011,Loss,0
+10306,not bite,Suspended for several games,forward,opponent team penalty area,Netherlands,40,Full,2011,Loss,1
+10307,not bite,None,None,off field,Netherlands,83,No Moon,2011,Win,0
+10308,not bite,Suspended for several games,journalist,off field,Netherlands,32,Full,2011,Loss,3
+10309,not bite,Red Card,referee,midfield,Netherlands,68,Full,2011,Win,1
+10310,not bite,Not Caught,forward,his team penalty area,Netherlands,62,Half,2011,Draw,1
+10311,not bite,Red Card,spectator,off field,Netherlands,28,Full,2011,Loss,2
+10312,not bite,Not Caught,journalist,off field,Netherlands,40,Half,2011,Loss,1
+10313,not bite,None,goalkeeper,midfield,Netherlands,24,Half,2011,Loss,1
+10314,not bite,Not Caught,midfielder,his team penalty area,Netherlands,49,Full,2011,Draw,1
+10315,not bite,Red Card,forward,his team penalty area,Netherlands,77,No Moon,2011,Win,2
+10316,not bite,Yellow card,journalist,off field,Netherlands,63,No Moon,2011,Win,3
+10317,not bite,Suspended for several games,referee,his team penalty area,Netherlands,28,Half,2011,Draw,0
+10318,not bite,Suspended for several games,goalkeeper,his team penalty area,Netherlands,65,Full,2011,Draw,0
+10319,bite,Not Caught,forward,opponent team penalty area,Netherlands,81,No Moon,2011,Win,2
+10320,not bite,Yellow card,journalist,off field,Netherlands,75,Full,2011,Loss,1
+10321,not bite,None,None,No location,Netherlands,90,Half,2011,Draw,1
+10322,not bite,None,journalist,off field,Netherlands,45,Half,2011,Loss,1
+10323,not bite,Not Caught,journalist,off field,Netherlands,79,No Moon,2011,Loss,1
+10324,not bite,Yellow card,forward,opponent team penalty area,Netherlands,46,Full,2011,Win,2
+10325,not bite,Not Caught,midfielder,midfield,Netherlands,52,Full,2011,Draw,0
+10326,not bite,Suspended for several games,None,midfield,Netherlands,4,Half,2011,Win,2
+10327,not bite,yellow card,forward,off field,Netherlands,9,No Moon,2011,Loss,1
+10328,not bite,Suspended for several games,goalkeeper,off field,Netherlands,21,Full,2011,Win,1
+10329,not bite,Not Caught,forward,off field,Netherlands,90,No Moon,2011,Win,2
+10330,bite,Not Caught,spectator,off field,Netherlands,86,No Moon,2011,Draw,0
+10331,not bite,Red Card,referee,off field,Netherlands,88,Full,2011,Loss,0
+10332,not bite,Not Caught,forward,off field,Netherlands,39,No Moon,2011,Win,3
+10333,not bite,None,forward,off field,Netherlands,18,Half,2011,Win,2
+10334,not bite,None,None,No location,Netherlands,90,Full,2011,Draw,1
+10335,not bite,Red Card,defender,midfield,Netherlands,65,Full,2011,Draw,2
+10336,not bite,Yellow card,spectator,off field,Netherlands,75,Half,2011,Loss,2
+10337,not bite,Red Card,referee,his team penalty area,Netherlands,78,Full,2011,Win,1
+10338,not bite,Red Card,defender,midfield,Netherlands,4,Full,2011,Win,1
+10339,not bite,Yellow card,forward,midfield,Netherlands,13,Full,2011,Loss,1
+10340,not bite,Yellow card,goalkeeper,opponent team penalty area,Netherlands,41,Half,2011,Loss,1
+10341,not bite,None,forward,off field,Netherlands,53,No Moon,2011,Draw,2
+10342,not bite,None,journalist,off field,Netherlands,89,Half,2011,Draw,0
+10343,not bite,Suspended for several games,forward,off field,Netherlands,62,Half,2011,Draw,0
+10344,not bite,Yellow card,goalkeeper,opponent team penalty area,Netherlands,2,Half,2011,Loss,1
+10345,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,71,Half,2011,Draw,1
+10346,bite,None,goalkeeper,opponent team penalty area,Netherlands,83,Full,2011,Win,0
+10347,not bite,None,None,No location,Netherlands,90,No Moon,2011,Draw,1
+10348,bite,Yellow card,forward,midfield,Netherlands,88,Half,2011,Win,0
+10349,not bite,yellow card,spectator,off field,Netherlands,70,No Moon,2011,Win,0
+10350,not bite,yellow card,goalkeeper,midfield,Netherlands,54,No Moon,2011,Draw,1
+10351,not bite,yellow card,goalkeeper,off field,Netherlands,63,Full,2011,Win,0
+10352,not bite,Red Card,referee,midfield,Netherlands,80,Half,2011,Draw,1
+10353,not bite,Not Caught,forward,his team penalty area,Netherlands,77,Full,2011,Loss,1
+10354,not bite,None,None,No location,Netherlands,90,Half,2011,Loss,3
+10355,not bite,Suspended for several games,forward,opponent team penalty area,Netherlands,60,Full,2011,Win,2
+10356,not bite,Not Caught,midfielder,off field,Netherlands,27,Full,2011,Win,0
+10357,not bite,yellow card,journalist,off field,Netherlands,6,Full,2011,Win,1
+10358,not bite,Suspended for several games,spectator,off field,Netherlands,23,No Moon,2011,Loss,1
+10359,not bite,Suspended for several games,spectator,off field,Netherlands,13,Full,2011,Win,1
+10360,not bite,Red Card,None,opponent team penalty area,Netherlands,24,Full,2011,Win,0
+10361,bite,Not Caught,midfielder,opponent team penalty area,Netherlands,83,Full,2011,Draw,1
+10362,not bite,Red Card,None,opponent team penalty area,Netherlands,62,Half,2011,Win,1
+10363,not bite,yellow card,journalist,off field,Netherlands,59,Full,2011,Loss,0
+10364,not bite,Yellow card,midfielder,opponent team penalty area,Netherlands,30,Full,2011,Draw,0
+10365,not bite,Not Caught,forward,midfield,Netherlands,22,Full,2011,Loss,1
+10366,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,19,Half,2011,Win,0
+10367,not bite,None,None,No location,Netherlands,90,No Moon,2011,Win,2
+10368,bite,Yellow card,referee,off field,Netherlands,83,Half,2011,Win,2
+10369,not bite,Yellow card,defender,off field,Netherlands,35,Full,2011,Draw,2
+10370,not bite,Yellow card,defender,midfield,Netherlands,34,Half,2011,Win,0
+10371,not bite,None,journalist,off field,Netherlands,14,Full,2011,Loss,1
+10372,not bite,yellow card,spectator,off field,Netherlands,61,No Moon,2012,Loss,1
+10373,not bite,Yellow card,defender,his team penalty area,Netherlands,11,Half,2012,Loss,0
+10374,not bite,None,None,No location,Netherlands,90,Full,2012,Draw,2
+10375,not bite,Suspended for several games,spectator,off field,Netherlands,8,Full,2012,Win,2
+10376,not bite,None,referee,opponent team penalty area,Netherlands,66,Full,2012,Draw,0
+10377,not bite,Red Card,journalist,off field,Netherlands,51,No Moon,2012,Win,3
+10378,not bite,None,spectator,off field,Netherlands,90,Half,2012,Win,0
+10379,not bite,None,None,No location,Netherlands,90,Full,2012,Win,2
+10380,not bite,None,None,No location,Netherlands,90,No Moon,2012,Draw,0
+10381,not bite,None,None,No location,Netherlands,90,Half,2012,Win,0
+10382,not bite,Not Caught,spectator,off field,Netherlands,59,Full,2012,Draw,1
+10383,not bite,Not Caught,referee,off field,Netherlands,24,No Moon,2012,Draw,0
+10384,not bite,yellow card,journalist,off field,Netherlands,63,No Moon,2012,Loss,1
+10385,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,13,Full,2012,Win,1
+10386,not bite,Yellow card,midfielder,midfield,Netherlands,78,Half,2012,Draw,3
+10387,not bite,Not Caught,midfielder,midfield,Netherlands,6,No Moon,2012,Win,3
+10388,not bite,None,None,No location,Netherlands,90,Full,2012,Loss,1
+10389,not bite,Red Card,midfielder,off field,Netherlands,55,Full,2012,Win,2
+10390,not bite,Yellow card,defender,midfield,Netherlands,41,Full,2012,Loss,0
+10391,not bite,None,None,No location,Netherlands,90,No Moon,2012,Win,1
+10392,bite,Not Caught,journalist,off field,Netherlands,81,Full,2012,Win,2
+10393,not bite,None,None,No location,Netherlands,90,Half,2012,Draw,2
+10394,not bite,None,journalist,off field,Netherlands,72,Full,2012,Draw,1
+10395,not bite,None,None,No location,Netherlands,90,No Moon,2012,Draw,2
+10396,not bite,Not Caught,referee,opponent team penalty area,Netherlands,11,Half,2012,Loss,0
+10397,bite,Not Caught,None,midfield,Netherlands,87,Full,2012,Draw,1
+10398,not bite,Yellow card,midfielder,opponent team penalty area,Netherlands,10,Half,2012,Win,1
+10399,not bite,Not Caught,defender,midfield,Netherlands,34,Full,2012,Win,1
+10400,not bite,yellow card,midfielder,his team penalty area,Netherlands,46,Half,2012,Win,1
+10401,not bite,None,referee,his team penalty area,Netherlands,28,Full,2012,Draw,1
+10402,not bite,None,None,his team penalty area,Netherlands,6,No Moon,2012,Loss,0
+10403,not bite,Red Card,goalkeeper,his team penalty area,Netherlands,9,No Moon,2012,Draw,0
+10404,not bite,Not Caught,spectator,off field,Netherlands,28,No Moon,2012,Draw,3
+10405,not bite,Red Card,goalkeeper,midfield,Uruguay,39,Half,2012,Win,2
+10406,not bite,Red Card,forward,midfield,Netherlands,68,Half,2012,Win,2
+10407,not bite,Red Card,None,off field,England,48,Full,2012,Draw,2
+10408,not bite,None,None,No location,Uruguay,90,No Moon,2012,Draw,0
+10409,not bite,None,None,No location,Netherlands,90,No Moon,2012,Win,2
+10410,not bite,Yellow card,defender,his team penalty area,Uruguay,80,No Moon,2012,Win,1
+10411,not bite,Not Caught,spectator,off field,England,52,Half,2012,Win,1
+10412,not bite,Yellow card,forward,midfield,Netherlands,19,No Moon,2012,Loss,2
+10413,bite,Not Caught,referee,midfield,England,87,Full,2012,Win,3
+10414,not bite,None,None,No location,England,90,Full,2012,Win,0
+10415,not bite,Yellow card,spectator,off field,England,66,Half,2012,Win,2
+10416,not bite,None,None,No location,England,90,Full,2012,Win,1
+10417,not bite,Yellow card,referee,off field,England,13,No Moon,2012,Win,0
+10418,not bite,Suspended for several games,defender,midfield,Uruguay,83,No Moon,2012,Draw,1
+10419,not bite,None,None,No location,England,90,No Moon,2012,Win,1
+10420,not bite,Not Caught,forward,off field,England,88,Half,2012,Draw,1
+10421,not bite,Not Caught,journalist,off field,Uruguay,49,Full,2012,Draw,3
+10422,not bite,None,None,No location,Uruguay,90,Full,2012,Loss,0
+10423,not bite,None,None,No location,England,90,No Moon,2012,Win,1
+10424,not bite,yellow card,referee,opponent team penalty area,Uruguay,36,Full,2012,Win,0
+10425,not bite,Suspended for several games,journalist,off field,Netherlands,21,Full,2012,Win,2
+10426,not bite,Suspended for several games,defender,his team penalty area,Uruguay,82,Full,2012,Draw,0
+10427,not bite,Red Card,defender,opponent team penalty area,Netherlands,89,Half,2012,Win,2
+10428,not bite,None,None,No location,England,90,Half,2012,Loss,0
+10429,not bite,yellow card,referee,midfield,Uruguay,77,Half,2012,Draw,3
+10430,not bite,None,None,No location,England,90,Full,2012,Win,1
+10431,not bite,None,None,No location,Uruguay,90,Half,2012,Win,1
+10432,not bite,Yellow card,midfielder,off field,Netherlands,4,Full,2012,Draw,4
+10433,not bite,Not Caught,defender,midfield,Netherlands,29,Full,2012,Win,0
+10434,not bite,None,None,No location,England,90,Half,2012,Loss,0
+10435,bite,Yellow card,forward,midfield,Uruguay,2,Full,2012,Draw,1
+10436,not bite,Yellow card,journalist,off field,England,46,Full,2012,Win,2
+10437,not bite,Red Card,None,off field,Uruguay,57,Half,2012,Draw,1
+10438,not bite,None,None,No location,Uruguay,90,Full,2012,Loss,2
+10439,bite,Not Caught,forward,his team penalty area,England,80,Half,2012,Win,0
+10440,not bite,None,None,No location,Netherlands,90,Half,2012,Loss,2
+10441,not bite,Not Caught,journalist,off field,England,4,Full,2012,Draw,0
+10442,not bite,None,None,No location,Uruguay,90,No Moon,2012,Loss,2
+10443,not bite,None,defender,off field,England,59,No Moon,2012,Win,2
+10444,not bite,yellow card,spectator,off field,Netherlands,58,Full,2012,Loss,2
+10445,not bite,Suspended for several games,spectator,off field,England,81,No Moon,2012,Loss,2
+10446,bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,85,Full,2012,Draw,1
+10447,not bite,Yellow card,goalkeeper,off field,Uruguay,54,Full,2012,Win,1
+10448,bite,Suspended for several games,journalist,off field,Uruguay,29,Half,2012,Draw,3
+10449,not bite,None,None,No location,Netherlands,90,Half,2012,Win,2
+10450,not bite,Suspended for several games,spectator,off field,England,44,Full,2012,Loss,1
+10451,not bite,Not Caught,defender,opponent team penalty area,Netherlands,66,Full,2012,Loss,2
+10452,not bite,Suspended for several games,goalkeeper,midfield,Netherlands,26,No Moon,2012,Win,1
+10453,not bite,Suspended for several games,goalkeeper,midfield,Netherlands,86,Half,2012,Draw,3
+10454,not bite,Yellow card,goalkeeper,his team penalty area,Netherlands,90,Full,2012,Draw,1
+10455,not bite,Suspended for several games,None,midfield,Uruguay,27,No Moon,2012,Win,2
+10456,not bite,None,None,No location,Netherlands,90,Half,2012,Loss,1
+10457,not bite,Not Caught,forward,midfield,England,39,Full,2012,Win,1
+10458,not bite,yellow card,journalist,off field,Netherlands,88,Full,2012,Win,2
+10459,bite,Suspended for several games,midfielder,off field,England,82,No Moon,2012,Loss,2
+10460,not bite,None,None,No location,Uruguay,90,No Moon,2012,Win,0
+10461,not bite,Yellow card,forward,his team penalty area,Netherlands,46,Full,2012,Draw,2
+10462,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,64,No Moon,2013,Win,2
+10463,bite,Suspended for several games,referee,his team penalty area,England,81,No Moon,2013,Win,0
+10464,not bite,None,None,No location,Netherlands,90,Full,2013,Draw,0
+10465,bite,None,spectator,off field,England,83,Half,2013,Loss,1
+10466,not bite,Yellow card,midfielder,opponent team penalty area,Uruguay,11,No Moon,2013,Loss,2
+10467,not bite,yellow card,defender,off field,England,36,Full,2013,Draw,3
+10468,not bite,yellow card,midfielder,opponent team penalty area,England,70,Full,2013,Win,0
+10469,bite,Suspended for several games,None,his team penalty area,Uruguay,21,Full,2013,Draw,1
+10470,not bite,Red Card,midfielder,midfield,Uruguay,71,Full,2013,Draw,0
+10471,not bite,Yellow card,journalist,off field,England,13,No Moon,2013,Draw,2
+10472,not bite,Suspended for several games,spectator,off field,Uruguay,3,Full,2013,Loss,2
+10473,bite,Red Card,midfielder,his team penalty area,Uruguay,88,Half,2013,Draw,2
+10474,not bite,None,None,No location,Netherlands,90,Full,2013,Win,0
+10475,not bite,Suspended for several games,forward,off field,England,59,No Moon,2013,Draw,3
+10476,not bite,Yellow card,forward,his team penalty area,England,19,Half,2013,Win,0
+10477,not bite,None,None,No location,Netherlands,90,No Moon,2013,Draw,0
+10478,not bite,Red Card,referee,off field,Netherlands,23,Full,2013,Loss,0
+10479,not bite,None,None,No location,Uruguay,90,Full,2013,Win,1
+10480,not bite,Red Card,goalkeeper,midfield,England,31,Full,2013,Win,0
+10481,not bite,Red Card,goalkeeper,off field,Netherlands,89,Full,2013,Win,1
+10482,not bite,Suspended for several games,spectator,off field,Netherlands,57,Full,2013,Win,2
+10483,bite,Suspended for several games,defender,opponent team penalty area,Uruguay,37,Full,2013,Draw,0
+10484,bite,Not Caught,journalist,off field,Netherlands,82,Half,2013,Win,0
+10485,not bite,Suspended for several games,spectator,off field,Netherlands,62,No Moon,2013,Draw,2
+10486,not bite,Not Caught,spectator,off field,England,71,Half,2013,Win,0
+10487,not bite,Yellow card,journalist,off field,England,40,Half,2013,Win,3
+10488,not bite,None,None,No location,England,90,No Moon,2013,Win,2
+10489,not bite,None,journalist,off field,Netherlands,16,No Moon,2013,Draw,2
+10490,bite,Yellow card,journalist,off field,Uruguay,87,No Moon,2013,Win,2
+10491,not bite,Red Card,midfielder,midfield,Uruguay,15,Half,2013,Win,2
+10492,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,72,No Moon,2013,Loss,0
+10493,bite,Red Card,goalkeeper,his team penalty area,Netherlands,88,Half,2013,Draw,0
+10494,not bite,None,None,No location,Netherlands,90,Half,2013,Draw,0
+10495,not bite,Suspended for several games,referee,his team penalty area,Uruguay,83,Half,2013,Win,0
+10496,bite,Yellow card,forward,off field,Uruguay,38,Full,2013,Loss,1
+10497,not bite,Yellow card,referee,opponent team penalty area,Uruguay,56,Half,2013,Draw,0
+10498,bite,Red Card,defender,his team penalty area,Uruguay,62,No Moon,2013,Win,1
+10499,not bite,Yellow card,None,off field,Uruguay,21,No Moon,2013,Draw,2
+10500,not bite,None,None,No location,Uruguay,90,Full,2013,Win,1
+10501,not bite,None,None,No location,Uruguay,90,Half,2013,Win,2
+10502,not bite,Yellow card,journalist,off field,Netherlands,54,No Moon,2013,Win,0
+10503,not bite,Suspended for several games,journalist,off field,England,51,Half,2013,Win,2
+10504,not bite,Suspended for several games,spectator,off field,Netherlands,51,Full,2013,Loss,1
+10505,not bite,Red Card,goalkeeper,opponent team penalty area,England,11,Full,2013,Win,0
+10506,not bite,Yellow card,referee,opponent team penalty area,Uruguay,3,No Moon,2013,Win,1
+10507,not bite,Red Card,midfielder,opponent team penalty area,Netherlands,67,Half,2013,Loss,0
+10508,not bite,Suspended for several games,journalist,off field,Netherlands,74,Full,2013,Win,2
+10509,not bite,Red Card,spectator,off field,England,81,Half,2013,Win,1
+10510,not bite,None,journalist,off field,Uruguay,29,Full,2013,Loss,1
+10511,not bite,None,None,No location,Uruguay,90,Half,2013,Loss,1
+10512,not bite,None,None,No location,Uruguay,90,Half,2013,Draw,3
+10513,not bite,Red Card,journalist,off field,England,18,Full,2013,Loss,0
+10514,bite,Red Card,spectator,off field,Uruguay,10,Full,2013,Win,0
+10515,not bite,None,None,No location,Uruguay,90,Full,2013,Loss,3
+10516,not bite,Suspended for several games,forward,his team penalty area,England,83,Full,2013,Win,1
+10517,not bite,Yellow card,journalist,off field,Netherlands,9,No Moon,2013,Win,2
+10518,not bite,Red Card,forward,off field,England,52,Full,2013,Win,1
+10519,bite,Red Card,defender,opponent team penalty area,Netherlands,87,Half,2013,Win,1
+10520,not bite,Suspended for several games,defender,midfield,Netherlands,3,Half,2013,Win,1
+10521,not bite,Not Caught,spectator,off field,Netherlands,55,Full,2013,Loss,1
+10522,not bite,yellow card,journalist,off field,England,41,No Moon,2013,Win,3
+10523,not bite,Yellow card,None,off field,England,61,Full,2013,Win,2
+10524,not bite,Not Caught,spectator,off field,Netherlands,64,No Moon,2013,Draw,1
+10525,not bite,None,None,No location,England,90,Full,2013,Loss,1
+10526,not bite,None,None,No location,Netherlands,90,Full,2013,Win,1
+10527,not bite,Yellow card,midfielder,opponent team penalty area,Netherlands,43,Full,2013,Draw,2
+10528,not bite,Red Card,goalkeeper,off field,England,59,No Moon,2013,Draw,1
+10529,not bite,Yellow card,goalkeeper,opponent team penalty area,England,46,No Moon,2013,Loss,1
+10530,bite,Suspended for several games,journalist,off field,Netherlands,82,No Moon,2013,Loss,0
+10531,not bite,Not Caught,None,midfield,Uruguay,89,Half,2013,Loss,0
+10532,not bite,Yellow card,referee,opponent team penalty area,Netherlands,87,Full,2013,Loss,0
+10533,not bite,Not Caught,referee,off field,Netherlands,18,Full,2013,Draw,0
+10534,not bite,Suspended for several games,midfielder,off field,Netherlands,37,Half,2013,Win,3
+10535,not bite,Not Caught,spectator,off field,Netherlands,59,No Moon,2013,Draw,0
+10536,not bite,None,None,No location,England,90,Full,2013,Win,2
+10537,not bite,yellow card,goalkeeper,opponent team penalty area,Netherlands,72,Full,2013,Win,2
+10538,not bite,yellow card,referee,off field,England,21,No Moon,2013,Win,3
+10539,not bite,None,None,No location,Uruguay,90,Full,2013,Loss,1
+10540,not bite,Not Caught,midfielder,off field,England,81,Half,2013,Win,1
+10541,not bite,Yellow card,referee,opponent team penalty area,England,50,Half,2013,Win,1
+10542,not bite,Yellow card,None,off field,Netherlands,49,Half,2013,Draw,0
+10543,not bite,Suspended for several games,journalist,off field,Netherlands,31,Half,2013,Loss,2
+10544,not bite,None,None,No location,England,90,No Moon,2013,Draw,0
+10545,bite,Yellow card,spectator,off field,England,88,No Moon,2013,Win,1
+10546,not bite,Red Card,forward,opponent team penalty area,England,28,No Moon,2013,Draw,1
+10547,not bite,yellow card,None,opponent team penalty area,England,37,No Moon,2013,Win,0
+10548,not bite,None,None,his team penalty area,England,40,Half,2013,Win,1
+10549,not bite,None,defender,midfield,Netherlands,89,Half,2013,Draw,0
+10550,not bite,None,None,No location,Uruguay,90,No Moon,2013,Loss,1
+10551,not bite,None,None,his team penalty area,Uruguay,25,Full,2013,Loss,4
+10552,not bite,yellow card,journalist,off field,Uruguay,36,Half,2014,Loss,1
+10553,not bite,Yellow card,defender,midfield,England,32,Half,2014,Loss,1
+10554,bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,87,No Moon,2014,Loss,0
+10555,not bite,yellow card,midfielder,off field,Uruguay,24,Half,2014,Loss,3
+10556,not bite,Suspended for several games,referee,off field,England,37,No Moon,2014,Win,1
+10557,not bite,Not Caught,spectator,off field,Uruguay,19,Full,2014,Draw,2
+10558,not bite,Not Caught,goalkeeper,midfield,England,30,Half,2014,Win,1
+10559,bite,Not Caught,defender,off field,Uruguay,47,Half,2014,Win,0
+10560,not bite,None,None,No location,England,90,Full,2014,Loss,1
+10561,bite,None,journalist,off field,Netherlands,83,Full,2014,Loss,0
+10562,not bite,Suspended for several games,forward,opponent team penalty area,England,35,Half,2014,Win,3
+10563,not bite,Not Caught,spectator,off field,Netherlands,68,No Moon,2014,Loss,0
+10564,bite,Not Caught,referee,opponent team penalty area,England,81,No Moon,2014,Loss,1
+10565,not bite,None,None,No location,Netherlands,90,Half,2014,Win,0
+10566,not bite,Red Card,journalist,off field,England,85,No Moon,2014,Win,1
+10567,not bite,Not Caught,spectator,off field,Uruguay,58,Half,2014,Draw,3
+10568,not bite,Not Caught,defender,off field,Netherlands,75,No Moon,2014,Win,1
+10569,not bite,Yellow card,journalist,off field,Netherlands,38,No Moon,2014,Win,1
+10570,not bite,Yellow card,goalkeeper,his team penalty area,Uruguay,74,No Moon,2014,Win,1
+10571,not bite,Not Caught,journalist,off field,England,58,Full,2014,Draw,0
+10572,not bite,Red Card,goalkeeper,midfield,Uruguay,8,Full,2014,Win,1
+10573,not bite,Yellow card,referee,his team penalty area,Uruguay,89,Half,2014,Win,0
+10574,not bite,Yellow card,forward,opponent team penalty area,England,59,Full,2014,Draw,1
+10575,not bite,Not Caught,forward,off field,Netherlands,86,No Moon,2014,Win,1
+10576,not bite,Not Caught,midfielder,opponent team penalty area,England,5,Full,2014,Win,0
+10577,not bite,Red Card,spectator,off field,Netherlands,16,Full,2014,Win,1
+10578,bite,Red Card,forward,opponent team penalty area,Netherlands,88,Half,2014,Loss,1
+10579,not bite,Red Card,midfielder,midfield,Uruguay,39,No Moon,2014,Loss,3
+10580,not bite,Yellow card,referee,midfield,England,72,Half,2014,Win,0
+10581,not bite,yellow card,defender,opponent team penalty area,Uruguay,70,Full,2014,Win,3
+10582,not bite,Yellow card,forward,opponent team penalty area,Uruguay,53,Half,2014,Loss,1
+10583,not bite,None,None,No location,Uruguay,90,Half,2014,Draw,1
+10584,bite,Suspended for several games,None,opponent team penalty area,Netherlands,87,No Moon,2014,Loss,1
