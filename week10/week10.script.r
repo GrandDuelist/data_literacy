@@ -2,12 +2,13 @@
 install.packages('randomForest',dependencies = T)
 install.packages('rpart',dependencies = T)
 install.packages('MASS',dependencies = T)
+install.packages('rpart.plot',dependencies = T)
 
 #import your pacakge before using it
 library(randomForest)
 library(MASS)
 library(rpart)
-
+library(rpart.plot)
 #import training and testing data
 lou_training <- read.csv("~/workspace/data_literacy/week10/lou_training.csv")
 lou_testing_nolabel <- read.csv("~/workspace/data_literacy/week10/lou_testing_nolabel.csv")
@@ -16,7 +17,7 @@ lou_testing_nolabel <- read.csv("~/workspace/data_literacy/week10/lou_testing_no
 lou.tree <- rpart(INCIDENT ~ PENALTY + VICTIM + LOCATION +COUNTRY + RESULT + GOALS + YEAR,data=lou_training)
 lou.forest <- randomForest(INCIDENT ~ PENALTY + VICTIM + LOCATION +COUNTRY + RESULT + GOALS + YEAR,data=lou_training)
 lou.lda <- lda(INCIDENT ~ PENALTY + VICTIM + LOCATION +COUNTRY + RESULT + GOALS + YEAR,data=lou_training)
-
+lou.tree <- rpart(PENALTY ~ LOCATION,data=lou_training)
 
 # Now use these *models* to predict the labels in the testing data (i.e. predict whether or not a bite incident)
 

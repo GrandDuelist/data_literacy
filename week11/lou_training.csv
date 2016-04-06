@@ -1,0 +1,1891 @@
+ID,INCIDENT,PENALTY,VICTIM,LOCATION,COUNTRY,WHEN,MOON_NIGHT_BEFORE,YEAR,RESULT,GOALS
+1,not bite,Not Caught,midfielder,opponent team penalty area,Uruguay,66,No Moon,1992,Win,2
+2,not bite,Not Caught,midfielder,midfield,Uruguay,90,Full,1992,Loss,1
+3,not bite,Red Card,spectator,off field,Uruguay,9,Half,1992,Loss,0
+4,not bite,None,None,No location,Uruguay,90,Half,1992,Loss,3
+5,not bite,Yellow card,referee,midfield,Uruguay,64,No Moon,1992,Draw,1
+6,not bite,Red Card,journalist,off field,Uruguay,36,Half,1992,Loss,2
+7,bite,Suspended for several games,spectator,off field,Uruguay,48,Half,1992,Win,0
+8,not bite,None,None,No location,Uruguay,90,Half,1992,Draw,1
+9,not bite,None,None,opponent team penalty area,Uruguay,64,Half,1992,Win,1
+10,not bite,Not Caught,referee,his team penalty area,Uruguay,49,Full,1992,Draw,0
+11,not bite,None,None,No location,Uruguay,90,Full,1992,Win,2
+12,not bite,yellow card,defender,midfield,Uruguay,34,Half,1992,Win,1
+13,not bite,Suspended for several games,referee,his team penalty area,Uruguay,69,No Moon,1992,Win,0
+14,bite,None,referee,opponent team penalty area,Uruguay,88,Half,1992,Win,0
+15,not bite,yellow card,forward,opponent team penalty area,Uruguay,46,Half,1992,Loss,0
+16,bite,None,journalist,off field,Uruguay,80,No Moon,1992,Loss,0
+17,not bite,Suspended for several games,forward,his team penalty area,Uruguay,89,Full,1992,Win,1
+18,not bite,yellow card,midfielder,opponent team penalty area,Uruguay,7,No Moon,1992,Win,2
+19,bite,Yellow card,goalkeeper,midfield,Uruguay,51,Full,1992,Win,2
+20,not bite,None,None,No location,Uruguay,90,No Moon,1992,Win,1
+21,bite,Yellow card,defender,his team penalty area,Uruguay,88,No Moon,1992,Loss,4
+22,not bite,None,goalkeeper,his team penalty area,Uruguay,62,Half,1992,Win,2
+23,not bite,None,None,No location,Uruguay,90,Full,1992,Win,0
+24,not bite,None,None,No location,Uruguay,90,No Moon,1992,Win,0
+25,not bite,None,None,No location,Uruguay,90,No Moon,1992,Draw,0
+26,bite,Not Caught,forward,opponent team penalty area,Uruguay,89,Full,1992,Win,2
+27,not bite,None,None,No location,Uruguay,90,Full,1992,Loss,3
+28,not bite,None,None,No location,Uruguay,90,Full,1992,Win,2
+29,bite,Not Caught,midfielder,his team penalty area,Uruguay,80,Full,1992,Win,2
+30,not bite,Not Caught,spectator,off field,Uruguay,55,No Moon,1992,Draw,2
+31,not bite,Yellow card,referee,his team penalty area,Uruguay,66,Full,1992,Draw,2
+32,not bite,None,None,No location,Uruguay,90,Full,1992,Draw,2
+33,not bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,66,Half,1992,Win,0
+34,not bite,None,None,No location,Uruguay,90,Full,1992,Loss,1
+35,bite,None,referee,off field,Uruguay,63,Full,1992,Win,1
+36,not bite,yellow card,referee,opponent team penalty area,Uruguay,40,No Moon,1992,Draw,2
+37,not bite,Suspended for several games,referee,off field,Uruguay,90,Half,1992,Win,0
+38,not bite,Yellow card,journalist,off field,Uruguay,52,Half,1992,Draw,0
+39,not bite,Red Card,midfielder,midfield,Uruguay,67,Half,1992,Win,1
+40,not bite,Not Caught,spectator,off field,Uruguay,71,Half,1992,Win,0
+41,not bite,Yellow card,defender,his team penalty area,Uruguay,70,Full,1992,Win,2
+42,not bite,Not Caught,journalist,off field,Uruguay,29,Half,1992,Win,0
+43,not bite,Not Caught,spectator,off field,Uruguay,24,No Moon,1992,Win,2
+44,not bite,None,None,No location,Uruguay,90,Full,1992,Loss,2
+45,not bite,None,None,opponent team penalty area,Uruguay,62,Full,1992,Win,1
+46,not bite,Red Card,journalist,off field,Uruguay,4,Half,1992,Win,1
+47,not bite,None,None,No location,Uruguay,90,No Moon,1992,Draw,1
+48,bite,Yellow card,midfielder,midfield,Uruguay,83,Full,1992,Win,1
+49,not bite,yellow card,journalist,off field,Uruguay,82,Half,1992,Draw,0
+50,bite,Suspended for several games,journalist,off field,Uruguay,26,Full,1992,Win,1
+51,bite,None,defender,off field,Uruguay,17,Half,1992,Draw,0
+52,not bite,None,None,No location,Uruguay,90,Full,1993,Loss,2
+53,bite,None,forward,midfield,Uruguay,81,Half,1993,Win,1
+54,not bite,None,None,No location,Uruguay,90,Full,1993,Win,1
+55,not bite,Suspended for several games,defender,off field,Uruguay,71,Full,1993,Draw,2
+56,not bite,None,None,No location,Uruguay,90,Half,1993,Loss,2
+57,not bite,yellow card,referee,midfield,Uruguay,72,No Moon,1993,Win,2
+58,not bite,Yellow card,midfielder,opponent team penalty area,Uruguay,27,No Moon,1993,Loss,0
+59,bite,Not Caught,midfielder,off field,Uruguay,84,No Moon,1993,Loss,2
+60,bite,Yellow card,referee,midfield,Uruguay,86,Full,1993,Loss,0
+61,bite,Not Caught,midfielder,his team penalty area,Uruguay,26,Half,1993,Win,0
+62,bite,Yellow card,forward,off field,Uruguay,73,Half,1993,Draw,3
+63,not bite,Not Caught,spectator,off field,Uruguay,50,Half,1993,Draw,2
+64,bite,None,referee,off field,Uruguay,81,No Moon,1993,Draw,1
+65,not bite,Suspended for several games,goalkeeper,off field,Uruguay,63,Half,1993,Win,2
+66,not bite,None,None,No location,Uruguay,90,Half,1993,Win,2
+67,not bite,Not Caught,goalkeeper,opponent team penalty area,Uruguay,79,Half,1993,Loss,1
+68,not bite,Not Caught,journalist,off field,Uruguay,23,No Moon,1993,Win,0
+69,bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,29,Half,1993,Win,3
+70,not bite,Red Card,defender,midfield,Uruguay,57,Full,1993,Win,1
+71,not bite,Not Caught,defender,his team penalty area,Uruguay,17,Full,1993,Loss,0
+72,not bite,yellow card,spectator,off field,Uruguay,9,No Moon,1993,Win,2
+73,bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,87,No Moon,1993,Loss,2
+74,not bite,Suspended for several games,journalist,off field,Uruguay,46,No Moon,1993,Loss,1
+75,not bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,41,No Moon,1993,Draw,1
+76,not bite,Red Card,spectator,off field,Uruguay,30,Half,1993,Loss,1
+77,not bite,Yellow card,spectator,off field,Uruguay,15,Full,1993,Win,1
+78,not bite,yellow card,forward,his team penalty area,Uruguay,21,No Moon,1993,Win,1
+79,not bite,Red Card,journalist,off field,Uruguay,62,Half,1993,Loss,2
+80,not bite,None,None,No location,Uruguay,90,Half,1993,Loss,0
+81,bite,Suspended for several games,midfielder,his team penalty area,Uruguay,64,Half,1993,Win,0
+82,not bite,None,None,No location,Uruguay,90,No Moon,1993,Win,1
+83,not bite,None,None,No location,Uruguay,90,Half,1993,Loss,1
+84,not bite,None,None,No location,Uruguay,90,Full,1993,Draw,2
+85,not bite,Yellow card,defender,midfield,Uruguay,19,No Moon,1993,Win,2
+86,not bite,None,None,No location,Uruguay,90,Half,1993,Win,2
+87,not bite,None,None,No location,Uruguay,90,Half,1993,Draw,2
+88,not bite,Yellow card,referee,opponent team penalty area,Uruguay,88,No Moon,1993,Win,0
+89,bite,None,None,his team penalty area,Uruguay,20,No Moon,1993,Win,0
+90,bite,Suspended for several games,journalist,off field,Uruguay,81,No Moon,1993,Win,2
+91,not bite,None,None,No location,Uruguay,90,Half,1993,Loss,1
+92,bite,None,referee,opponent team penalty area,Uruguay,20,Half,1993,Win,2
+93,not bite,yellow card,journalist,off field,Uruguay,30,Half,1993,Win,3
+94,not bite,Red Card,defender,midfield,Uruguay,69,Half,1993,Win,2
+95,not bite,None,None,No location,Uruguay,90,No Moon,1993,Win,1
+96,not bite,Not Caught,spectator,off field,Uruguay,53,Half,1993,Win,1
+97,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,35,Full,1993,Loss,0
+98,not bite,yellow card,midfielder,opponent team penalty area,Uruguay,24,Full,1993,Loss,2
+99,not bite,Suspended for several games,defender,opponent team penalty area,Uruguay,39,Full,1993,Draw,1
+100,not bite,Red Card,forward,his team penalty area,Uruguay,17,No Moon,1993,Win,0
+101,bite,Not Caught,None,his team penalty area,Uruguay,2,Half,1993,Loss,2
+102,bite,Red Card,defender,his team penalty area,Uruguay,81,Full,1993,Draw,1
+103,not bite,Red Card,None,opponent team penalty area,Uruguay,4,Half,1993,Draw,1
+104,not bite,Not Caught,midfielder,midfield,Uruguay,55,Full,1993,Draw,0
+105,not bite,Red Card,spectator,off field,Uruguay,56,No Moon,1993,Win,1
+106,not bite,Yellow card,goalkeeper,midfield,Uruguay,86,Half,1993,Win,2
+107,not bite,None,None,No location,Uruguay,90,Full,1993,Draw,1
+108,bite,None,None,opponent team penalty area,Uruguay,82,Full,1993,Win,0
+109,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,61,Half,1993,Draw,3
+110,not bite,Suspended for several games,spectator,off field,Uruguay,19,Full,1993,Draw,2
+111,not bite,None,None,No location,Uruguay,90,No Moon,1993,Draw,1
+112,not bite,Not Caught,defender,opponent team penalty area,Uruguay,90,Full,1993,Loss,2
+113,not bite,Suspended for several games,defender,his team penalty area,Uruguay,1,Full,1993,Win,2
+114,not bite,Suspended for several games,defender,off field,Uruguay,71,Full,1993,Loss,2
+115,not bite,Yellow card,midfielder,off field,Uruguay,15,No Moon,1993,Draw,1
+116,not bite,Yellow card,None,opponent team penalty area,Uruguay,61,Full,1993,Loss,0
+117,not bite,Red Card,referee,midfield,Uruguay,0,Half,1993,Draw,3
+118,not bite,Suspended for several games,goalkeeper,off field,Uruguay,20,No Moon,1993,Loss,1
+119,not bite,yellow card,spectator,off field,Uruguay,75,No Moon,1993,Win,0
+120,not bite,yellow card,spectator,off field,Uruguay,44,Half,1993,Loss,1
+121,not bite,Yellow card,forward,off field,Uruguay,51,Full,1993,Win,1
+122,not bite,Red Card,defender,his team penalty area,Uruguay,71,No Moon,1993,Win,1
+123,not bite,Not Caught,defender,off field,Uruguay,7,Half,1993,Loss,0
+124,not bite,yellow card,spectator,off field,Uruguay,89,No Moon,1993,Loss,0
+125,not bite,Red Card,referee,midfield,Uruguay,24,Full,1993,Loss,4
+126,bite,Suspended for several games,defender,opponent team penalty area,Uruguay,44,No Moon,1993,Draw,2
+127,bite,Suspended for several games,journalist,off field,Uruguay,86,No Moon,1993,Win,0
+128,not bite,None,None,No location,Uruguay,90,No Moon,1993,Draw,1
+129,bite,Yellow card,defender,midfield,Uruguay,43,Full,1994,Win,1
+130,not bite,Not Caught,spectator,off field,Uruguay,87,No Moon,1994,Win,2
+131,not bite,None,midfielder,off field,Uruguay,60,No Moon,1994,Win,1
+132,bite,Not Caught,forward,opponent team penalty area,Uruguay,37,Full,1994,Loss,1
+133,not bite,yellow card,goalkeeper,midfield,Uruguay,27,No Moon,1994,Draw,0
+134,not bite,yellow card,spectator,off field,Uruguay,75,Full,1994,Loss,0
+135,not bite,Suspended for several games,referee,opponent team penalty area,Uruguay,66,Full,1994,Win,1
+136,bite,Suspended for several games,referee,off field,Uruguay,84,Full,1994,Win,1
+137,not bite,Yellow card,goalkeeper,off field,Uruguay,25,Half,1994,Win,1
+138,bite,Not Caught,goalkeeper,his team penalty area,Uruguay,75,Full,1994,Win,1
+139,bite,Red Card,spectator,off field,Uruguay,80,Half,1994,Draw,1
+140,bite,Yellow card,journalist,off field,Uruguay,87,Half,1994,Win,0
+141,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,15,Full,1994,Loss,0
+142,not bite,yellow card,forward,his team penalty area,Uruguay,59,Half,1994,Draw,1
+143,not bite,Red Card,midfielder,off field,Uruguay,2,Half,1994,Win,2
+144,not bite,Not Caught,forward,off field,Uruguay,42,No Moon,1994,Loss,1
+145,bite,Red Card,None,midfield,Uruguay,33,Full,1994,Draw,2
+146,not bite,None,None,No location,Uruguay,90,Half,1994,Win,0
+147,bite,Suspended for several games,forward,opponent team penalty area,Uruguay,84,Half,1994,Draw,0
+148,not bite,Red Card,midfielder,his team penalty area,Uruguay,83,Half,1994,Loss,1
+149,not bite,None,None,No location,Uruguay,90,Half,1994,Win,1
+150,not bite,None,defender,his team penalty area,Uruguay,20,Full,1994,Win,2
+151,not bite,Red Card,spectator,off field,Uruguay,84,Half,1994,Loss,0
+152,not bite,yellow card,forward,his team penalty area,Uruguay,1,Full,1994,Win,3
+153,not bite,None,None,No location,Uruguay,90,No Moon,1994,Loss,0
+154,bite,Red Card,spectator,off field,Uruguay,82,No Moon,1994,Draw,0
+155,not bite,Suspended for several games,spectator,off field,Uruguay,71,No Moon,1994,Win,0
+156,not bite,None,None,No location,Uruguay,90,Half,1994,Win,2
+157,not bite,yellow card,defender,off field,Uruguay,43,Half,1994,Win,0
+158,bite,Suspended for several games,midfielder,his team penalty area,Uruguay,88,Full,1994,Loss,0
+159,not bite,yellow card,defender,his team penalty area,Uruguay,57,Full,1994,Win,0
+160,not bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,24,Full,1994,Loss,0
+161,not bite,None,goalkeeper,opponent team penalty area,Uruguay,56,No Moon,1994,Loss,2
+162,bite,Suspended for several games,spectator,off field,Uruguay,32,No Moon,1994,Draw,1
+163,not bite,None,None,No location,Uruguay,90,Half,1994,Loss,0
+164,not bite,None,None,No location,Uruguay,90,Half,1994,Win,1
+165,not bite,Red Card,referee,off field,Uruguay,16,Full,1994,Win,2
+166,not bite,None,None,No location,Uruguay,90,Full,1994,Win,1
+167,bite,Yellow card,spectator,off field,Uruguay,89,Full,1994,Win,0
+168,not bite,None,None,No location,Uruguay,90,Half,1994,Draw,1
+169,not bite,None,None,No location,Uruguay,90,Full,1994,Loss,2
+170,bite,Not Caught,forward,opponent team penalty area,Uruguay,81,Full,1994,Loss,0
+171,bite,Not Caught,journalist,off field,Uruguay,81,No Moon,1994,Win,1
+172,not bite,Yellow card,forward,off field,Uruguay,88,No Moon,1994,Draw,2
+173,not bite,None,None,No location,Uruguay,90,Full,1994,Loss,1
+174,not bite,Not Caught,referee,opponent team penalty area,Uruguay,46,Full,1994,Loss,0
+175,not bite,Not Caught,midfielder,his team penalty area,Uruguay,29,No Moon,1994,Win,0
+176,not bite,Yellow card,referee,his team penalty area,Uruguay,1,No Moon,1994,Draw,2
+177,not bite,yellow card,referee,his team penalty area,Uruguay,6,No Moon,1994,Win,0
+178,not bite,Yellow card,defender,off field,Uruguay,11,Half,1994,Draw,0
+179,not bite,yellow card,midfielder,his team penalty area,Uruguay,76,Full,1994,Draw,2
+180,bite,Red Card,goalkeeper,off field,Uruguay,90,Full,1994,Loss,0
+181,not bite,yellow card,referee,midfield,Uruguay,83,No Moon,1994,Win,1
+182,not bite,Yellow card,journalist,off field,Uruguay,41,Full,1994,Win,0
+183,not bite,yellow card,goalkeeper,opponent team penalty area,Uruguay,30,Full,1994,Win,1
+184,not bite,Not Caught,referee,midfield,Uruguay,77,No Moon,1994,Draw,1
+185,not bite,None,None,No location,Uruguay,90,Half,1994,Win,1
+186,not bite,Suspended for several games,defender,his team penalty area,Uruguay,1,Half,1994,Win,2
+187,not bite,None,spectator,off field,Uruguay,75,No Moon,1994,Win,0
+188,bite,Red Card,journalist,off field,Uruguay,65,Full,1994,Loss,2
+189,not bite,yellow card,None,opponent team penalty area,Uruguay,27,Full,1994,Win,2
+190,not bite,yellow card,goalkeeper,his team penalty area,Uruguay,55,Full,1994,Draw,1
+191,not bite,Suspended for several games,midfielder,his team penalty area,Uruguay,82,Full,1994,Loss,1
+192,not bite,None,None,No location,Uruguay,90,Full,1994,Win,2
+193,not bite,Not Caught,journalist,off field,Uruguay,21,Half,1994,Draw,0
+194,not bite,Yellow card,forward,opponent team penalty area,Uruguay,3,Half,1994,Win,2
+195,not bite,None,None,No location,Uruguay,90,Full,1994,Draw,1
+196,not bite,None,None,No location,Uruguay,90,Half,1994,Win,3
+197,bite,Red Card,forward,opponent team penalty area,Uruguay,88,Full,1994,Win,1
+198,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,6,No Moon,1994,Draw,0
+199,not bite,Red Card,midfielder,his team penalty area,Uruguay,88,No Moon,1994,Win,0
+200,not bite,yellow card,spectator,off field,Uruguay,35,Half,1994,Loss,3
+201,bite,Red Card,None,opponent team penalty area,Uruguay,86,Full,1994,Draw,0
+202,bite,Red Card,forward,off field,Uruguay,83,Full,1994,Loss,1
+203,not bite,yellow card,None,off field,Uruguay,23,No Moon,1994,Win,2
+204,not bite,Not Caught,goalkeeper,opponent team penalty area,Uruguay,86,Full,1994,Win,1
+205,not bite,Not Caught,forward,off field,Uruguay,4,Full,1994,Draw,3
+206,not bite,Suspended for several games,defender,opponent team penalty area,Uruguay,29,Half,1994,Win,2
+207,bite,Red Card,journalist,off field,Uruguay,83,Half,1994,Draw,1
+208,not bite,None,None,No location,Uruguay,90,Full,1994,Loss,0
+209,not bite,yellow card,forward,off field,Uruguay,89,Half,1994,Draw,0
+210,not bite,yellow card,spectator,off field,Uruguay,27,Half,1994,Loss,1
+211,not bite,Suspended for several games,referee,midfield,Uruguay,12,No Moon,1994,Draw,1
+212,not bite,Yellow card,None,his team penalty area,Uruguay,18,No Moon,1994,Draw,1
+213,not bite,Not Caught,goalkeeper,midfield,Uruguay,62,No Moon,1994,Win,0
+214,not bite,yellow card,forward,opponent team penalty area,Uruguay,68,No Moon,1994,Win,0
+215,not bite,Not Caught,forward,off field,Uruguay,75,No Moon,1995,Draw,0
+216,not bite,Red Card,defender,opponent team penalty area,Uruguay,42,Full,1995,Loss,1
+217,bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,86,No Moon,1995,Win,0
+218,not bite,Yellow card,journalist,off field,Uruguay,60,Half,1995,Loss,0
+219,not bite,Yellow card,spectator,off field,Uruguay,3,No Moon,1995,Win,0
+220,not bite,yellow card,defender,midfield,Uruguay,34,Full,1995,Win,0
+221,bite,Not Caught,referee,off field,Uruguay,12,Full,1995,Loss,2
+222,bite,Suspended for several games,journalist,off field,Uruguay,41,Half,1995,Win,0
+223,not bite,Yellow card,spectator,off field,Uruguay,20,Full,1995,Win,1
+224,not bite,Yellow card,None,off field,Uruguay,24,Half,1995,Draw,0
+225,not bite,Yellow card,defender,opponent team penalty area,Uruguay,11,Full,1995,Draw,1
+226,not bite,Yellow card,referee,off field,Uruguay,57,No Moon,1995,Loss,0
+227,bite,Yellow card,spectator,off field,Uruguay,86,No Moon,1995,Draw,3
+228,not bite,Suspended for several games,defender,his team penalty area,Uruguay,46,Half,1995,Win,2
+229,not bite,None,None,No location,Uruguay,90,No Moon,1995,Win,0
+230,not bite,yellow card,forward,opponent team penalty area,Uruguay,47,Half,1995,Win,0
+231,not bite,Red Card,None,his team penalty area,Uruguay,72,Full,1995,Loss,1
+232,not bite,None,forward,midfield,Uruguay,82,Full,1995,Draw,3
+233,not bite,None,None,No location,Uruguay,90,No Moon,1995,Win,1
+234,not bite,Yellow card,forward,off field,Uruguay,44,Half,1995,Loss,2
+235,not bite,yellow card,midfielder,opponent team penalty area,Uruguay,10,Full,1995,Win,0
+236,not bite,Suspended for several games,forward,midfield,Uruguay,72,Full,1995,Loss,2
+237,not bite,yellow card,defender,opponent team penalty area,Uruguay,87,Full,1995,Draw,0
+238,bite,Yellow card,defender,off field,Uruguay,69,No Moon,1995,Win,3
+239,not bite,None,None,No location,Uruguay,90,Half,1995,Draw,1
+240,not bite,Not Caught,midfielder,off field,Uruguay,65,No Moon,1995,Loss,2
+241,bite,Yellow card,spectator,off field,Uruguay,83,Half,1995,Win,2
+242,not bite,Not Caught,referee,his team penalty area,Uruguay,76,Half,1995,Loss,0
+243,not bite,None,None,opponent team penalty area,Uruguay,72,Half,1995,Draw,0
+244,not bite,Red Card,referee,his team penalty area,Uruguay,53,Full,1995,Loss,0
+245,bite,Yellow card,forward,his team penalty area,Uruguay,49,Half,1995,Loss,1
+246,not bite,Yellow card,defender,his team penalty area,Uruguay,52,Full,1995,Loss,2
+247,bite,Suspended for several games,midfielder,off field,Uruguay,40,Half,1995,Loss,0
+248,not bite,None,None,No location,Uruguay,90,No Moon,1995,Draw,1
+249,not bite,None,journalist,off field,Uruguay,62,Half,1995,Win,1
+250,not bite,Yellow card,defender,opponent team penalty area,Uruguay,52,Full,1995,Loss,1
+251,not bite,None,None,No location,Uruguay,90,Half,1995,Loss,1
+252,not bite,Red Card,journalist,off field,Uruguay,90,No Moon,1995,Loss,1
+253,not bite,Suspended for several games,None,off field,Uruguay,26,Half,1995,Win,2
+254,bite,Not Caught,midfielder,off field,Uruguay,85,No Moon,1995,Loss,1
+255,not bite,None,None,No location,Uruguay,90,No Moon,1995,Win,1
+256,not bite,None,None,No location,Uruguay,90,Full,1995,Loss,1
+257,not bite,Not Caught,journalist,off field,Uruguay,11,No Moon,1995,Win,2
+258,not bite,yellow card,spectator,off field,Uruguay,11,Full,1995,Loss,3
+259,bite,Not Caught,forward,midfield,Uruguay,4,No Moon,1995,Win,2
+260,not bite,Red Card,spectator,off field,Uruguay,14,No Moon,1995,Win,2
+261,not bite,Yellow card,forward,his team penalty area,Uruguay,19,Full,1995,Draw,1
+262,bite,Not Caught,spectator,off field,Uruguay,62,Full,1995,Win,2
+263,bite,None,referee,his team penalty area,Uruguay,9,No Moon,1995,Draw,2
+264,not bite,yellow card,forward,midfield,Uruguay,7,No Moon,1995,Loss,0
+265,not bite,None,None,No location,Uruguay,90,No Moon,1995,Win,1
+266,not bite,None,None,No location,Uruguay,90,No Moon,1995,Win,0
+267,not bite,None,None,No location,Uruguay,90,Half,1995,Loss,1
+268,not bite,None,None,No location,Uruguay,90,Half,1995,Win,1
+269,not bite,Not Caught,spectator,off field,Uruguay,32,Half,1995,Loss,2
+270,not bite,None,None,No location,Uruguay,90,Half,1995,Loss,1
+271,not bite,Yellow card,forward,his team penalty area,Uruguay,60,Half,1995,Win,1
+272,bite,None,journalist,off field,Uruguay,19,Half,1995,Loss,0
+273,not bite,Yellow card,journalist,off field,Uruguay,69,No Moon,1995,Win,3
+274,not bite,None,None,No location,Uruguay,90,Full,1995,Win,3
+275,not bite,Yellow card,referee,midfield,Uruguay,26,No Moon,1995,Win,2
+276,bite,Yellow card,defender,midfield,Uruguay,60,No Moon,1995,Win,2
+277,bite,Not Caught,defender,opponent team penalty area,Uruguay,86,No Moon,1995,Win,1
+278,not bite,Yellow card,forward,opponent team penalty area,Uruguay,82,Half,1995,Win,0
+279,not bite,None,None,No location,Uruguay,90,Half,1995,Draw,2
+280,bite,None,midfielder,midfield,Uruguay,89,Half,1995,Win,2
+281,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,37,No Moon,1995,Draw,0
+282,not bite,None,None,No location,Uruguay,90,Full,1995,Loss,3
+283,not bite,None,None,No location,Uruguay,90,Full,1995,Draw,2
+284,bite,Red Card,midfielder,his team penalty area,Uruguay,84,No Moon,1995,Win,1
+285,bite,Suspended for several games,midfielder,his team penalty area,Uruguay,80,No Moon,1995,Draw,0
+286,not bite,yellow card,goalkeeper,opponent team penalty area,Uruguay,32,Half,1995,Loss,1
+287,not bite,None,referee,off field,Uruguay,65,No Moon,1995,Draw,1
+288,not bite,Yellow card,defender,opponent team penalty area,Uruguay,58,Full,1995,Loss,0
+289,not bite,None,goalkeeper,midfield,Uruguay,38,Full,1995,Draw,0
+290,not bite,yellow card,goalkeeper,his team penalty area,Uruguay,35,No Moon,1995,Loss,0
+291,not bite,Red Card,defender,midfield,Uruguay,37,Half,1995,Loss,1
+292,not bite,yellow card,spectator,off field,Uruguay,89,Full,1995,Draw,1
+293,not bite,None,None,No location,Uruguay,90,Full,1995,Draw,1
+294,not bite,Yellow card,forward,midfield,Uruguay,53,Full,1995,Loss,1
+295,not bite,yellow card,forward,his team penalty area,Uruguay,86,Full,1995,Win,2
+296,bite,Not Caught,None,off field,Uruguay,74,Full,1995,Win,0
+297,not bite,Yellow card,referee,off field,Uruguay,60,Half,1995,Draw,1
+298,bite,Red Card,referee,his team penalty area,Uruguay,8,Full,1995,Win,1
+299,not bite,yellow card,spectator,off field,Uruguay,51,No Moon,1995,Draw,1
+300,not bite,Yellow card,journalist,off field,Uruguay,52,Full,1995,Loss,2
+301,bite,Yellow card,spectator,off field,Uruguay,89,Full,1995,Loss,1
+302,not bite,Suspended for several games,None,his team penalty area,Uruguay,63,Half,1995,Win,3
+303,not bite,None,None,No location,Uruguay,90,Half,1995,Draw,0
+304,not bite,None,None,No location,Uruguay,90,No Moon,1995,Win,1
+305,not bite,yellow card,defender,opponent team penalty area,Uruguay,79,Full,1995,Win,1
+306,not bite,yellow card,None,midfield,Uruguay,53,Half,1996,Loss,1
+307,not bite,Red Card,defender,off field,Uruguay,43,No Moon,1996,Win,1
+308,not bite,None,None,No location,Uruguay,90,Half,1996,Win,1
+309,bite,None,forward,midfield,Uruguay,89,Full,1996,Loss,0
+310,bite,None,None,his team penalty area,Uruguay,80,No Moon,1996,Draw,1
+311,bite,Not Caught,journalist,off field,Uruguay,30,Half,1996,Win,0
+312,not bite,None,None,No location,Uruguay,90,Full,1996,Draw,1
+313,not bite,Red Card,midfielder,off field,Uruguay,57,Full,1996,Loss,0
+314,bite,Not Caught,journalist,off field,Uruguay,48,No Moon,1996,Loss,3
+315,not bite,yellow card,None,his team penalty area,Uruguay,33,Full,1996,Draw,1
+316,not bite,None,None,No location,Uruguay,90,Half,1996,Draw,0
+317,not bite,Red Card,referee,his team penalty area,Uruguay,48,Full,1996,Win,3
+318,not bite,Red Card,journalist,off field,Uruguay,65,Half,1996,Win,1
+319,not bite,None,None,No location,Uruguay,90,Full,1996,Draw,1
+320,not bite,None,None,No location,Uruguay,90,No Moon,1996,Draw,2
+321,not bite,yellow card,referee,midfield,Uruguay,81,No Moon,1996,Win,2
+322,not bite,None,None,opponent team penalty area,Uruguay,26,Full,1996,Win,1
+323,not bite,None,None,No location,Uruguay,90,No Moon,1996,Win,2
+324,bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,81,Full,1996,Draw,0
+325,not bite,None,None,No location,Uruguay,90,Half,1996,Draw,2
+326,not bite,None,None,No location,Uruguay,90,Half,1996,Win,3
+327,bite,Suspended for several games,None,opponent team penalty area,Uruguay,84,Half,1996,Loss,0
+328,not bite,None,journalist,off field,Uruguay,72,No Moon,1996,Loss,1
+329,not bite,yellow card,midfielder,his team penalty area,Uruguay,62,No Moon,1996,Win,0
+330,bite,Red Card,journalist,off field,Uruguay,74,Full,1996,Win,2
+331,bite,Yellow card,forward,opponent team penalty area,Uruguay,87,No Moon,1996,Win,3
+332,not bite,Not Caught,journalist,off field,Uruguay,9,Half,1996,Draw,2
+333,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,75,No Moon,1996,Win,1
+334,bite,Red Card,referee,opponent team penalty area,Uruguay,45,Half,1996,Win,0
+335,bite,Suspended for several games,journalist,off field,Uruguay,31,Full,1996,Win,1
+336,not bite,yellow card,goalkeeper,off field,Uruguay,81,No Moon,1996,Win,1
+337,not bite,Not Caught,forward,off field,Uruguay,65,No Moon,1996,Loss,1
+338,not bite,Red Card,midfielder,his team penalty area,Uruguay,87,Half,1996,Win,0
+339,bite,Red Card,referee,his team penalty area,Uruguay,84,Full,1996,Draw,2
+340,bite,None,spectator,off field,Uruguay,81,No Moon,1996,Draw,0
+341,not bite,None,None,No location,Uruguay,90,Half,1996,Win,2
+342,not bite,Red Card,referee,his team penalty area,Uruguay,65,Full,1996,Loss,0
+343,not bite,Suspended for several games,forward,his team penalty area,Uruguay,16,Full,1996,Loss,0
+344,not bite,yellow card,spectator,off field,Uruguay,87,Full,1996,Win,1
+345,not bite,Suspended for several games,journalist,off field,Uruguay,73,Full,1996,Win,0
+346,not bite,Yellow card,None,opponent team penalty area,Uruguay,75,No Moon,1996,Loss,2
+347,not bite,Red Card,forward,midfield,Uruguay,55,Full,1996,Loss,1
+348,bite,Not Caught,forward,off field,Uruguay,5,No Moon,1996,Loss,0
+349,not bite,Red Card,journalist,off field,Uruguay,74,Full,1996,Win,1
+350,not bite,Yellow card,forward,midfield,Uruguay,50,Full,1996,Win,1
+351,not bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,37,No Moon,1996,Win,1
+352,not bite,None,None,No location,Uruguay,90,Half,1996,Win,1
+353,not bite,None,None,No location,Uruguay,90,No Moon,1996,Win,0
+354,not bite,None,None,No location,Uruguay,90,No Moon,1996,Win,0
+355,not bite,None,None,No location,Uruguay,90,Half,1996,Draw,0
+356,bite,Yellow card,defender,his team penalty area,Uruguay,9,Half,1996,Win,2
+357,not bite,None,None,No location,Uruguay,90,Full,1996,Win,1
+358,not bite,Yellow card,spectator,off field,Uruguay,8,Half,1996,Draw,3
+359,not bite,Red Card,forward,midfield,Uruguay,39,No Moon,1996,Win,0
+360,not bite,Suspended for several games,spectator,off field,Uruguay,44,No Moon,1996,Loss,1
+361,not bite,yellow card,spectator,off field,Uruguay,59,Full,1996,Draw,2
+362,not bite,Not Caught,None,midfield,Uruguay,57,Full,1996,Loss,1
+363,bite,Not Caught,forward,midfield,Uruguay,87,Full,1996,Win,2
+364,not bite,Red Card,None,his team penalty area,Uruguay,81,No Moon,1996,Win,0
+365,not bite,Not Caught,forward,midfield,Uruguay,45,Full,1996,Draw,0
+366,not bite,None,midfielder,off field,Uruguay,9,Full,1996,Win,1
+367,not bite,Yellow card,journalist,off field,Uruguay,80,Full,1996,Loss,2
+368,not bite,Red Card,midfielder,midfield,Uruguay,18,No Moon,1996,Win,2
+369,not bite,Yellow card,journalist,off field,Uruguay,50,Half,1996,Win,2
+370,not bite,Yellow card,journalist,off field,Uruguay,8,Half,1996,Loss,2
+371,not bite,Suspended for several games,defender,off field,Uruguay,23,Full,1996,Draw,2
+372,not bite,Not Caught,referee,his team penalty area,Uruguay,81,Half,1996,Win,2
+373,not bite,Suspended for several games,journalist,off field,Uruguay,31,Full,1996,Loss,1
+374,not bite,yellow card,referee,opponent team penalty area,Uruguay,23,Full,1996,Win,1
+375,not bite,None,None,No location,Uruguay,90,Full,1996,Draw,2
+376,not bite,None,None,No location,Uruguay,90,Full,1996,Draw,2
+377,bite,Red Card,midfielder,his team penalty area,Uruguay,81,Full,1996,Win,2
+378,not bite,None,None,No location,Uruguay,90,Full,1996,Loss,4
+379,not bite,yellow card,referee,midfield,Uruguay,22,Full,1996,Win,0
+380,not bite,Red Card,midfielder,his team penalty area,Uruguay,38,Full,1996,Win,2
+381,bite,Red Card,spectator,off field,Uruguay,30,Half,1996,Win,1
+382,not bite,None,None,No location,Uruguay,90,No Moon,1996,Loss,0
+383,not bite,Red Card,midfielder,his team penalty area,Uruguay,46,Half,1996,Loss,1
+384,not bite,yellow card,defender,opponent team penalty area,Uruguay,24,Full,1996,Win,1
+385,bite,Suspended for several games,referee,midfield,Uruguay,12,Full,1996,Loss,1
+386,not bite,Yellow card,journalist,off field,Uruguay,35,Half,1996,Loss,1
+387,bite,None,defender,opponent team penalty area,Uruguay,81,Full,1996,Win,0
+388,not bite,None,None,No location,Uruguay,90,Half,1996,Win,1
+389,not bite,None,None,No location,Uruguay,90,Half,1996,Win,2
+390,bite,Yellow card,journalist,off field,Uruguay,82,Half,1996,Win,1
+391,not bite,None,None,No location,Uruguay,90,No Moon,1996,Loss,1
+392,not bite,None,journalist,off field,Uruguay,8,Full,1996,Loss,1
+393,not bite,None,defender,his team penalty area,Uruguay,48,No Moon,1996,Loss,2
+394,not bite,None,None,No location,Uruguay,90,Full,1996,Draw,1
+395,bite,None,spectator,off field,Uruguay,41,Full,1996,Draw,1
+396,not bite,Suspended for several games,spectator,off field,Uruguay,0,Half,1996,Win,0
+397,bite,Red Card,goalkeeper,his team penalty area,Uruguay,65,Full,1996,Loss,1
+398,bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,54,No Moon,1996,Draw,0
+399,not bite,Yellow card,journalist,off field,Uruguay,36,No Moon,1996,Draw,0
+400,not bite,Suspended for several games,forward,opponent team penalty area,Uruguay,59,No Moon,1997,Draw,0
+401,not bite,None,None,No location,Uruguay,90,No Moon,1997,Loss,0
+402,not bite,Suspended for several games,midfielder,opponent team penalty area,Uruguay,30,Half,1997,Draw,0
+403,not bite,Red Card,forward,midfield,Uruguay,35,Full,1997,Loss,1
+404,not bite,Suspended for several games,journalist,off field,Uruguay,45,Full,1997,Win,2
+405,not bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,15,No Moon,1997,Win,0
+406,not bite,Not Caught,forward,off field,Uruguay,21,No Moon,1997,Draw,2
+407,not bite,None,None,No location,Uruguay,90,Half,1997,Loss,1
+408,not bite,Yellow card,defender,opponent team penalty area,Uruguay,63,Full,1997,Win,0
+409,not bite,None,None,No location,Uruguay,90,Full,1997,Draw,0
+410,not bite,Not Caught,midfielder,his team penalty area,Uruguay,38,Full,1997,Draw,2
+411,not bite,Yellow card,None,his team penalty area,Uruguay,1,Full,1997,Win,1
+412,not bite,yellow card,defender,midfield,Uruguay,85,Full,1997,Loss,0
+413,not bite,Not Caught,journalist,off field,Uruguay,19,Full,1997,Draw,0
+414,not bite,Red Card,spectator,off field,Uruguay,55,Full,1997,Win,1
+415,not bite,None,None,No location,Uruguay,90,Full,1997,Draw,2
+416,bite,Suspended for several games,referee,opponent team penalty area,Uruguay,85,No Moon,1997,Win,0
+417,not bite,Not Caught,midfielder,off field,Uruguay,73,Full,1997,Win,0
+418,not bite,None,None,No location,Uruguay,90,Full,1997,Win,2
+419,not bite,Yellow card,midfielder,opponent team penalty area,Uruguay,44,Half,1997,Loss,1
+420,not bite,None,None,No location,Uruguay,90,Full,1997,Win,0
+421,not bite,Suspended for several games,journalist,off field,Uruguay,62,No Moon,1997,Draw,1
+422,not bite,Red Card,journalist,off field,Uruguay,56,Full,1997,Loss,0
+423,bite,Suspended for several games,referee,opponent team penalty area,Uruguay,9,Full,1997,Win,2
+424,not bite,Not Caught,goalkeeper,midfield,Uruguay,54,No Moon,1997,Draw,0
+425,not bite,None,referee,off field,Uruguay,86,Full,1997,Loss,0
+426,not bite,Suspended for several games,forward,his team penalty area,Uruguay,45,Half,1997,Draw,0
+427,not bite,Yellow card,referee,his team penalty area,Uruguay,3,No Moon,1997,Loss,2
+428,not bite,None,None,No location,Uruguay,90,Full,1997,Win,2
+429,not bite,Suspended for several games,None,off field,Uruguay,0,Full,1997,Win,1
+430,not bite,yellow card,spectator,off field,Uruguay,15,No Moon,1997,Draw,0
+431,not bite,yellow card,referee,opponent team penalty area,Uruguay,14,Half,1997,Win,2
+432,not bite,yellow card,midfielder,his team penalty area,Uruguay,78,Full,1997,Loss,1
+433,bite,Suspended for several games,referee,his team penalty area,Uruguay,11,Half,1997,Draw,1
+434,bite,Suspended for several games,goalkeeper,off field,Uruguay,12,Full,1997,Loss,3
+435,bite,Not Caught,defender,off field,Uruguay,33,No Moon,1997,Loss,0
+436,not bite,yellow card,forward,off field,Uruguay,34,Full,1997,Win,0
+437,not bite,Suspended for several games,referee,opponent team penalty area,Uruguay,24,No Moon,1997,Loss,0
+438,not bite,Suspended for several games,forward,his team penalty area,Uruguay,62,Half,1997,Win,1
+439,not bite,Suspended for several games,forward,opponent team penalty area,Uruguay,74,Full,1997,Loss,3
+440,not bite,None,None,No location,Uruguay,90,Full,1997,Draw,2
+441,bite,Yellow card,None,midfield,Uruguay,86,Half,1997,Loss,0
+442,not bite,Suspended for several games,forward,opponent team penalty area,Uruguay,31,No Moon,1997,Loss,2
+443,not bite,None,forward,his team penalty area,Uruguay,7,Full,1997,Win,1
+444,bite,Not Caught,journalist,off field,Uruguay,85,Full,1997,Win,0
+445,not bite,yellow card,goalkeeper,his team penalty area,Uruguay,78,Full,1997,Draw,0
+446,bite,Yellow card,forward,off field,Uruguay,87,Full,1997,Loss,0
+447,not bite,Not Caught,defender,midfield,Uruguay,17,Full,1997,Win,1
+448,not bite,Suspended for several games,defender,midfield,Uruguay,77,No Moon,1997,Win,2
+449,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,2,Half,1997,Loss,0
+450,not bite,Not Caught,forward,his team penalty area,Uruguay,55,Half,1997,Win,0
+451,not bite,yellow card,referee,opponent team penalty area,Uruguay,32,Full,1997,Win,1
+452,not bite,None,None,No location,Uruguay,90,No Moon,1997,Win,0
+453,bite,None,None,midfield,Uruguay,32,Full,1997,Loss,0
+454,not bite,yellow card,journalist,off field,Uruguay,62,Full,1997,Win,2
+455,not bite,None,None,No location,Uruguay,90,Half,1997,Loss,2
+456,not bite,None,goalkeeper,off field,Uruguay,57,No Moon,1997,Loss,0
+457,not bite,Not Caught,forward,midfield,Uruguay,49,Half,1997,Loss,0
+458,not bite,Suspended for several games,journalist,off field,Uruguay,44,No Moon,1997,Win,1
+459,not bite,None,None,No location,Uruguay,90,Full,1997,Draw,0
+460,not bite,Red Card,midfielder,off field,Uruguay,42,No Moon,1997,Win,2
+461,not bite,Yellow card,goalkeeper,midfield,Uruguay,68,No Moon,1997,Draw,1
+462,not bite,Suspended for several games,journalist,off field,Uruguay,43,No Moon,1997,Draw,1
+463,bite,Not Caught,spectator,off field,Uruguay,46,Half,1997,Win,0
+464,not bite,Red Card,midfielder,his team penalty area,Uruguay,28,Full,1997,Win,0
+465,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,75,Full,1997,Win,1
+466,not bite,Yellow card,midfielder,his team penalty area,Uruguay,58,Full,1997,Win,1
+467,not bite,None,None,No location,Uruguay,90,Half,1997,Draw,0
+468,bite,Red Card,goalkeeper,his team penalty area,Uruguay,77,Full,1997,Win,0
+469,not bite,None,None,No location,Uruguay,90,Full,1997,Loss,1
+470,not bite,None,None,No location,Uruguay,90,Half,1997,Loss,1
+471,not bite,Red Card,midfielder,off field,Uruguay,85,No Moon,1997,Win,0
+472,bite,Red Card,midfielder,opponent team penalty area,Uruguay,52,Half,1997,Loss,1
+473,bite,Suspended for several games,defender,midfield,Uruguay,84,Half,1997,Win,1
+474,not bite,Suspended for several games,spectator,off field,Uruguay,78,Half,1997,Draw,2
+475,not bite,Not Caught,spectator,off field,Uruguay,52,Half,1997,Win,1
+476,not bite,None,defender,midfield,Uruguay,16,Half,1997,Draw,4
+477,not bite,None,None,No location,Uruguay,90,No Moon,1997,Draw,1
+478,bite,Yellow card,referee,off field,Uruguay,81,Half,1997,Draw,3
+479,not bite,yellow card,forward,midfield,Uruguay,50,Half,1997,Win,1
+480,bite,Not Caught,referee,his team penalty area,Uruguay,82,Full,1997,Loss,1
+481,bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,77,No Moon,1997,Win,3
+482,not bite,yellow card,spectator,off field,Uruguay,62,Full,1997,Draw,1
+483,not bite,Suspended for several games,midfielder,off field,Uruguay,5,Full,1997,Win,0
+484,not bite,yellow card,forward,opponent team penalty area,Uruguay,38,No Moon,1997,Loss,0
+485,not bite,Suspended for several games,journalist,off field,Uruguay,46,No Moon,1997,Draw,1
+486,not bite,Yellow card,journalist,off field,Uruguay,84,Half,1998,Win,1
+487,not bite,None,None,No location,Uruguay,90,Half,1998,Win,2
+488,not bite,yellow card,midfielder,his team penalty area,Uruguay,35,Half,1998,Draw,1
+489,not bite,Not Caught,forward,opponent team penalty area,Uruguay,57,Full,1998,Win,2
+490,not bite,None,None,No location,Uruguay,90,Full,1998,Win,2
+491,not bite,None,None,No location,Uruguay,90,Half,1998,Win,0
+492,not bite,Not Caught,forward,off field,Uruguay,39,Half,1998,Draw,0
+493,not bite,yellow card,goalkeeper,off field,Uruguay,58,Full,1998,Win,1
+494,not bite,None,None,No location,Uruguay,90,No Moon,1998,Loss,3
+495,not bite,Suspended for several games,spectator,off field,Uruguay,23,No Moon,1998,Draw,0
+496,not bite,Red Card,midfielder,midfield,Uruguay,78,No Moon,1998,Loss,0
+497,not bite,Yellow card,referee,opponent team penalty area,Uruguay,19,Full,1998,Win,2
+498,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,10,Full,1998,Win,3
+499,not bite,Not Caught,journalist,off field,Uruguay,2,Full,1998,Draw,3
+500,bite,Not Caught,goalkeeper,opponent team penalty area,Uruguay,85,Full,1998,Loss,0
+501,bite,Suspended for several games,journalist,off field,Uruguay,4,Full,1998,Loss,2
+502,not bite,Not Caught,spectator,off field,Uruguay,76,Half,1998,Win,2
+503,not bite,Yellow card,forward,midfield,Uruguay,58,No Moon,1998,Loss,1
+504,not bite,None,None,No location,Uruguay,90,Full,1998,Win,2
+505,not bite,Yellow card,referee,opponent team penalty area,Uruguay,32,No Moon,1998,Win,2
+506,not bite,Suspended for several games,spectator,off field,Uruguay,26,No Moon,1998,Draw,1
+507,not bite,Yellow card,goalkeeper,his team penalty area,Uruguay,14,No Moon,1998,Draw,0
+508,not bite,Suspended for several games,None,his team penalty area,Uruguay,61,Full,1998,Win,1
+509,bite,Suspended for several games,defender,midfield,Uruguay,80,No Moon,1998,Loss,0
+510,bite,None,referee,his team penalty area,Uruguay,81,Full,1998,Win,3
+511,not bite,Yellow card,None,opponent team penalty area,Uruguay,87,Half,1998,Draw,0
+512,bite,Not Caught,goalkeeper,off field,Uruguay,82,Full,1998,Win,3
+513,not bite,Not Caught,defender,midfield,Uruguay,62,No Moon,1998,Win,0
+514,not bite,None,None,No location,Uruguay,90,No Moon,1998,Draw,1
+515,bite,Not Caught,goalkeeper,his team penalty area,Uruguay,89,No Moon,1998,Draw,3
+516,not bite,Yellow card,journalist,off field,Uruguay,50,Half,1998,Loss,1
+517,not bite,Not Caught,defender,his team penalty area,Uruguay,5,No Moon,1998,Draw,0
+518,not bite,None,None,No location,Uruguay,90,Half,1998,Loss,0
+519,not bite,None,None,No location,Uruguay,90,No Moon,1998,Win,1
+520,not bite,None,None,No location,Uruguay,90,No Moon,1998,Draw,1
+521,bite,Not Caught,spectator,off field,Uruguay,47,Full,1998,Loss,1
+522,not bite,None,None,No location,Uruguay,90,Full,1998,Draw,1
+523,not bite,Suspended for several games,referee,opponent team penalty area,Uruguay,11,Full,1998,Loss,0
+524,bite,Yellow card,forward,off field,Uruguay,88,Full,1998,Win,0
+525,not bite,None,None,No location,Uruguay,90,Full,1998,Win,2
+526,not bite,None,None,No location,Uruguay,90,Full,1998,Draw,2
+527,bite,Red Card,referee,midfield,Uruguay,88,No Moon,1998,Loss,2
+528,not bite,None,None,No location,Uruguay,90,Full,1998,Win,0
+529,not bite,None,None,No location,Uruguay,90,Full,1998,Draw,0
+530,not bite,Suspended for several games,referee,off field,Uruguay,25,No Moon,1998,Loss,1
+531,not bite,None,None,No location,Uruguay,90,Full,1998,Win,0
+532,not bite,yellow card,journalist,off field,Uruguay,40,Full,1998,Win,3
+533,not bite,Red Card,forward,midfield,Uruguay,65,Half,1998,Draw,2
+534,not bite,yellow card,forward,off field,Uruguay,73,Half,1998,Loss,1
+535,not bite,None,None,No location,Uruguay,90,Full,1998,Win,1
+536,not bite,None,None,No location,Uruguay,90,Half,1998,Draw,3
+537,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,81,Full,1998,Draw,3
+538,not bite,None,None,No location,Uruguay,90,No Moon,1998,Win,1
+539,not bite,Not Caught,spectator,off field,Uruguay,24,No Moon,1998,Win,0
+540,not bite,Not Caught,defender,his team penalty area,Uruguay,11,Full,1998,Loss,2
+541,not bite,Not Caught,midfielder,off field,Uruguay,81,Full,1998,Loss,0
+542,not bite,None,None,No location,Uruguay,90,Full,1998,Win,2
+543,not bite,None,None,No location,Uruguay,90,Half,1998,Win,2
+544,not bite,Suspended for several games,journalist,off field,Uruguay,42,Full,1998,Loss,0
+545,not bite,Red Card,forward,midfield,Uruguay,89,No Moon,1998,Draw,2
+546,bite,Red Card,journalist,off field,Uruguay,89,No Moon,1998,Draw,2
+547,not bite,Red Card,forward,his team penalty area,Uruguay,83,Full,1998,Draw,2
+548,not bite,Suspended for several games,goalkeeper,off field,Uruguay,37,Full,1998,Draw,0
+549,not bite,None,journalist,off field,Uruguay,40,Half,1998,Win,3
+550,not bite,Yellow card,midfielder,his team penalty area,Uruguay,24,Full,1998,Loss,2
+551,bite,Not Caught,defender,midfield,Uruguay,90,Full,1998,Loss,0
+552,not bite,None,None,No location,Uruguay,90,No Moon,1998,Win,1
+553,bite,Yellow card,defender,midfield,Uruguay,84,Full,1999,Loss,0
+554,not bite,yellow card,midfielder,midfield,Uruguay,1,Full,1999,Win,2
+555,not bite,Yellow card,journalist,off field,Uruguay,3,No Moon,1999,Win,0
+556,not bite,Suspended for several games,midfielder,opponent team penalty area,Uruguay,47,Full,1999,Win,0
+557,not bite,None,None,No location,Uruguay,90,No Moon,1999,Draw,1
+558,not bite,None,referee,midfield,Uruguay,13,Full,1999,Win,2
+559,not bite,Yellow card,referee,midfield,Uruguay,50,No Moon,1999,Win,0
+560,bite,None,journalist,off field,Uruguay,84,Full,1999,Win,3
+561,not bite,None,None,No location,Uruguay,90,Full,1999,Loss,1
+562,not bite,Not Caught,forward,opponent team penalty area,Uruguay,2,No Moon,1999,Win,0
+563,not bite,None,None,No location,Uruguay,90,Full,1999,Win,2
+564,not bite,Yellow card,referee,his team penalty area,Uruguay,70,Full,1999,Loss,1
+565,not bite,None,journalist,off field,Uruguay,8,Full,1999,Loss,2
+566,bite,Yellow card,referee,midfield,Uruguay,84,Full,1999,Win,2
+567,bite,None,defender,off field,Uruguay,64,Half,1999,Win,1
+568,not bite,None,None,No location,Uruguay,90,Half,1999,Loss,0
+569,not bite,None,None,No location,Uruguay,90,Half,1999,Win,0
+570,bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,87,No Moon,1999,Draw,0
+571,not bite,None,None,No location,Uruguay,90,No Moon,1999,Loss,2
+572,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,70,Full,1999,Loss,1
+573,bite,Red Card,goalkeeper,off field,Uruguay,84,No Moon,1999,Win,0
+574,not bite,Yellow card,goalkeeper,off field,Uruguay,48,No Moon,1999,Loss,2
+575,not bite,None,None,No location,Uruguay,90,No Moon,1999,Win,1
+576,not bite,Red Card,journalist,off field,Uruguay,90,Full,1999,Draw,3
+577,bite,Red Card,spectator,off field,Uruguay,3,No Moon,1999,Win,1
+578,not bite,None,referee,off field,Uruguay,40,Full,1999,Draw,2
+579,not bite,None,None,No location,Uruguay,90,Full,1999,Win,1
+580,bite,None,referee,midfield,Uruguay,81,Full,1999,Win,1
+581,not bite,None,None,No location,Uruguay,90,Half,1999,Draw,1
+582,not bite,Not Caught,goalkeeper,opponent team penalty area,Uruguay,9,Full,1999,Win,1
+583,bite,Yellow card,spectator,off field,Uruguay,81,Full,1999,Win,1
+584,bite,Red Card,defender,midfield,Uruguay,79,Full,1999,Win,1
+585,not bite,Not Caught,spectator,off field,Uruguay,74,Full,1999,Draw,1
+586,bite,Red Card,forward,his team penalty area,Uruguay,86,Full,1999,Win,0
+587,bite,Yellow card,goalkeeper,midfield,Uruguay,66,Full,1999,Win,2
+588,bite,Not Caught,None,midfield,Uruguay,1,Half,1999,Loss,0
+589,not bite,None,None,No location,Uruguay,90,Full,1999,Loss,1
+590,not bite,Suspended for several games,forward,midfield,Uruguay,73,Full,1999,Draw,1
+591,not bite,yellow card,journalist,off field,Uruguay,31,Half,1999,Loss,2
+592,bite,Suspended for several games,journalist,off field,Uruguay,80,No Moon,1999,Win,1
+593,not bite,None,None,No location,Uruguay,90,Full,1999,Win,0
+594,not bite,Yellow card,referee,midfield,Uruguay,74,Full,1999,Win,0
+595,bite,None,referee,off field,Uruguay,88,No Moon,1999,Win,2
+596,bite,Suspended for several games,forward,off field,Uruguay,11,Full,1999,Win,0
+597,not bite,Red Card,goalkeeper,off field,Uruguay,47,No Moon,1999,Win,1
+598,not bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,22,Half,1999,Loss,2
+599,bite,Red Card,defender,off field,Uruguay,11,Full,1999,Win,0
+600,not bite,None,None,No location,Uruguay,90,Full,1999,Draw,0
+601,not bite,yellow card,None,midfield,Uruguay,16,Full,1999,Loss,1
+602,bite,Not Caught,referee,off field,Uruguay,83,No Moon,1999,Loss,3
+603,bite,Red Card,goalkeeper,off field,Uruguay,83,Full,1999,Win,1
+604,not bite,yellow card,referee,his team penalty area,Uruguay,37,Full,1999,Win,1
+605,bite,Suspended for several games,None,off field,Uruguay,62,Half,1999,Loss,2
+606,bite,Suspended for several games,goalkeeper,off field,Uruguay,85,Full,1999,Win,0
+607,not bite,None,None,No location,Uruguay,90,No Moon,1999,Win,2
+608,not bite,Suspended for several games,journalist,off field,Uruguay,5,Full,1999,Win,0
+609,not bite,Not Caught,journalist,off field,Uruguay,49,No Moon,1999,Loss,2
+610,not bite,Not Caught,goalkeeper,opponent team penalty area,Uruguay,28,No Moon,1999,Draw,1
+611,not bite,None,None,No location,Uruguay,90,No Moon,1999,Win,1
+612,bite,Not Caught,journalist,off field,Uruguay,90,Half,1999,Loss,1
+613,bite,Not Caught,journalist,off field,Uruguay,88,No Moon,1999,Loss,1
+614,not bite,Red Card,defender,off field,Uruguay,35,Full,1999,Draw,1
+615,bite,Red Card,forward,midfield,Uruguay,80,No Moon,1999,Win,0
+616,not bite,None,referee,midfield,Uruguay,59,Half,1999,Win,2
+617,not bite,None,None,No location,Uruguay,90,Half,1999,Draw,3
+618,not bite,None,None,No location,Uruguay,90,Half,1999,Draw,4
+619,not bite,None,referee,off field,Uruguay,10,No Moon,1999,Draw,0
+620,not bite,None,None,No location,Uruguay,90,Full,1999,Win,1
+621,not bite,Suspended for several games,spectator,off field,Uruguay,45,No Moon,1999,Draw,1
+622,not bite,Red Card,goalkeeper,midfield,Uruguay,25,Half,1999,Win,0
+623,not bite,Red Card,goalkeeper,off field,Uruguay,32,No Moon,1999,Loss,2
+624,not bite,yellow card,defender,midfield,Uruguay,4,Full,1999,Loss,1
+625,not bite,Yellow card,referee,opponent team penalty area,Uruguay,45,No Moon,1999,Draw,1
+626,not bite,None,None,No location,Uruguay,90,No Moon,1999,Win,0
+627,bite,Red Card,forward,midfield,Uruguay,87,Full,1999,Loss,1
+628,bite,Red Card,defender,midfield,Uruguay,83,Full,1999,Draw,0
+629,not bite,None,None,No location,Uruguay,90,Full,1999,Win,2
+630,not bite,Yellow card,forward,opponent team penalty area,Uruguay,40,No Moon,1999,Win,0
+631,not bite,yellow card,spectator,off field,Uruguay,35,Half,1999,Loss,2
+632,not bite,None,None,No location,Uruguay,90,Full,1999,Win,1
+633,not bite,Red Card,journalist,off field,Uruguay,20,Full,1999,Draw,0
+634,not bite,Suspended for several games,journalist,off field,Uruguay,76,Full,1999,Win,0
+635,not bite,Yellow card,defender,opponent team penalty area,Uruguay,35,Full,1999,Draw,1
+636,not bite,Yellow card,midfielder,his team penalty area,Uruguay,20,Full,1999,Draw,0
+637,bite,Red Card,forward,opponent team penalty area,Uruguay,84,No Moon,1999,Draw,0
+638,not bite,Yellow card,defender,midfield,Uruguay,89,No Moon,1999,Win,0
+639,bite,None,spectator,off field,Uruguay,71,Full,1999,Loss,0
+640,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,55,No Moon,1999,Draw,1
+641,not bite,None,None,No location,Uruguay,90,No Moon,1999,Loss,0
+642,bite,None,goalkeeper,his team penalty area,Uruguay,87,Half,1999,Loss,2
+643,not bite,None,None,No location,Uruguay,90,Half,1999,Win,1
+644,not bite,Not Caught,goalkeeper,his team penalty area,Uruguay,13,No Moon,1999,Win,1
+645,not bite,None,None,No location,Uruguay,90,No Moon,1999,Win,1
+646,bite,Not Caught,spectator,off field,Uruguay,75,Half,1999,Loss,0
+647,not bite,Yellow card,forward,opponent team penalty area,Uruguay,88,No Moon,1999,Win,1
+648,not bite,None,None,No location,Uruguay,90,Full,1999,Draw,1
+649,bite,Suspended for several games,defender,his team penalty area,Uruguay,81,No Moon,2000,Loss,2
+650,not bite,Yellow card,forward,off field,Uruguay,30,Full,2000,Win,0
+651,not bite,Not Caught,midfielder,off field,Uruguay,23,Half,2000,Win,0
+652,not bite,yellow card,journalist,off field,Uruguay,0,Full,2000,Loss,0
+653,not bite,yellow card,referee,opponent team penalty area,Uruguay,2,Half,2000,Draw,1
+654,not bite,None,None,No location,Uruguay,90,No Moon,2000,Loss,2
+655,bite,Suspended for several games,defender,midfield,Uruguay,86,No Moon,2000,Loss,1
+656,not bite,Yellow card,journalist,off field,Uruguay,24,No Moon,2000,Win,1
+657,not bite,Suspended for several games,midfielder,his team penalty area,Uruguay,42,No Moon,2000,Loss,2
+658,bite,Red Card,spectator,off field,Uruguay,84,No Moon,2000,Win,2
+659,not bite,Suspended for several games,forward,opponent team penalty area,Uruguay,37,No Moon,2000,Draw,3
+660,not bite,yellow card,midfielder,off field,Uruguay,1,Full,2000,Loss,0
+661,not bite,Suspended for several games,spectator,off field,Uruguay,10,Full,2000,Win,0
+662,bite,Yellow card,spectator,off field,Uruguay,48,Half,2000,Win,2
+663,not bite,Not Caught,None,opponent team penalty area,Uruguay,23,Full,2000,Win,0
+664,not bite,Suspended for several games,journalist,off field,Uruguay,25,Half,2000,Win,1
+665,not bite,None,None,No location,Uruguay,90,Full,2000,Win,0
+666,not bite,None,None,No location,Uruguay,90,Full,2000,Win,3
+667,bite,Red Card,forward,off field,Uruguay,89,Full,2000,Win,1
+668,not bite,None,None,No location,Uruguay,90,Full,2000,Win,1
+669,not bite,None,None,No location,Uruguay,90,No Moon,2000,Win,0
+670,bite,Suspended for several games,forward,his team penalty area,Uruguay,4,Full,2000,Win,2
+671,not bite,yellow card,goalkeeper,opponent team penalty area,Uruguay,45,Full,2000,Draw,1
+672,not bite,None,None,No location,Uruguay,90,No Moon,2000,Loss,2
+673,not bite,Suspended for several games,referee,off field,Uruguay,53,Full,2000,Loss,1
+674,not bite,Suspended for several games,forward,off field,Uruguay,3,Half,2000,Loss,2
+675,not bite,Yellow card,spectator,off field,Uruguay,71,Full,2000,Win,0
+676,not bite,yellow card,journalist,off field,Uruguay,8,Half,2000,Draw,1
+677,not bite,Red Card,None,his team penalty area,Uruguay,41,No Moon,2000,Win,2
+678,bite,Red Card,referee,midfield,Uruguay,85,Full,2000,Win,2
+679,bite,Not Caught,journalist,off field,Uruguay,16,Full,2000,Win,1
+680,not bite,Red Card,goalkeeper,off field,Uruguay,89,Half,2000,Win,0
+681,not bite,Not Caught,spectator,off field,Uruguay,23,Full,2000,Loss,1
+682,not bite,Suspended for several games,defender,opponent team penalty area,Uruguay,24,Full,2000,Draw,0
+683,not bite,yellow card,midfielder,his team penalty area,Uruguay,72,No Moon,2000,Loss,0
+684,not bite,None,None,No location,Uruguay,90,Half,2000,Win,2
+685,not bite,None,None,No location,Uruguay,90,No Moon,2000,Draw,3
+686,not bite,None,forward,off field,Uruguay,20,Full,2000,Win,0
+687,not bite,Red Card,journalist,off field,Uruguay,78,Half,2000,Win,1
+688,not bite,Yellow card,None,off field,Uruguay,41,No Moon,2000,Win,2
+689,not bite,Yellow card,midfielder,his team penalty area,Uruguay,41,Full,2000,Loss,0
+690,not bite,Not Caught,spectator,off field,Uruguay,7,Half,2000,Loss,0
+691,not bite,None,spectator,off field,Uruguay,78,Half,2000,Win,0
+692,not bite,Not Caught,referee,midfield,Uruguay,77,Full,2000,Draw,1
+693,bite,None,midfielder,off field,Uruguay,6,No Moon,2000,Win,0
+694,not bite,yellow card,None,his team penalty area,Uruguay,71,Full,2000,Win,1
+695,bite,Suspended for several games,midfielder,off field,Uruguay,0,Full,2000,Win,0
+696,not bite,None,None,No location,Uruguay,90,Full,2000,Loss,2
+697,bite,None,forward,his team penalty area,Uruguay,37,Full,2000,Draw,2
+698,not bite,None,None,No location,Uruguay,90,Full,2000,Loss,0
+699,not bite,None,None,No location,Uruguay,90,Full,2000,Win,3
+700,bite,Yellow card,spectator,off field,Uruguay,46,Full,2000,Win,2
+701,not bite,None,None,No location,Uruguay,90,Half,2000,Win,0
+702,not bite,Yellow card,midfielder,opponent team penalty area,Uruguay,52,Half,2000,Loss,3
+703,not bite,Yellow card,midfielder,off field,Uruguay,58,Full,2000,Loss,0
+704,not bite,Yellow card,goalkeeper,midfield,Uruguay,2,Full,2000,Loss,0
+705,not bite,Suspended for several games,referee,opponent team penalty area,Uruguay,85,Full,2000,Win,0
+706,bite,Suspended for several games,spectator,off field,Uruguay,86,Full,2000,Loss,0
+707,not bite,yellow card,defender,opponent team penalty area,Uruguay,31,No Moon,2000,Draw,2
+708,bite,Not Caught,spectator,off field,Uruguay,89,Half,2000,Draw,1
+709,not bite,None,None,No location,Uruguay,90,No Moon,2000,Draw,0
+710,not bite,None,None,No location,Uruguay,90,No Moon,2000,Loss,0
+711,not bite,None,midfielder,his team penalty area,Uruguay,13,Full,2000,Draw,0
+712,not bite,None,None,off field,Uruguay,1,Full,2000,Loss,0
+713,not bite,None,None,No location,Uruguay,90,Full,2000,Loss,3
+714,bite,None,None,midfield,Uruguay,33,Half,2000,Win,0
+715,not bite,None,None,No location,Uruguay,90,No Moon,2000,Loss,2
+716,bite,Red Card,goalkeeper,midfield,Uruguay,86,Full,2000,Loss,2
+717,not bite,None,None,No location,Uruguay,90,Half,2000,Loss,1
+718,bite,Not Caught,referee,off field,Uruguay,81,Full,2000,Win,2
+719,not bite,Red Card,goalkeeper,midfield,Uruguay,69,Full,2000,Win,3
+720,bite,None,defender,his team penalty area,Uruguay,40,No Moon,2000,Loss,0
+721,not bite,Not Caught,spectator,off field,Uruguay,83,Full,2001,Win,1
+722,bite,Not Caught,spectator,off field,Uruguay,82,No Moon,2001,Win,2
+723,not bite,None,None,No location,Uruguay,90,Half,2001,Loss,0
+724,bite,Not Caught,referee,midfield,Uruguay,80,No Moon,2001,Loss,2
+725,not bite,Suspended for several games,midfielder,midfield,Uruguay,57,Full,2001,Win,2
+726,not bite,None,journalist,off field,Uruguay,53,Full,2001,Win,1
+727,not bite,yellow card,None,his team penalty area,Uruguay,53,No Moon,2001,Win,0
+728,not bite,yellow card,defender,off field,Uruguay,78,No Moon,2001,Loss,1
+729,not bite,yellow card,spectator,off field,Uruguay,11,Full,2001,Loss,2
+730,not bite,Yellow card,defender,midfield,Uruguay,63,No Moon,2001,Loss,0
+731,not bite,None,None,No location,Uruguay,90,Half,2001,Win,1
+732,not bite,Suspended for several games,goalkeeper,opponent team penalty area,Uruguay,49,Full,2001,Loss,1
+733,bite,None,goalkeeper,his team penalty area,Uruguay,90,No Moon,2001,Loss,1
+734,bite,Not Caught,forward,his team penalty area,Uruguay,82,Full,2001,Win,0
+735,not bite,Not Caught,defender,off field,Uruguay,17,No Moon,2001,Win,1
+736,not bite,yellow card,referee,opponent team penalty area,Uruguay,35,Half,2001,Win,1
+737,not bite,None,None,No location,Uruguay,90,Half,2001,Win,1
+738,bite,None,journalist,off field,Uruguay,88,Half,2001,Win,1
+739,not bite,Yellow card,goalkeeper,midfield,Uruguay,52,Half,2001,Win,0
+740,bite,Not Caught,forward,midfield,Uruguay,89,Full,2001,Win,0
+741,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,45,Full,2001,Win,1
+742,not bite,None,None,No location,Uruguay,90,Full,2001,Win,2
+743,not bite,Not Caught,referee,opponent team penalty area,Uruguay,75,No Moon,2001,Draw,2
+744,not bite,None,None,No location,Uruguay,90,Full,2001,Loss,1
+745,not bite,yellow card,referee,his team penalty area,Uruguay,36,No Moon,2001,Loss,0
+746,not bite,None,midfielder,his team penalty area,Uruguay,70,Full,2001,Loss,4
+747,bite,None,spectator,off field,Uruguay,3,Full,2001,Loss,1
+748,not bite,None,None,No location,Uruguay,90,Half,2001,Draw,1
+749,bite,Yellow card,defender,off field,Uruguay,11,Full,2001,Draw,4
+750,not bite,yellow card,defender,opponent team penalty area,Uruguay,72,Full,2001,Win,3
+751,not bite,Yellow card,forward,his team penalty area,Uruguay,57,No Moon,2001,Loss,1
+752,not bite,None,None,No location,Uruguay,90,Half,2001,Win,0
+753,not bite,Not Caught,journalist,off field,Uruguay,50,No Moon,2001,Win,1
+754,bite,Not Caught,referee,his team penalty area,Uruguay,85,No Moon,2001,Loss,2
+755,not bite,None,None,No location,Uruguay,90,Full,2001,Win,2
+756,not bite,None,None,No location,Uruguay,90,No Moon,2001,Win,0
+757,not bite,None,None,No location,Uruguay,90,Half,2001,Draw,1
+758,bite,Yellow card,forward,off field,Uruguay,88,No Moon,2001,Loss,3
+759,not bite,Not Caught,midfielder,his team penalty area,Uruguay,30,Full,2001,Loss,2
+760,bite,Yellow card,referee,off field,Uruguay,16,Full,2001,Win,1
+761,not bite,None,None,No location,Uruguay,90,No Moon,2001,Win,1
+762,not bite,None,journalist,off field,Uruguay,66,Half,2001,Loss,1
+763,bite,None,spectator,off field,Uruguay,84,Full,2001,Win,0
+764,not bite,None,None,No location,Uruguay,90,No Moon,2001,Win,1
+765,not bite,Not Caught,goalkeeper,off field,Uruguay,24,No Moon,2001,Win,0
+766,not bite,Not Caught,goalkeeper,off field,Uruguay,11,Full,2001,Loss,2
+767,bite,Suspended for several games,defender,his team penalty area,Uruguay,88,Full,2001,Draw,0
+768,bite,Yellow card,None,midfield,Uruguay,85,Full,2001,Loss,1
+769,bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,67,Half,2001,Win,0
+770,not bite,Yellow card,journalist,off field,Uruguay,10,Full,2001,Win,0
+771,not bite,Suspended for several games,forward,off field,Uruguay,39,No Moon,2001,Win,3
+772,not bite,None,forward,off field,Uruguay,35,No Moon,2001,Win,2
+773,not bite,Yellow card,journalist,off field,Uruguay,54,Half,2001,Win,2
+774,not bite,None,None,No location,Uruguay,90,Full,2001,Loss,2
+775,bite,Suspended for several games,referee,midfield,Uruguay,28,Half,2001,Loss,0
+776,not bite,None,midfielder,midfield,Uruguay,79,Full,2001,Loss,0
+777,bite,Not Caught,spectator,off field,Uruguay,88,Full,2001,Win,3
+778,bite,Suspended for several games,goalkeeper,midfield,Uruguay,80,Full,2001,Win,1
+779,not bite,None,None,No location,Uruguay,90,Full,2001,Win,3
+780,bite,Red Card,None,off field,Uruguay,83,Full,2001,Win,0
+781,not bite,None,None,No location,Uruguay,90,Full,2001,Loss,2
+782,bite,Suspended for several games,journalist,off field,Uruguay,90,Half,2001,Win,1
+783,not bite,Red Card,referee,opponent team penalty area,Uruguay,47,No Moon,2001,Win,1
+784,not bite,yellow card,spectator,off field,Uruguay,54,No Moon,2001,Loss,2
+785,bite,Suspended for several games,forward,off field,Uruguay,90,Half,2001,Loss,3
+786,not bite,yellow card,goalkeeper,opponent team penalty area,Uruguay,55,Half,2001,Loss,1
+787,not bite,None,None,off field,Uruguay,88,No Moon,2001,Draw,2
+788,bite,Red Card,journalist,off field,Uruguay,86,Full,2001,Draw,3
+789,not bite,yellow card,journalist,off field,Uruguay,2,Half,2001,Draw,1
+790,not bite,yellow card,referee,midfield,Uruguay,73,Half,2001,Draw,1
+791,not bite,Red Card,None,midfield,Uruguay,78,Full,2001,Loss,0
+792,not bite,yellow card,None,his team penalty area,Uruguay,2,No Moon,2001,Win,3
+793,not bite,Yellow card,referee,his team penalty area,Uruguay,46,Half,2001,Win,0
+794,not bite,None,None,No location,Uruguay,90,Full,2001,Win,1
+795,not bite,None,None,No location,Uruguay,90,No Moon,2001,Draw,2
+796,bite,Red Card,journalist,off field,Uruguay,84,Full,2001,Win,2
+797,not bite,Yellow card,referee,opponent team penalty area,Uruguay,24,Half,2001,Draw,1
+798,not bite,None,None,No location,Uruguay,90,Full,2001,Loss,0
+799,not bite,None,None,midfield,Uruguay,43,Half,2001,Win,2
+800,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,23,Half,2001,Win,1
+801,not bite,Yellow card,midfielder,opponent team penalty area,Uruguay,36,No Moon,2001,Win,3
+802,not bite,None,None,No location,Uruguay,90,Half,2002,Win,2
+803,not bite,Suspended for several games,spectator,off field,Uruguay,65,No Moon,2002,Win,2
+804,not bite,Red Card,goalkeeper,midfield,Uruguay,25,Half,2002,Draw,3
+805,not bite,None,None,No location,Uruguay,90,No Moon,2002,Win,3
+806,not bite,None,forward,his team penalty area,Uruguay,9,Full,2002,Loss,0
+807,bite,Suspended for several games,spectator,off field,Uruguay,88,No Moon,2002,Win,4
+808,not bite,Red Card,defender,midfield,Uruguay,68,No Moon,2002,Draw,1
+809,not bite,None,None,No location,Uruguay,90,Half,2002,Win,2
+810,not bite,yellow card,defender,opponent team penalty area,Uruguay,28,Full,2002,Draw,0
+811,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,31,Full,2002,Win,2
+812,bite,None,midfielder,opponent team penalty area,Uruguay,50,No Moon,2002,Draw,1
+813,not bite,None,None,No location,Uruguay,90,Half,2002,Win,1
+814,bite,Yellow card,journalist,off field,Uruguay,83,Full,2002,Loss,0
+815,not bite,Suspended for several games,spectator,off field,Uruguay,29,No Moon,2002,Win,0
+816,not bite,Suspended for several games,goalkeeper,opponent team penalty area,Uruguay,21,Half,2002,Win,0
+817,bite,Yellow card,journalist,off field,Uruguay,36,No Moon,2002,Loss,0
+818,not bite,None,None,No location,Uruguay,90,No Moon,2002,Draw,1
+819,not bite,yellow card,midfielder,opponent team penalty area,Uruguay,89,No Moon,2002,Draw,1
+820,bite,Suspended for several games,midfielder,opponent team penalty area,Uruguay,84,Full,2002,Win,1
+821,not bite,yellow card,goalkeeper,midfield,Uruguay,11,Half,2002,Win,0
+822,bite,Yellow card,spectator,off field,Uruguay,89,No Moon,2002,Win,2
+823,bite,None,referee,his team penalty area,Uruguay,80,No Moon,2002,Win,1
+824,bite,Yellow card,midfielder,his team penalty area,Uruguay,63,Full,2002,Win,0
+825,not bite,Not Caught,midfielder,his team penalty area,Uruguay,2,No Moon,2002,Win,3
+826,not bite,yellow card,journalist,off field,Uruguay,6,Full,2002,Win,0
+827,not bite,yellow card,defender,opponent team penalty area,Uruguay,31,Full,2002,Win,1
+828,not bite,Yellow card,forward,midfield,Uruguay,70,No Moon,2002,Win,0
+829,not bite,None,None,No location,Uruguay,90,Half,2002,Loss,1
+830,not bite,None,None,No location,Uruguay,90,Half,2002,Draw,1
+831,not bite,None,None,No location,Uruguay,90,Half,2002,Win,3
+832,not bite,Yellow card,journalist,off field,Uruguay,6,Half,2002,Loss,2
+833,not bite,None,None,No location,Uruguay,90,No Moon,2002,Win,0
+834,not bite,None,None,No location,Uruguay,90,Full,2002,Win,1
+835,not bite,yellow card,journalist,off field,Uruguay,24,Half,2002,Loss,0
+836,not bite,yellow card,referee,midfield,Uruguay,71,Half,2002,Loss,0
+837,not bite,Yellow card,forward,off field,Uruguay,46,Half,2002,Loss,1
+838,not bite,None,None,No location,Uruguay,90,Half,2002,Win,2
+839,not bite,None,forward,his team penalty area,Uruguay,50,Half,2002,Loss,0
+840,not bite,Not Caught,referee,off field,Uruguay,77,Full,2002,Win,3
+841,not bite,None,None,No location,Uruguay,90,Full,2002,Win,1
+842,not bite,yellow card,goalkeeper,off field,Uruguay,56,Full,2002,Win,0
+843,not bite,yellow card,journalist,off field,Uruguay,33,Full,2002,Win,3
+844,not bite,None,None,No location,Uruguay,90,Half,2002,Win,2
+845,not bite,None,forward,opponent team penalty area,Uruguay,35,Half,2002,Win,1
+846,not bite,None,forward,his team penalty area,Uruguay,53,Half,2002,Draw,1
+847,not bite,yellow card,goalkeeper,midfield,Uruguay,24,Full,2002,Loss,0
+848,not bite,Yellow card,spectator,off field,Uruguay,53,Full,2002,Loss,0
+849,not bite,yellow card,defender,off field,Uruguay,62,No Moon,2002,Draw,2
+850,bite,Yellow card,journalist,off field,Uruguay,49,Full,2002,Win,1
+851,not bite,Red Card,journalist,off field,Uruguay,11,Half,2002,Loss,1
+852,not bite,None,None,No location,Uruguay,90,Full,2002,Win,2
+853,not bite,None,None,No location,Uruguay,90,No Moon,2002,Draw,0
+854,not bite,Yellow card,defender,opponent team penalty area,Uruguay,74,No Moon,2002,Win,2
+855,bite,Suspended for several games,referee,opponent team penalty area,Uruguay,86,No Moon,2002,Win,0
+856,not bite,yellow card,spectator,off field,Uruguay,38,Half,2002,Win,0
+857,not bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,88,Full,2002,Win,1
+858,bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,82,Full,2002,Draw,1
+859,not bite,Red Card,spectator,off field,Uruguay,71,No Moon,2002,Win,0
+860,not bite,None,defender,opponent team penalty area,Uruguay,64,No Moon,2002,Win,3
+861,not bite,None,None,No location,Uruguay,90,Full,2002,Win,3
+862,not bite,Suspended for several games,journalist,off field,Uruguay,46,Half,2002,Draw,0
+863,bite,Suspended for several games,midfielder,his team penalty area,Uruguay,22,No Moon,2002,Win,1
+864,bite,None,spectator,off field,Uruguay,88,Full,2002,Loss,1
+865,bite,Not Caught,referee,off field,Uruguay,69,No Moon,2002,Win,0
+866,not bite,None,None,No location,Uruguay,90,No Moon,2002,Win,2
+867,not bite,Suspended for several games,forward,midfield,Uruguay,63,Full,2002,Loss,1
+868,bite,Not Caught,journalist,off field,Uruguay,6,Half,2002,Win,2
+869,bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,70,Full,2002,Win,2
+870,bite,Not Caught,forward,opponent team penalty area,Uruguay,37,Full,2002,Win,0
+871,bite,Suspended for several games,spectator,off field,Uruguay,80,Half,2002,Draw,0
+872,not bite,Yellow card,forward,opponent team penalty area,Uruguay,34,Full,2002,Loss,3
+873,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,44,Full,2002,Loss,2
+874,not bite,Not Caught,midfielder,opponent team penalty area,Uruguay,69,No Moon,2002,Loss,3
+875,not bite,yellow card,forward,midfield,Uruguay,47,Full,2002,Win,3
+876,not bite,None,forward,his team penalty area,Uruguay,21,Half,2002,Loss,2
+877,bite,Red Card,referee,opponent team penalty area,Uruguay,65,Full,2002,Win,1
+878,not bite,Red Card,spectator,off field,Uruguay,26,Full,2002,Win,1
+879,not bite,yellow card,defender,opponent team penalty area,Uruguay,76,Full,2002,Win,1
+880,not bite,None,None,No location,Uruguay,90,Full,2003,Win,0
+881,not bite,None,None,No location,Uruguay,90,Full,2003,Win,1
+882,not bite,Not Caught,midfielder,his team penalty area,Uruguay,33,Half,2003,Loss,2
+883,not bite,Yellow card,spectator,off field,Uruguay,15,Full,2003,Loss,2
+884,not bite,yellow card,midfielder,his team penalty area,Uruguay,32,Half,2003,Win,2
+885,bite,Not Caught,defender,his team penalty area,Uruguay,8,Full,2003,Draw,1
+886,not bite,Not Caught,journalist,off field,Uruguay,39,Half,2003,Win,0
+887,not bite,None,None,No location,Uruguay,90,Full,2003,Win,0
+888,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,90,Full,2003,Win,1
+889,not bite,yellow card,forward,midfield,Uruguay,73,Half,2003,Loss,0
+890,bite,Red Card,midfielder,off field,Uruguay,2,Full,2003,Win,0
+891,bite,Yellow card,defender,off field,Uruguay,87,Half,2003,Loss,1
+892,not bite,None,None,No location,Uruguay,90,Half,2003,Draw,0
+893,not bite,None,None,No location,Uruguay,90,Half,2003,Win,0
+894,not bite,None,None,No location,Uruguay,90,Half,2003,Win,0
+895,bite,Not Caught,None,midfield,Uruguay,83,Full,2003,Win,0
+896,not bite,Not Caught,referee,his team penalty area,Uruguay,44,Full,2003,Win,0
+897,not bite,Suspended for several games,referee,his team penalty area,Uruguay,85,Half,2003,Win,0
+898,not bite,Yellow card,None,off field,Uruguay,82,Full,2003,Loss,2
+899,not bite,yellow card,journalist,off field,Uruguay,20,No Moon,2003,Loss,0
+900,bite,Red Card,None,off field,Uruguay,46,Half,2003,Draw,1
+901,not bite,Not Caught,referee,opponent team penalty area,Uruguay,4,Half,2003,Loss,0
+902,not bite,Not Caught,goalkeeper,opponent team penalty area,Uruguay,22,Half,2003,Loss,0
+903,bite,Not Caught,None,off field,Uruguay,86,Full,2003,Draw,3
+904,bite,None,forward,midfield,Uruguay,82,Full,2003,Loss,2
+905,not bite,yellow card,referee,midfield,Uruguay,23,Half,2003,Draw,0
+906,bite,None,spectator,off field,Uruguay,28,Full,2003,Win,0
+907,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,43,Half,2003,Loss,0
+908,not bite,yellow card,spectator,off field,Uruguay,5,Half,2003,Win,1
+909,not bite,None,None,No location,Uruguay,90,No Moon,2003,Draw,0
+910,not bite,Red Card,spectator,off field,Uruguay,44,Half,2003,Loss,0
+911,not bite,Suspended for several games,goalkeeper,off field,Uruguay,49,No Moon,2003,Draw,0
+912,not bite,Not Caught,midfielder,midfield,Uruguay,84,Full,2003,Draw,1
+913,bite,Suspended for several games,defender,his team penalty area,Uruguay,25,Full,2003,Loss,1
+914,not bite,Red Card,goalkeeper,off field,Uruguay,24,Full,2003,Draw,2
+915,not bite,Not Caught,forward,off field,Uruguay,7,Full,2003,Loss,0
+916,not bite,Suspended for several games,spectator,off field,Uruguay,66,No Moon,2003,Loss,0
+917,not bite,Suspended for several games,spectator,off field,Uruguay,1,No Moon,2003,Win,1
+918,not bite,None,None,No location,Uruguay,90,Half,2003,Loss,1
+919,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,37,No Moon,2003,Draw,2
+920,not bite,yellow card,referee,his team penalty area,Uruguay,70,Half,2003,Loss,0
+921,not bite,None,None,No location,Uruguay,90,No Moon,2003,Draw,1
+922,not bite,None,goalkeeper,opponent team penalty area,Uruguay,10,Half,2003,Win,2
+923,not bite,Red Card,referee,midfield,Uruguay,77,Full,2003,Win,2
+924,bite,Suspended for several games,None,off field,Uruguay,52,Half,2003,Win,2
+925,bite,Suspended for several games,midfielder,off field,Uruguay,40,Full,2003,Loss,2
+926,not bite,yellow card,defender,opponent team penalty area,Uruguay,29,Half,2003,Loss,2
+927,not bite,yellow card,spectator,off field,Uruguay,54,Half,2003,Draw,1
+928,not bite,Not Caught,journalist,off field,Uruguay,51,Half,2003,Win,0
+929,not bite,Not Caught,spectator,off field,Uruguay,78,No Moon,2003,Loss,0
+930,not bite,Suspended for several games,goalkeeper,midfield,Uruguay,42,Half,2003,Win,2
+931,not bite,Red Card,goalkeeper,midfield,Uruguay,86,Full,2003,Win,1
+932,not bite,None,referee,opponent team penalty area,Uruguay,65,No Moon,2003,Draw,1
+933,not bite,None,None,No location,Uruguay,90,Half,2003,Draw,1
+934,not bite,Yellow card,referee,off field,Uruguay,26,Full,2003,Win,1
+935,not bite,Not Caught,midfielder,midfield,Uruguay,50,Half,2003,Draw,0
+936,not bite,None,None,No location,Uruguay,90,Full,2003,Win,0
+937,not bite,Red Card,midfielder,midfield,Uruguay,82,Full,2003,Win,0
+938,not bite,None,None,No location,Uruguay,90,Half,2003,Draw,2
+939,not bite,None,None,No location,Uruguay,90,No Moon,2003,Win,1
+940,bite,Yellow card,spectator,off field,Uruguay,82,Full,2003,Win,0
+941,not bite,None,journalist,off field,Uruguay,28,No Moon,2003,Win,0
+942,not bite,Suspended for several games,goalkeeper,opponent team penalty area,Uruguay,62,Full,2003,Win,2
+943,not bite,Red Card,referee,opponent team penalty area,Uruguay,74,Full,2003,Win,3
+944,bite,Not Caught,defender,his team penalty area,Uruguay,38,No Moon,2003,Win,2
+945,not bite,Yellow card,referee,opponent team penalty area,Uruguay,63,Half,2003,Draw,2
+946,bite,Not Caught,goalkeeper,his team penalty area,Uruguay,88,Full,2003,Draw,1
+947,not bite,Yellow card,goalkeeper,his team penalty area,Uruguay,55,Full,2003,Win,1
+948,not bite,None,None,No location,Uruguay,90,Full,2004,Win,2
+949,not bite,None,spectator,off field,Uruguay,79,Half,2004,Loss,1
+950,not bite,Red Card,spectator,off field,Uruguay,21,Half,2004,Win,3
+951,not bite,Red Card,goalkeeper,off field,Uruguay,61,Full,2004,Draw,1
+952,not bite,Not Caught,goalkeeper,his team penalty area,Uruguay,5,Half,2004,Loss,0
+953,not bite,Suspended for several games,referee,off field,Uruguay,17,Half,2004,Draw,0
+954,bite,None,referee,midfield,Uruguay,82,Half,2004,Draw,0
+955,not bite,Yellow card,referee,midfield,Uruguay,58,Full,2004,Loss,2
+956,not bite,None,None,No location,Uruguay,90,Half,2004,Win,0
+957,not bite,None,referee,off field,Uruguay,61,Half,2004,Win,0
+958,not bite,yellow card,spectator,off field,Uruguay,55,Half,2004,Draw,0
+959,not bite,None,None,No location,Uruguay,90,No Moon,2004,Win,0
+960,not bite,Suspended for several games,None,his team penalty area,Uruguay,55,No Moon,2004,Win,3
+961,not bite,Suspended for several games,spectator,off field,Uruguay,32,Half,2004,Win,3
+962,not bite,yellow card,spectator,off field,Uruguay,21,Full,2004,Win,0
+963,not bite,None,None,No location,Uruguay,90,Full,2004,Win,0
+964,bite,Red Card,goalkeeper,midfield,Uruguay,83,Full,2004,Loss,1
+965,not bite,Suspended for several games,forward,midfield,Uruguay,1,Full,2004,Win,0
+966,bite,None,None,midfield,Uruguay,90,Full,2004,Loss,1
+967,not bite,Red Card,goalkeeper,off field,Uruguay,51,Half,2004,Win,0
+968,not bite,Yellow card,goalkeeper,midfield,Uruguay,2,Full,2004,Win,1
+969,bite,Not Caught,journalist,off field,Uruguay,85,Half,2004,Draw,0
+970,not bite,Suspended for several games,forward,midfield,Uruguay,1,Half,2004,Loss,1
+971,bite,None,goalkeeper,his team penalty area,Uruguay,89,Full,2004,Win,0
+972,not bite,None,None,No location,Uruguay,90,No Moon,2004,Draw,0
+973,not bite,Suspended for several games,midfielder,his team penalty area,Uruguay,80,No Moon,2004,Draw,2
+974,not bite,None,None,midfield,Uruguay,84,No Moon,2004,Draw,1
+975,not bite,Yellow card,forward,off field,Uruguay,9,Full,2004,Win,2
+976,bite,None,goalkeeper,his team penalty area,Uruguay,22,Half,2004,Draw,0
+977,not bite,None,None,No location,Uruguay,90,No Moon,2004,Draw,2
+978,bite,Not Caught,journalist,off field,Uruguay,31,Full,2004,Win,1
+979,bite,Suspended for several games,goalkeeper,off field,Uruguay,87,No Moon,2004,Win,1
+980,not bite,Suspended for several games,forward,opponent team penalty area,Uruguay,33,Full,2004,Draw,0
+981,not bite,Red Card,journalist,off field,Uruguay,80,Half,2004,Draw,1
+982,not bite,None,None,No location,Uruguay,90,No Moon,2004,Loss,0
+983,not bite,Red Card,spectator,off field,Uruguay,41,No Moon,2004,Win,0
+984,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,15,Full,2004,Win,0
+985,not bite,Not Caught,goalkeeper,his team penalty area,Uruguay,55,Half,2004,Draw,2
+986,not bite,None,midfielder,off field,Uruguay,71,No Moon,2004,Win,2
+987,not bite,Yellow card,forward,his team penalty area,Uruguay,23,Full,2004,Draw,1
+988,not bite,Yellow card,midfielder,midfield,Uruguay,88,Full,2004,Win,1
+989,bite,Yellow card,midfielder,opponent team penalty area,Uruguay,86,Full,2004,Draw,0
+990,not bite,Yellow card,journalist,off field,Uruguay,43,Full,2004,Win,1
+991,bite,Yellow card,None,midfield,Uruguay,83,Half,2004,Loss,2
+992,not bite,None,None,No location,Uruguay,90,Half,2004,Loss,0
+993,not bite,Red Card,defender,opponent team penalty area,Uruguay,67,No Moon,2004,Draw,1
+994,not bite,None,journalist,off field,Uruguay,25,Full,2004,Win,0
+995,not bite,Not Caught,midfielder,midfield,Uruguay,17,Half,2004,Loss,3
+996,not bite,yellow card,midfielder,opponent team penalty area,Uruguay,34,No Moon,2004,Draw,1
+997,not bite,yellow card,goalkeeper,opponent team penalty area,Uruguay,88,No Moon,2004,Draw,1
+998,bite,None,journalist,off field,Uruguay,85,Full,2004,Win,1
+999,bite,Suspended for several games,referee,off field,Uruguay,8,No Moon,2004,Loss,2
+1000,not bite,None,goalkeeper,midfield,Uruguay,87,No Moon,2004,Loss,1
+1001,not bite,None,None,No location,Uruguay,90,Half,2004,Draw,0
+1002,not bite,yellow card,goalkeeper,his team penalty area,Uruguay,12,No Moon,2004,Win,0
+1003,not bite,Red Card,spectator,off field,Uruguay,51,Full,2004,Draw,1
+1004,not bite,Not Caught,journalist,off field,Uruguay,37,No Moon,2004,Draw,2
+1005,not bite,yellow card,forward,his team penalty area,Uruguay,18,No Moon,2004,Win,0
+1006,bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,87,Half,2004,Loss,1
+1007,not bite,Suspended for several games,forward,his team penalty area,Uruguay,47,Full,2004,Draw,0
+1008,not bite,Not Caught,journalist,off field,Uruguay,64,Full,2004,Loss,2
+1009,bite,Red Card,defender,his team penalty area,Uruguay,9,Full,2004,Loss,0
+1010,not bite,Red Card,forward,off field,Uruguay,23,No Moon,2004,Win,2
+1011,not bite,yellow card,spectator,off field,Uruguay,6,No Moon,2004,Loss,2
+1012,bite,Yellow card,defender,opponent team penalty area,Uruguay,34,Full,2004,Loss,0
+1013,bite,Not Caught,journalist,off field,Uruguay,83,Full,2004,Draw,2
+1014,not bite,Red Card,defender,off field,Uruguay,21,Half,2004,Draw,1
+1015,not bite,Not Caught,midfielder,opponent team penalty area,Uruguay,68,Half,2004,Win,0
+1016,not bite,Not Caught,forward,his team penalty area,Uruguay,43,No Moon,2004,Draw,1
+1017,bite,Suspended for several games,spectator,off field,Uruguay,5,No Moon,2004,Win,2
+1018,bite,None,None,off field,Uruguay,80,Full,2004,Win,2
+1019,bite,Not Caught,referee,off field,Uruguay,73,Half,2004,Loss,2
+1020,not bite,None,None,No location,Uruguay,90,No Moon,2004,Draw,2
+1021,not bite,Yellow card,forward,opponent team penalty area,Uruguay,54,Half,2004,Win,3
+1022,not bite,Suspended for several games,journalist,off field,Uruguay,8,Half,2004,Win,2
+1023,bite,Red Card,defender,off field,Uruguay,22,No Moon,2004,Loss,1
+1024,not bite,Red Card,spectator,off field,Uruguay,29,Half,2004,Win,1
+1025,bite,Not Caught,defender,off field,Uruguay,85,Half,2004,Win,0
+1026,bite,Yellow card,None,his team penalty area,Uruguay,53,Full,2004,Win,0
+1027,not bite,None,None,No location,Uruguay,90,Half,2004,Draw,2
+1028,not bite,Not Caught,defender,opponent team penalty area,Uruguay,32,Half,2004,Draw,0
+1029,bite,Not Caught,goalkeeper,midfield,Uruguay,88,No Moon,2004,Draw,2
+1030,not bite,Yellow card,journalist,off field,Uruguay,61,Full,2004,Loss,0
+1031,not bite,yellow card,forward,midfield,Uruguay,66,Full,2004,Win,1
+1032,bite,Yellow card,spectator,off field,Uruguay,83,Half,2004,Win,1
+1033,not bite,yellow card,referee,off field,Uruguay,6,Full,2004,Win,2
+1034,bite,Yellow card,spectator,off field,Uruguay,84,Full,2004,Win,1
+1035,not bite,Not Caught,journalist,off field,Uruguay,30,Half,2004,Draw,0
+1036,not bite,Suspended for several games,spectator,off field,Uruguay,62,No Moon,2004,Draw,1
+1037,not bite,Red Card,None,opponent team penalty area,Uruguay,61,Half,2004,Win,3
+1038,bite,Yellow card,None,his team penalty area,Uruguay,45,Full,2004,Loss,1
+1039,not bite,Suspended for several games,midfielder,off field,Uruguay,54,No Moon,2004,Draw,1
+1040,not bite,None,None,No location,Uruguay,90,No Moon,2004,Loss,0
+1041,not bite,None,None,No location,Uruguay,90,Half,2004,Loss,1
+1042,bite,Yellow card,defender,midfield,Uruguay,41,Full,2005,Win,1
+1043,not bite,None,None,No location,Uruguay,90,No Moon,2005,Win,1
+1044,bite,Suspended for several games,journalist,off field,Uruguay,85,Half,2005,Win,1
+1045,bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,20,Half,2005,Draw,2
+1046,not bite,Red Card,journalist,off field,Uruguay,80,Full,2005,Draw,3
+1047,not bite,Suspended for several games,forward,his team penalty area,Uruguay,37,Half,2005,Win,1
+1048,not bite,None,None,midfield,Uruguay,24,No Moon,2005,Loss,0
+1049,not bite,None,None,No location,Uruguay,90,No Moon,2005,Win,2
+1050,not bite,yellow card,midfielder,midfield,Uruguay,27,No Moon,2005,Win,2
+1051,bite,Red Card,referee,midfield,Uruguay,87,Full,2005,Win,0
+1052,not bite,None,None,No location,Uruguay,90,Full,2005,Draw,0
+1053,not bite,Suspended for several games,midfielder,his team penalty area,Uruguay,2,Half,2005,Draw,1
+1054,not bite,Yellow card,journalist,off field,Uruguay,32,Half,2005,Loss,2
+1055,not bite,None,None,No location,Uruguay,90,Full,2005,Win,4
+1056,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,86,Half,2005,Loss,1
+1057,not bite,None,defender,midfield,Uruguay,80,Full,2005,Draw,2
+1058,not bite,Red Card,journalist,off field,Uruguay,56,No Moon,2005,Win,0
+1059,not bite,Yellow card,spectator,off field,Uruguay,61,No Moon,2005,Loss,2
+1060,not bite,Not Caught,goalkeeper,his team penalty area,Uruguay,61,No Moon,2005,Win,0
+1061,bite,Suspended for several games,goalkeeper,opponent team penalty area,Uruguay,17,Full,2005,Draw,2
+1062,not bite,Yellow card,goalkeeper,his team penalty area,Uruguay,62,Full,2005,Win,2
+1063,not bite,yellow card,defender,opponent team penalty area,Uruguay,63,No Moon,2005,Draw,3
+1064,bite,Suspended for several games,defender,midfield,Uruguay,81,Full,2005,Draw,1
+1065,not bite,Suspended for several games,journalist,off field,Uruguay,66,Half,2005,Loss,0
+1066,not bite,Not Caught,None,opponent team penalty area,Uruguay,55,No Moon,2005,Draw,0
+1067,not bite,Suspended for several games,spectator,off field,Uruguay,26,Half,2005,Win,1
+1068,not bite,None,None,No location,Uruguay,90,Full,2005,Win,1
+1069,not bite,Not Caught,referee,his team penalty area,Uruguay,62,Half,2005,Loss,2
+1070,bite,Red Card,forward,opponent team penalty area,Uruguay,81,Half,2005,Win,0
+1071,not bite,Not Caught,forward,off field,Uruguay,21,Full,2005,Win,0
+1072,not bite,None,journalist,off field,Uruguay,61,Half,2005,Loss,0
+1073,not bite,None,None,No location,Uruguay,90,Full,2005,Draw,2
+1074,not bite,Suspended for several games,defender,off field,Uruguay,79,No Moon,2005,Draw,1
+1075,not bite,Not Caught,referee,opponent team penalty area,Uruguay,90,Half,2005,Draw,0
+1076,bite,Not Caught,None,opponent team penalty area,Uruguay,43,No Moon,2005,Loss,3
+1077,not bite,Not Caught,defender,his team penalty area,Uruguay,0,No Moon,2005,Win,1
+1078,not bite,Red Card,goalkeeper,his team penalty area,Uruguay,79,Half,2005,Draw,1
+1079,bite,None,journalist,off field,Uruguay,14,No Moon,2005,Loss,3
+1080,not bite,Red Card,referee,midfield,Uruguay,22,Full,2005,Win,2
+1081,not bite,yellow card,None,off field,Uruguay,1,Full,2005,Win,2
+1082,bite,None,None,his team penalty area,Uruguay,84,Half,2005,Win,0
+1083,bite,Suspended for several games,forward,opponent team penalty area,Uruguay,88,No Moon,2005,Win,1
+1084,bite,Red Card,midfielder,his team penalty area,Uruguay,27,Half,2005,Loss,1
+1085,not bite,yellow card,None,his team penalty area,Uruguay,71,Full,2005,Win,0
+1086,bite,Not Caught,referee,midfield,Uruguay,81,No Moon,2005,Win,1
+1087,bite,Suspended for several games,referee,opponent team penalty area,Uruguay,90,Full,2005,Loss,1
+1088,not bite,yellow card,goalkeeper,opponent team penalty area,Uruguay,82,Full,2005,Win,1
+1089,bite,Red Card,None,his team penalty area,Uruguay,31,Half,2005,Win,0
+1090,not bite,yellow card,spectator,off field,Uruguay,19,Full,2005,Win,1
+1091,not bite,yellow card,goalkeeper,his team penalty area,Uruguay,2,Full,2005,Win,1
+1092,not bite,Not Caught,defender,off field,Uruguay,51,Half,2005,Loss,2
+1093,bite,Suspended for several games,referee,opponent team penalty area,Uruguay,48,No Moon,2005,Win,2
+1094,not bite,Not Caught,None,midfield,Uruguay,17,Half,2005,Win,1
+1095,not bite,None,None,No location,Uruguay,90,Full,2005,Win,2
+1096,not bite,yellow card,spectator,off field,Uruguay,64,Full,2005,Loss,2
+1097,not bite,yellow card,journalist,off field,Uruguay,58,No Moon,2005,Draw,1
+1098,not bite,Red Card,spectator,off field,Uruguay,43,Full,2005,Draw,2
+1099,bite,Red Card,forward,off field,Uruguay,42,Full,2005,Draw,2
+1100,not bite,Suspended for several games,spectator,off field,Uruguay,0,No Moon,2005,Draw,0
+1101,bite,Yellow card,journalist,off field,Uruguay,83,No Moon,2005,Loss,1
+1102,not bite,None,None,No location,Uruguay,90,Full,2005,Win,1
+1103,not bite,None,None,his team penalty area,Uruguay,48,Full,2005,Loss,2
+1104,not bite,Yellow card,spectator,off field,Uruguay,65,No Moon,2005,Draw,1
+1105,not bite,Yellow card,journalist,off field,Uruguay,58,No Moon,2005,Win,2
+1106,not bite,None,None,No location,Uruguay,90,Half,2005,Win,1
+1107,not bite,Not Caught,goalkeeper,off field,Uruguay,1,Half,2005,Draw,0
+1108,not bite,Suspended for several games,forward,opponent team penalty area,Uruguay,29,Half,2005,Loss,2
+1109,not bite,yellow card,forward,off field,Uruguay,76,No Moon,2005,Win,1
+1110,not bite,Suspended for several games,referee,off field,Uruguay,37,No Moon,2005,Draw,1
+1111,not bite,Not Caught,journalist,off field,Uruguay,58,Half,2005,Draw,3
+1112,not bite,Red Card,goalkeeper,opponent team penalty area,Uruguay,24,Half,2005,Draw,2
+1113,not bite,Suspended for several games,defender,off field,Uruguay,43,Half,2005,Win,0
+1114,bite,Red Card,journalist,off field,Uruguay,70,No Moon,2005,Win,2
+1115,bite,Suspended for several games,None,midfield,Uruguay,42,Half,2005,Draw,2
+1116,bite,Suspended for several games,goalkeeper,off field,Uruguay,30,No Moon,2005,Win,2
+1117,not bite,Not Caught,None,off field,Uruguay,69,Half,2005,Draw,1
+1118,bite,Red Card,journalist,off field,Uruguay,86,Full,2005,Draw,0
+1119,not bite,None,None,No location,Uruguay,90,No Moon,2005,Loss,3
+1120,not bite,yellow card,forward,off field,Uruguay,17,Half,2005,Win,0
+1121,not bite,Not Caught,None,off field,Uruguay,56,No Moon,2005,Loss,1
+1122,bite,Suspended for several games,midfielder,opponent team penalty area,Uruguay,85,Half,2005,Win,1
+1123,not bite,Not Caught,forward,his team penalty area,Uruguay,34,Full,2005,Win,0
+1124,not bite,None,None,No location,Uruguay,90,Full,2005,Draw,1
+1125,not bite,Yellow card,forward,midfield,Uruguay,44,Full,2005,Loss,2
+1126,bite,Yellow card,defender,opponent team penalty area,Uruguay,84,No Moon,2005,Loss,0
+1127,bite,Yellow card,defender,his team penalty area,Uruguay,15,No Moon,2005,Win,0
+1128,not bite,Suspended for several games,midfielder,off field,Uruguay,33,Full,2006,Win,0
+1129,not bite,None,goalkeeper,his team penalty area,Uruguay,18,Half,2006,Loss,1
+1130,not bite,None,None,No location,Uruguay,90,No Moon,2006,Draw,1
+1131,not bite,Not Caught,journalist,off field,Uruguay,23,Half,2006,Win,0
+1132,not bite,Yellow card,forward,opponent team penalty area,Uruguay,4,No Moon,2006,Loss,0
+1133,not bite,Suspended for several games,None,off field,Uruguay,43,Half,2006,Loss,1
+1134,not bite,Not Caught,referee,off field,Uruguay,69,Full,2006,Loss,1
+1135,not bite,yellow card,journalist,off field,Uruguay,64,Full,2006,Win,1
+1136,not bite,Yellow card,forward,midfield,Uruguay,34,Full,2006,Win,3
+1137,not bite,None,None,No location,Uruguay,90,Full,2006,Loss,0
+1138,bite,Not Caught,spectator,off field,Uruguay,48,No Moon,2006,Loss,1
+1139,not bite,Suspended for several games,forward,his team penalty area,Uruguay,15,Full,2006,Loss,1
+1140,not bite,Not Caught,journalist,off field,Uruguay,1,Full,2006,Loss,0
+1141,not bite,Suspended for several games,midfielder,off field,Uruguay,42,Full,2006,Draw,0
+1142,bite,Suspended for several games,spectator,off field,Uruguay,12,Full,2006,Win,2
+1143,bite,Suspended for several games,goalkeeper,midfield,Uruguay,71,Full,2006,Draw,1
+1144,not bite,None,None,No location,Uruguay,90,No Moon,2006,Win,0
+1145,not bite,Red Card,journalist,off field,Uruguay,23,No Moon,2006,Loss,2
+1146,not bite,Not Caught,forward,off field,Uruguay,60,No Moon,2006,Win,2
+1147,not bite,Suspended for several games,defender,off field,Uruguay,26,No Moon,2006,Draw,0
+1148,not bite,Suspended for several games,journalist,off field,Uruguay,59,Full,2006,Draw,0
+1149,not bite,Yellow card,journalist,off field,Uruguay,37,Half,2006,Draw,0
+1150,not bite,yellow card,midfielder,midfield,Uruguay,14,Full,2006,Win,2
+1151,not bite,yellow card,spectator,off field,Uruguay,65,Full,2006,Draw,2
+1152,not bite,None,None,No location,Uruguay,90,Half,2006,Win,2
+1153,not bite,Yellow card,goalkeeper,off field,Uruguay,77,No Moon,2006,Win,0
+1154,bite,Yellow card,journalist,off field,Uruguay,38,Half,2006,Loss,2
+1155,not bite,Red Card,midfielder,opponent team penalty area,Uruguay,73,Half,2006,Loss,0
+1156,not bite,yellow card,defender,midfield,Uruguay,18,Half,2006,Win,1
+1157,not bite,Yellow card,midfielder,his team penalty area,Uruguay,9,Full,2006,Loss,2
+1158,not bite,Yellow card,referee,opponent team penalty area,Uruguay,14,Half,2006,Win,0
+1159,not bite,None,None,No location,Uruguay,90,Full,2006,Win,1
+1160,not bite,None,None,No location,Uruguay,90,No Moon,2006,Win,2
+1161,bite,Red Card,midfielder,off field,Uruguay,4,Full,2006,Draw,0
+1162,bite,Not Caught,midfielder,midfield,Uruguay,85,Half,2006,Win,2
+1163,not bite,None,midfielder,opponent team penalty area,Uruguay,51,Full,2006,Draw,2
+1164,bite,Suspended for several games,forward,off field,Uruguay,89,Half,2006,Win,1
+1165,not bite,Red Card,midfielder,midfield,Uruguay,30,Half,2006,Loss,0
+1166,not bite,None,None,No location,Uruguay,90,Half,2006,Draw,1
+1167,not bite,Yellow card,forward,midfield,Uruguay,50,No Moon,2006,Loss,3
+1168,not bite,yellow card,goalkeeper,midfield,Uruguay,46,Full,2006,Draw,0
+1169,bite,Yellow card,journalist,off field,Uruguay,85,No Moon,2006,Draw,1
+1170,not bite,Not Caught,journalist,off field,Uruguay,25,Full,2006,Draw,2
+1171,not bite,Not Caught,referee,off field,Uruguay,66,No Moon,2006,Draw,1
+1172,not bite,Not Caught,midfielder,off field,Uruguay,46,Full,2006,Draw,2
+1173,not bite,Not Caught,journalist,off field,Uruguay,64,No Moon,2006,Win,0
+1174,not bite,None,None,No location,Uruguay,90,Half,2006,Win,1
+1175,bite,Suspended for several games,goalkeeper,off field,Uruguay,48,Full,2006,Win,1
+1176,bite,Not Caught,journalist,off field,Uruguay,80,Full,2006,Win,0
+1177,not bite,None,goalkeeper,off field,Uruguay,57,No Moon,2006,Draw,2
+1178,not bite,Red Card,None,opponent team penalty area,Uruguay,90,Full,2006,Win,0
+1179,not bite,Suspended for several games,midfielder,opponent team penalty area,Uruguay,33,Full,2006,Loss,1
+1180,bite,Yellow card,None,opponent team penalty area,Uruguay,81,Half,2006,Draw,1
+1181,bite,Yellow card,forward,his team penalty area,Uruguay,25,No Moon,2006,Loss,0
+1182,not bite,Yellow card,spectator,off field,Uruguay,72,Full,2006,Draw,1
+1183,not bite,Not Caught,None,midfield,Uruguay,56,Full,2006,Win,1
+1184,bite,Red Card,midfielder,off field,Uruguay,21,No Moon,2006,Draw,0
+1185,bite,None,spectator,off field,Uruguay,84,Full,2006,Win,1
+1186,not bite,yellow card,spectator,off field,Uruguay,36,Half,2006,Loss,1
+1187,not bite,None,None,No location,Uruguay,90,No Moon,2006,Draw,0
+1188,not bite,yellow card,None,his team penalty area,Uruguay,41,Half,2006,Draw,0
+1189,bite,Red Card,journalist,off field,Uruguay,83,Full,2006,Win,0
+1190,not bite,None,None,No location,Uruguay,90,No Moon,2006,Win,2
+1191,not bite,yellow card,referee,opponent team penalty area,Uruguay,57,No Moon,2006,Win,1
+1192,not bite,Not Caught,midfielder,his team penalty area,Uruguay,77,No Moon,2006,Loss,0
+1193,not bite,Yellow card,journalist,off field,Uruguay,9,No Moon,2006,Draw,2
+1194,not bite,Suspended for several games,midfielder,his team penalty area,Uruguay,38,No Moon,2006,Win,0
+1195,not bite,Yellow card,defender,opponent team penalty area,Uruguay,39,Half,2006,Draw,1
+1196,bite,Red Card,referee,off field,Uruguay,84,No Moon,2006,Draw,0
+1197,not bite,yellow card,journalist,off field,Uruguay,60,Half,2006,Win,0
+1198,not bite,Red Card,journalist,off field,Uruguay,7,Half,2006,Draw,0
+1199,not bite,Yellow card,forward,midfield,Uruguay,10,No Moon,2006,Draw,2
+1200,not bite,None,None,No location,Uruguay,90,No Moon,2006,Win,3
+1201,not bite,Suspended for several games,goalkeeper,off field,Uruguay,45,No Moon,2006,Win,1
+1202,bite,Not Caught,None,opponent team penalty area,Uruguay,85,Half,2006,Draw,0
+1203,not bite,None,None,No location,Uruguay,90,Full,2006,Win,1
+1204,not bite,None,journalist,off field,Uruguay,21,Full,2006,Win,2
+1205,not bite,Red Card,goalkeeper,midfield,Uruguay,47,Half,2006,Win,1
+1206,not bite,Red Card,journalist,off field,Netherlands,16,Full,2006,Win,1
+1207,not bite,None,goalkeeper,midfield,Netherlands,60,Full,2006,Win,1
+1208,not bite,None,forward,his team penalty area,Netherlands,41,Half,2006,Draw,2
+1209,not bite,Not Caught,forward,off field,Netherlands,52,Full,2006,Loss,2
+1210,not bite,None,None,No location,Netherlands,90,No Moon,2006,Win,0
+1211,not bite,Not Caught,journalist,off field,Netherlands,42,Half,2006,Win,0
+1212,not bite,Red Card,goalkeeper,off field,Netherlands,34,Full,2006,Loss,0
+1213,not bite,Not Caught,forward,his team penalty area,Netherlands,4,Full,2006,Loss,0
+1214,not bite,None,None,No location,Netherlands,90,Full,2006,Win,3
+1215,not bite,yellow card,defender,off field,Netherlands,67,Half,2006,Draw,1
+1216,not bite,Suspended for several games,journalist,off field,Netherlands,48,Full,2006,Win,1
+1217,not bite,None,None,No location,Netherlands,90,Half,2006,Win,1
+1218,not bite,yellow card,spectator,off field,Netherlands,77,Half,2006,Draw,1
+1219,bite,Not Caught,None,his team penalty area,Netherlands,80,Full,2006,Draw,0
+1220,bite,Yellow card,goalkeeper,his team penalty area,Netherlands,86,No Moon,2006,Draw,2
+1221,not bite,None,None,No location,Netherlands,90,Half,2006,Win,1
+1222,bite,Yellow card,spectator,off field,Netherlands,90,Half,2006,Draw,0
+1223,not bite,Not Caught,forward,off field,Netherlands,4,Half,2006,Loss,3
+1224,bite,Not Caught,goalkeeper,midfield,Netherlands,88,Full,2006,Draw,2
+1225,not bite,yellow card,referee,his team penalty area,Netherlands,27,Half,2006,Loss,0
+1226,bite,None,midfielder,his team penalty area,Netherlands,84,No Moon,2006,Win,0
+1227,not bite,Not Caught,forward,opponent team penalty area,Netherlands,79,Full,2006,Draw,2
+1228,bite,Suspended for several games,goalkeeper,opponent team penalty area,Netherlands,82,Full,2006,Draw,3
+1229,not bite,Red Card,defender,off field,Netherlands,67,Full,2006,Win,0
+1230,not bite,None,None,No location,Netherlands,90,Full,2006,Win,0
+1231,not bite,Suspended for several games,goalkeeper,off field,Netherlands,35,No Moon,2006,Win,4
+1232,not bite,None,None,No location,Netherlands,90,No Moon,2007,Loss,0
+1233,not bite,Not Caught,journalist,off field,Netherlands,26,Full,2007,Win,0
+1234,bite,Yellow card,midfielder,midfield,Netherlands,88,Full,2007,Win,2
+1235,not bite,None,None,No location,Netherlands,90,Full,2007,Win,0
+1236,not bite,None,None,No location,Netherlands,90,Half,2007,Win,2
+1237,not bite,None,None,No location,Netherlands,90,Half,2007,Loss,0
+1238,not bite,Not Caught,spectator,off field,Netherlands,53,Half,2007,Win,1
+1239,not bite,Suspended for several games,forward,off field,Netherlands,6,Full,2007,Loss,1
+1240,not bite,None,None,No location,Netherlands,90,Half,2007,Win,1
+1241,bite,Suspended for several games,defender,off field,Netherlands,89,Full,2007,Draw,1
+1242,not bite,None,None,No location,Netherlands,90,No Moon,2007,Win,1
+1243,not bite,Red Card,defender,off field,Netherlands,70,Full,2007,Win,0
+1244,not bite,Not Caught,journalist,off field,Netherlands,29,Half,2007,Loss,2
+1245,not bite,Not Caught,forward,his team penalty area,Netherlands,47,Full,2007,Draw,2
+1246,not bite,Suspended for several games,defender,opponent team penalty area,Netherlands,10,Half,2007,Draw,2
+1247,not bite,None,forward,midfield,Netherlands,52,Full,2007,Win,0
+1248,not bite,Yellow card,forward,off field,Netherlands,90,Half,2007,Draw,1
+1249,not bite,Not Caught,spectator,off field,Netherlands,57,Half,2007,Win,3
+1250,not bite,None,midfielder,opponent team penalty area,Netherlands,84,Full,2007,Draw,2
+1251,not bite,None,None,No location,Netherlands,90,Half,2007,Win,1
+1252,not bite,yellow card,spectator,off field,Netherlands,36,Full,2007,Win,1
+1253,not bite,None,None,No location,Netherlands,90,No Moon,2007,Loss,1
+1254,not bite,yellow card,referee,off field,Netherlands,83,Full,2007,Loss,0
+1255,not bite,None,None,No location,Netherlands,90,No Moon,2007,Loss,2
+1256,not bite,yellow card,midfielder,his team penalty area,Netherlands,7,Full,2007,Win,2
+1257,not bite,None,None,No location,Netherlands,90,Half,2007,Draw,2
+1258,not bite,yellow card,midfielder,midfield,Netherlands,32,No Moon,2007,Win,2
+1259,not bite,Yellow card,spectator,off field,Netherlands,19,Full,2007,Loss,0
+1260,not bite,Red Card,referee,opponent team penalty area,Netherlands,9,Full,2007,Loss,0
+1261,not bite,yellow card,journalist,off field,Netherlands,34,Full,2007,Draw,1
+1262,not bite,None,None,No location,Netherlands,90,No Moon,2007,Win,2
+1263,not bite,None,None,No location,Netherlands,90,No Moon,2007,Draw,1
+1264,bite,Yellow card,referee,midfield,Netherlands,89,No Moon,2007,Draw,0
+1265,not bite,Red Card,midfielder,opponent team penalty area,Netherlands,90,Full,2007,Loss,1
+1266,bite,Red Card,defender,his team penalty area,Netherlands,85,Full,2007,Draw,0
+1267,not bite,Not Caught,forward,midfield,Netherlands,58,Half,2007,Win,1
+1268,not bite,Yellow card,journalist,off field,Netherlands,73,Full,2007,Draw,2
+1269,not bite,Suspended for several games,journalist,off field,Netherlands,70,Full,2007,Loss,1
+1270,not bite,Not Caught,None,his team penalty area,Netherlands,41,Full,2007,Win,0
+1271,not bite,None,spectator,off field,Netherlands,40,Half,2007,Draw,0
+1272,not bite,Yellow card,defender,opponent team penalty area,Netherlands,71,Half,2007,Draw,1
+1273,not bite,Suspended for several games,forward,off field,Netherlands,50,No Moon,2007,Win,0
+1274,not bite,None,None,No location,Netherlands,90,Half,2007,Draw,2
+1275,not bite,None,None,No location,Netherlands,90,Full,2007,Draw,1
+1276,not bite,Yellow card,midfielder,his team penalty area,Netherlands,2,Full,2007,Win,1
+1277,not bite,None,None,No location,Netherlands,90,Half,2007,Draw,3
+1278,not bite,None,None,No location,Netherlands,90,Half,2007,Win,2
+1279,not bite,None,journalist,off field,Netherlands,78,Full,2007,Loss,3
+1280,not bite,None,None,No location,Netherlands,90,Half,2007,Draw,1
+1281,not bite,Not Caught,spectator,off field,Netherlands,82,Full,2007,Win,1
+1282,not bite,Suspended for several games,spectator,off field,Netherlands,7,Full,2007,Loss,3
+1283,not bite,None,None,No location,Netherlands,90,No Moon,2007,Draw,3
+1284,not bite,Yellow card,spectator,off field,Netherlands,11,Half,2007,Draw,1
+1285,not bite,Suspended for several games,defender,off field,Netherlands,61,No Moon,2007,Draw,1
+1286,not bite,None,None,No location,Netherlands,90,Half,2007,Win,1
+1287,not bite,None,None,No location,Netherlands,90,Full,2007,Draw,0
+1288,not bite,Red Card,None,his team penalty area,Netherlands,65,Half,2007,Win,1
+1289,not bite,yellow card,journalist,off field,Netherlands,64,Full,2007,Win,0
+1290,not bite,None,None,No location,Netherlands,90,No Moon,2007,Draw,1
+1291,bite,Not Caught,None,off field,Netherlands,82,Half,2007,Win,1
+1292,bite,Suspended for several games,defender,opponent team penalty area,Netherlands,84,Full,2007,Draw,1
+1293,not bite,Suspended for several games,journalist,off field,Netherlands,17,Full,2007,Loss,0
+1294,not bite,None,defender,his team penalty area,Netherlands,4,No Moon,2007,Win,1
+1295,not bite,Red Card,goalkeeper,his team penalty area,Netherlands,69,Full,2007,Win,1
+1296,not bite,None,None,No location,Netherlands,90,Full,2007,Loss,2
+1297,not bite,Not Caught,midfielder,midfield,Netherlands,24,Half,2007,Loss,2
+1298,not bite,Red Card,goalkeeper,opponent team penalty area,Netherlands,30,No Moon,2007,Draw,2
+1299,not bite,Red Card,goalkeeper,his team penalty area,Netherlands,8,No Moon,2007,Draw,2
+1300,bite,None,referee,opponent team penalty area,Netherlands,81,No Moon,2007,Loss,1
+1301,not bite,None,None,No location,Netherlands,90,Full,2007,Win,0
+1302,not bite,None,None,No location,Netherlands,90,Full,2007,Loss,2
+1303,not bite,Yellow card,journalist,off field,Netherlands,9,Full,2007,Draw,0
+1304,bite,None,defender,his team penalty area,Netherlands,85,Full,2007,Draw,1
+1305,not bite,None,None,No location,Netherlands,90,Full,2007,Win,2
+1306,not bite,Red Card,midfielder,opponent team penalty area,Netherlands,62,Half,2007,Win,1
+1307,not bite,None,forward,opponent team penalty area,Netherlands,2,Full,2007,Draw,1
+1308,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,82,Full,2007,Win,1
+1309,bite,None,None,opponent team penalty area,Netherlands,89,Full,2007,Win,0
+1310,not bite,Not Caught,spectator,off field,Netherlands,21,Full,2007,Loss,2
+1311,not bite,Yellow card,spectator,off field,Netherlands,74,No Moon,2007,Loss,0
+1312,not bite,Red Card,defender,off field,Netherlands,44,Half,2007,Loss,1
+1313,bite,Yellow card,spectator,off field,Netherlands,82,Full,2007,Loss,0
+1314,bite,None,goalkeeper,off field,Netherlands,89,Full,2007,Win,0
+1315,not bite,None,None,No location,Netherlands,90,Full,2007,Win,1
+1316,not bite,yellow card,referee,opponent team penalty area,Netherlands,60,No Moon,2007,Loss,0
+1317,bite,None,defender,opponent team penalty area,Netherlands,84,Half,2007,Draw,3
+1318,not bite,Red Card,referee,off field,Netherlands,10,Full,2007,Win,1
+1319,not bite,yellow card,referee,off field,Netherlands,52,No Moon,2007,Win,2
+1320,not bite,yellow card,spectator,off field,Netherlands,76,Full,2007,Win,0
+1321,bite,Yellow card,spectator,off field,Netherlands,90,Full,2007,Win,3
+1322,bite,Not Caught,referee,opponent team penalty area,Netherlands,89,No Moon,2008,Loss,1
+1323,not bite,None,None,No location,Netherlands,90,No Moon,2008,Draw,0
+1324,not bite,Yellow card,goalkeeper,midfield,Netherlands,33,Half,2008,Win,3
+1325,not bite,None,forward,his team penalty area,Netherlands,88,No Moon,2008,Win,0
+1326,not bite,yellow card,midfielder,opponent team penalty area,Netherlands,42,Full,2008,Draw,1
+1327,not bite,None,None,No location,Netherlands,90,Half,2008,Draw,1
+1328,not bite,Yellow card,spectator,off field,Netherlands,17,Half,2008,Win,3
+1329,bite,None,goalkeeper,his team penalty area,Netherlands,83,Half,2008,Draw,0
+1330,not bite,Suspended for several games,journalist,off field,Netherlands,71,Half,2008,Draw,1
+1331,not bite,Yellow card,midfielder,off field,Netherlands,5,No Moon,2008,Draw,2
+1332,not bite,Yellow card,None,off field,Netherlands,26,No Moon,2008,Win,0
+1333,not bite,None,None,No location,Netherlands,90,Full,2008,Loss,3
+1334,not bite,None,None,No location,Netherlands,90,Full,2008,Win,0
+1335,not bite,None,midfielder,midfield,Netherlands,66,Half,2008,Win,1
+1336,not bite,yellow card,goalkeeper,midfield,Netherlands,61,Half,2008,Draw,1
+1337,not bite,None,None,No location,Netherlands,90,Full,2008,Loss,0
+1338,not bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,17,Full,2008,Loss,0
+1339,not bite,Suspended for several games,referee,midfield,Netherlands,75,Full,2008,Loss,0
+1340,not bite,Yellow card,defender,his team penalty area,Netherlands,34,Full,2008,Loss,0
+1341,not bite,None,None,No location,Netherlands,90,Full,2008,Loss,0
+1342,not bite,Yellow card,defender,opponent team penalty area,Netherlands,89,Half,2008,Loss,3
+1343,not bite,None,None,No location,Netherlands,90,Half,2008,Win,0
+1344,bite,Red Card,defender,off field,Netherlands,84,Half,2008,Draw,0
+1345,not bite,Not Caught,defender,off field,Netherlands,38,No Moon,2008,Draw,2
+1346,not bite,None,None,No location,Netherlands,90,Full,2008,Win,3
+1347,not bite,Red Card,defender,off field,Netherlands,76,No Moon,2008,Win,1
+1348,not bite,Red Card,defender,midfield,Netherlands,24,Half,2008,Win,3
+1349,not bite,None,None,No location,Netherlands,90,Half,2008,Loss,1
+1350,not bite,Not Caught,defender,his team penalty area,Netherlands,47,No Moon,2008,Draw,2
+1351,bite,Not Caught,journalist,off field,Netherlands,87,Full,2008,Win,1
+1352,not bite,Suspended for several games,defender,midfield,Netherlands,9,Half,2008,Draw,1
+1353,not bite,yellow card,midfielder,midfield,Netherlands,82,No Moon,2008,Draw,1
+1354,not bite,Suspended for several games,defender,opponent team penalty area,Netherlands,2,No Moon,2008,Loss,0
+1355,not bite,Red Card,forward,his team penalty area,Netherlands,17,Full,2008,Win,2
+1356,not bite,None,None,No location,Netherlands,90,No Moon,2008,Loss,2
+1357,not bite,None,None,his team penalty area,Netherlands,36,Half,2008,Win,1
+1358,not bite,Not Caught,spectator,off field,Netherlands,49,Full,2008,Loss,0
+1359,not bite,None,goalkeeper,off field,Netherlands,63,No Moon,2008,Win,3
+1360,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,72,Half,2008,Win,1
+1361,bite,Red Card,spectator,off field,Netherlands,90,Half,2008,Loss,3
+1362,not bite,None,None,No location,Netherlands,90,Full,2008,Draw,0
+1363,not bite,None,None,No location,Netherlands,90,No Moon,2008,Win,0
+1364,not bite,None,defender,midfield,Netherlands,19,Full,2008,Win,3
+1365,not bite,None,None,No location,Netherlands,90,Full,2008,Win,0
+1366,not bite,yellow card,defender,off field,Netherlands,81,Full,2008,Win,2
+1367,bite,Suspended for several games,goalkeeper,his team penalty area,Netherlands,87,Full,2008,Win,2
+1368,bite,Red Card,midfielder,midfield,Netherlands,84,Full,2008,Draw,2
+1369,not bite,Red Card,defender,midfield,Netherlands,0,No Moon,2008,Draw,0
+1370,not bite,yellow card,referee,off field,Netherlands,68,Full,2008,Loss,2
+1371,not bite,Not Caught,goalkeeper,off field,Netherlands,85,Full,2008,Loss,1
+1372,not bite,Red Card,forward,midfield,Netherlands,2,No Moon,2008,Win,1
+1373,not bite,None,None,No location,Netherlands,90,Full,2008,Draw,1
+1374,not bite,Suspended for several games,referee,his team penalty area,Netherlands,29,Full,2008,Draw,3
+1375,not bite,yellow card,referee,opponent team penalty area,Netherlands,77,Full,2008,Draw,3
+1376,not bite,yellow card,midfielder,opponent team penalty area,Netherlands,81,Half,2008,Win,2
+1377,not bite,Suspended for several games,spectator,off field,Netherlands,30,Full,2008,Draw,2
+1378,not bite,Yellow card,defender,his team penalty area,Netherlands,81,Half,2008,Win,2
+1379,not bite,Yellow card,spectator,off field,Netherlands,57,Full,2008,Win,0
+1380,not bite,Yellow card,defender,opponent team penalty area,Netherlands,85,No Moon,2008,Win,2
+1381,not bite,Yellow card,journalist,off field,Netherlands,85,No Moon,2008,Draw,2
+1382,not bite,Red Card,journalist,off field,Netherlands,77,Half,2008,Loss,1
+1383,not bite,None,None,No location,Netherlands,90,Full,2008,Win,2
+1384,not bite,None,forward,opponent team penalty area,Netherlands,18,Full,2008,Draw,2
+1385,not bite,Yellow card,referee,midfield,Netherlands,69,Full,2008,Loss,1
+1386,bite,Yellow card,forward,midfield,Netherlands,85,Half,2008,Win,2
+1387,not bite,Yellow card,spectator,off field,Netherlands,69,Full,2008,Win,2
+1388,not bite,None,spectator,off field,Netherlands,48,Full,2008,Win,0
+1389,not bite,Red Card,goalkeeper,off field,Netherlands,25,Full,2008,Loss,1
+1390,bite,Suspended for several games,referee,his team penalty area,Netherlands,86,Half,2008,Win,3
+1391,not bite,None,None,No location,Netherlands,90,Half,2008,Win,3
+1392,not bite,None,None,No location,Netherlands,90,No Moon,2008,Win,2
+1393,not bite,Yellow card,None,his team penalty area,Netherlands,3,Half,2008,Draw,2
+1394,not bite,Yellow card,referee,midfield,Netherlands,33,Full,2008,Win,3
+1395,not bite,yellow card,journalist,off field,Netherlands,75,Full,2008,Draw,1
+1396,not bite,Red Card,journalist,off field,Netherlands,36,Half,2008,Win,1
+1397,bite,Red Card,midfielder,his team penalty area,Netherlands,88,Full,2008,Win,1
+1398,not bite,Not Caught,forward,midfield,Netherlands,39,Half,2008,Draw,1
+1399,not bite,Suspended for several games,spectator,off field,Netherlands,31,Full,2008,Win,0
+1400,not bite,Not Caught,spectator,off field,Netherlands,36,Half,2008,Win,1
+1401,bite,Suspended for several games,journalist,off field,Netherlands,89,Full,2008,Loss,1
+1402,not bite,None,None,No location,Netherlands,90,Half,2008,Win,2
+1403,not bite,None,None,No location,Netherlands,90,Half,2008,Draw,0
+1404,not bite,Not Caught,journalist,off field,Netherlands,76,Full,2008,Win,0
+1405,not bite,None,None,No location,Netherlands,90,Half,2008,Win,1
+1406,not bite,Suspended for several games,forward,his team penalty area,Netherlands,69,Full,2008,Draw,0
+1407,bite,Red Card,spectator,off field,Netherlands,85,Half,2008,Loss,2
+1408,not bite,Not Caught,midfielder,off field,Netherlands,76,Full,2008,Win,1
+1409,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,2
+1410,not bite,None,spectator,off field,Netherlands,69,Half,2009,Draw,2
+1411,not bite,yellow card,referee,opponent team penalty area,Netherlands,18,Full,2009,Loss,3
+1412,not bite,Suspended for several games,forward,his team penalty area,Netherlands,23,Full,2009,Loss,2
+1413,not bite,None,defender,opponent team penalty area,Netherlands,57,No Moon,2009,Win,2
+1414,not bite,None,None,No location,Netherlands,90,Full,2009,Draw,2
+1415,not bite,Not Caught,journalist,off field,Netherlands,60,Full,2009,Win,1
+1416,not bite,None,None,No location,Netherlands,90,Full,2009,Win,1
+1417,not bite,Red Card,goalkeeper,opponent team penalty area,Netherlands,64,No Moon,2009,Win,1
+1418,not bite,Not Caught,journalist,off field,Netherlands,55,Full,2009,Loss,2
+1419,not bite,yellow card,None,midfield,Netherlands,66,Full,2009,Draw,2
+1420,not bite,Not Caught,forward,midfield,Netherlands,52,No Moon,2009,Draw,2
+1421,not bite,None,None,No location,Netherlands,90,Full,2009,Win,2
+1422,not bite,Yellow card,journalist,off field,Netherlands,82,Full,2009,Win,2
+1423,not bite,None,None,No location,Netherlands,90,Half,2009,Loss,1
+1424,bite,Yellow card,None,off field,Netherlands,82,Half,2009,Loss,0
+1425,not bite,Suspended for several games,referee,his team penalty area,Netherlands,69,Half,2009,Win,3
+1426,not bite,Not Caught,midfielder,his team penalty area,Netherlands,1,Full,2009,Win,0
+1427,not bite,None,None,No location,Netherlands,90,Half,2009,Win,0
+1428,not bite,Yellow card,None,off field,Netherlands,48,Full,2009,Win,1
+1429,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,2
+1430,not bite,None,None,No location,Netherlands,90,Half,2009,Win,2
+1431,not bite,yellow card,midfielder,his team penalty area,Netherlands,54,Half,2009,Win,3
+1432,bite,Yellow card,journalist,off field,Netherlands,82,Full,2009,Win,1
+1433,not bite,Yellow card,forward,off field,Netherlands,75,Full,2009,Win,0
+1434,bite,Yellow card,midfielder,off field,Netherlands,83,Full,2009,Draw,3
+1435,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,2
+1436,not bite,None,defender,opponent team penalty area,Netherlands,1,No Moon,2009,Win,0
+1437,not bite,Red Card,goalkeeper,off field,Netherlands,31,Half,2009,Loss,0
+1438,not bite,Red Card,defender,his team penalty area,Netherlands,82,Full,2009,Win,1
+1439,not bite,Not Caught,defender,midfield,Netherlands,30,Full,2009,Win,1
+1440,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,1
+1441,not bite,Red Card,None,midfield,Netherlands,50,Half,2009,Win,2
+1442,not bite,Suspended for several games,forward,opponent team penalty area,Netherlands,5,Full,2009,Loss,1
+1443,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,51,Full,2009,Win,0
+1444,not bite,Red Card,spectator,off field,Netherlands,86,Half,2009,Draw,2
+1445,not bite,Yellow card,spectator,off field,Netherlands,7,Full,2009,Draw,1
+1446,not bite,None,spectator,off field,Netherlands,73,Half,2009,Win,0
+1447,not bite,Yellow card,journalist,off field,Netherlands,66,No Moon,2009,Loss,1
+1448,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,30,Full,2009,Win,1
+1449,bite,Yellow card,goalkeeper,off field,Netherlands,83,Half,2009,Draw,3
+1450,not bite,None,None,No location,Netherlands,90,Full,2009,Draw,2
+1451,not bite,None,None,No location,Netherlands,90,Half,2009,Win,1
+1452,not bite,None,None,No location,Netherlands,90,No Moon,2009,Draw,1
+1453,not bite,Red Card,goalkeeper,off field,Netherlands,35,No Moon,2009,Win,2
+1454,not bite,Not Caught,midfielder,off field,Netherlands,22,Full,2009,Draw,1
+1455,not bite,yellow card,midfielder,off field,Netherlands,27,Full,2009,Win,2
+1456,not bite,Not Caught,referee,midfield,Netherlands,9,Half,2009,Win,1
+1457,not bite,None,None,No location,Netherlands,90,No Moon,2009,Draw,0
+1458,not bite,None,None,No location,Netherlands,90,Full,2009,Win,1
+1459,not bite,Yellow card,journalist,off field,Netherlands,69,Full,2009,Draw,1
+1460,not bite,None,None,No location,Netherlands,90,Half,2009,Win,1
+1461,not bite,None,spectator,off field,Netherlands,58,Full,2009,Loss,2
+1462,bite,Not Caught,defender,off field,Netherlands,88,Half,2009,Loss,1
+1463,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,11,Full,2009,Draw,2
+1464,not bite,None,None,No location,Netherlands,90,Half,2009,Win,2
+1465,not bite,None,journalist,off field,Netherlands,14,Half,2009,Loss,2
+1466,bite,None,referee,off field,Netherlands,84,Full,2009,Loss,0
+1467,not bite,yellow card,None,his team penalty area,Netherlands,11,No Moon,2009,Win,2
+1468,not bite,None,None,No location,Netherlands,90,Full,2009,Win,2
+1469,not bite,Suspended for several games,spectator,off field,Netherlands,56,No Moon,2009,Loss,0
+1470,not bite,Yellow card,midfielder,midfield,Netherlands,5,Half,2009,Win,1
+1471,not bite,None,None,No location,Netherlands,90,Full,2009,Loss,1
+1472,not bite,Suspended for several games,forward,midfield,Netherlands,47,Half,2009,Win,0
+1473,not bite,Not Caught,midfielder,midfield,Netherlands,56,Half,2009,Loss,3
+1474,not bite,Yellow card,journalist,off field,Netherlands,34,Full,2009,Draw,0
+1475,not bite,Red Card,forward,off field,Netherlands,44,Full,2009,Loss,0
+1476,not bite,None,None,No location,Netherlands,90,No Moon,2009,Draw,0
+1477,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,79,Half,2009,Win,1
+1478,not bite,Yellow card,referee,midfield,Netherlands,32,Half,2009,Loss,1
+1479,not bite,Not Caught,journalist,off field,Netherlands,3,No Moon,2009,Win,1
+1480,not bite,None,None,No location,Netherlands,90,Half,2009,Loss,1
+1481,not bite,Red Card,referee,midfield,Netherlands,24,Full,2009,Win,1
+1482,not bite,yellow card,goalkeeper,midfield,Netherlands,31,No Moon,2009,Draw,0
+1483,not bite,Yellow card,journalist,off field,Netherlands,52,No Moon,2009,Win,1
+1484,not bite,Yellow card,defender,opponent team penalty area,Netherlands,88,Full,2009,Win,2
+1485,not bite,Red Card,journalist,off field,Netherlands,70,Half,2009,Loss,1
+1486,not bite,Not Caught,spectator,off field,Netherlands,39,No Moon,2009,Win,3
+1487,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,2
+1488,not bite,Yellow card,forward,off field,Netherlands,65,Half,2009,Loss,0
+1489,not bite,None,None,No location,Netherlands,90,Half,2009,Win,3
+1490,not bite,None,None,No location,Netherlands,90,Half,2009,Loss,1
+1491,not bite,Yellow card,journalist,off field,Netherlands,68,Full,2009,Win,1
+1492,not bite,yellow card,None,his team penalty area,Netherlands,62,No Moon,2009,Win,1
+1493,not bite,Not Caught,forward,opponent team penalty area,Netherlands,83,No Moon,2009,Loss,1
+1494,not bite,Not Caught,spectator,off field,Netherlands,8,Full,2009,Win,0
+1495,not bite,Suspended for several games,journalist,off field,Netherlands,77,Half,2009,Win,0
+1496,not bite,Suspended for several games,midfielder,off field,Netherlands,29,Full,2009,Win,1
+1497,not bite,None,None,No location,Netherlands,90,Full,2009,Loss,1
+1498,not bite,Suspended for several games,spectator,off field,Netherlands,59,No Moon,2009,Win,1
+1499,not bite,Yellow card,forward,opponent team penalty area,Netherlands,87,Half,2009,Loss,1
+1500,not bite,Suspended for several games,midfielder,off field,Netherlands,76,Full,2009,Win,1
+1501,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,1
+1502,not bite,yellow card,None,off field,Netherlands,25,Full,2009,Win,0
+1503,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,37,Half,2009,Win,0
+1504,not bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,71,No Moon,2009,Loss,0
+1505,not bite,None,None,No location,Netherlands,90,No Moon,2009,Loss,2
+1506,not bite,None,None,off field,Netherlands,79,No Moon,2009,Draw,1
+1507,not bite,None,None,No location,Netherlands,90,No Moon,2009,Win,0
+1508,not bite,Red Card,midfielder,his team penalty area,Netherlands,51,Full,2009,Win,2
+1509,not bite,Suspended for several games,goalkeeper,off field,Netherlands,89,Half,2009,Draw,2
+1510,not bite,None,None,No location,Netherlands,90,Full,2010,Win,2
+1511,not bite,yellow card,forward,opponent team penalty area,Netherlands,82,No Moon,2010,Win,0
+1512,not bite,None,spectator,off field,Netherlands,79,No Moon,2010,Win,0
+1513,not bite,Red Card,referee,off field,Netherlands,20,Full,2010,Draw,2
+1514,not bite,None,None,No location,Netherlands,90,No Moon,2010,Draw,2
+1515,not bite,yellow card,journalist,off field,Netherlands,65,Half,2010,Win,1
+1516,not bite,None,None,No location,Netherlands,90,No Moon,2010,Loss,1
+1517,bite,Not Caught,spectator,off field,Netherlands,89,Full,2010,Draw,1
+1518,bite,Not Caught,journalist,off field,Netherlands,82,Half,2010,Draw,2
+1519,not bite,yellow card,midfielder,his team penalty area,Netherlands,18,Half,2010,Loss,1
+1520,not bite,Not Caught,None,midfield,Netherlands,49,Full,2010,Draw,0
+1521,not bite,None,None,No location,Netherlands,90,Full,2010,Draw,2
+1522,not bite,yellow card,referee,midfield,Netherlands,56,Full,2010,Loss,1
+1523,not bite,Suspended for several games,referee,off field,Netherlands,90,No Moon,2010,Win,2
+1524,not bite,Suspended for several games,forward,his team penalty area,Netherlands,74,Full,2010,Win,1
+1525,not bite,Not Caught,forward,opponent team penalty area,Netherlands,26,No Moon,2010,Win,1
+1526,bite,Red Card,referee,off field,Netherlands,84,Full,2010,Win,2
+1527,not bite,None,None,No location,Netherlands,90,Half,2010,Win,1
+1528,not bite,yellow card,goalkeeper,midfield,Netherlands,55,Full,2010,Win,2
+1529,not bite,None,None,No location,Netherlands,90,No Moon,2010,Win,0
+1530,not bite,Not Caught,spectator,off field,Netherlands,62,Full,2010,Loss,0
+1531,not bite,Not Caught,defender,his team penalty area,Netherlands,55,Full,2010,Loss,0
+1532,not bite,Suspended for several games,forward,off field,Netherlands,31,Full,2010,Win,0
+1533,not bite,None,None,No location,Netherlands,90,Full,2010,Win,0
+1534,not bite,None,None,No location,Netherlands,90,Full,2010,Loss,0
+1535,not bite,yellow card,forward,his team penalty area,Netherlands,8,Full,2010,Win,0
+1536,not bite,Suspended for several games,None,off field,Netherlands,35,Full,2010,Win,1
+1537,not bite,None,None,No location,Netherlands,90,Full,2010,Draw,2
+1538,not bite,Suspended for several games,journalist,off field,Netherlands,4,No Moon,2010,Win,0
+1539,not bite,Not Caught,forward,off field,Netherlands,53,Half,2010,Win,0
+1540,not bite,yellow card,journalist,off field,Netherlands,11,No Moon,2010,Win,3
+1541,not bite,None,spectator,off field,Netherlands,17,Half,2010,Loss,1
+1542,not bite,None,goalkeeper,opponent team penalty area,Netherlands,10,No Moon,2010,Draw,0
+1543,not bite,None,spectator,off field,Netherlands,79,Half,2010,Loss,0
+1544,not bite,None,None,No location,Netherlands,90,Full,2010,Win,0
+1545,not bite,Red Card,None,off field,Netherlands,84,Half,2010,Loss,3
+1546,bite,Not Caught,referee,his team penalty area,Netherlands,80,Full,2010,Win,1
+1547,not bite,Red Card,None,his team penalty area,Netherlands,66,Half,2010,Loss,1
+1548,not bite,None,defender,opponent team penalty area,Netherlands,50,Full,2010,Win,0
+1549,not bite,None,None,No location,Netherlands,90,Full,2010,Win,3
+1550,not bite,Yellow card,referee,midfield,Netherlands,17,Full,2010,Win,0
+1551,not bite,yellow card,midfielder,midfield,Netherlands,27,Half,2010,Win,1
+1552,not bite,Suspended for several games,referee,his team penalty area,Netherlands,69,Half,2010,Draw,2
+1553,not bite,yellow card,spectator,off field,Netherlands,73,Half,2010,Draw,1
+1554,not bite,None,forward,midfield,Netherlands,71,Full,2010,Win,2
+1555,not bite,yellow card,defender,off field,Netherlands,8,Half,2010,Win,1
+1556,not bite,None,None,No location,Netherlands,90,No Moon,2010,Draw,1
+1557,not bite,Suspended for several games,midfielder,his team penalty area,Netherlands,88,No Moon,2010,Loss,0
+1558,not bite,Not Caught,journalist,off field,Netherlands,51,Full,2010,Win,0
+1559,not bite,Not Caught,journalist,off field,Netherlands,73,Full,2010,Loss,1
+1560,not bite,Yellow card,defender,midfield,Netherlands,1,Full,2010,Win,0
+1561,not bite,None,None,No location,Netherlands,90,Half,2010,Loss,2
+1562,not bite,Not Caught,spectator,off field,Netherlands,36,Full,2010,Win,0
+1563,not bite,Not Caught,midfielder,his team penalty area,Netherlands,18,No Moon,2010,Draw,1
+1564,not bite,Not Caught,forward,opponent team penalty area,Netherlands,74,No Moon,2010,Loss,2
+1565,not bite,Red Card,forward,midfield,Netherlands,15,Half,2010,Draw,0
+1566,not bite,None,None,No location,Netherlands,90,No Moon,2010,Win,1
+1567,not bite,None,None,No location,Netherlands,90,Half,2010,Loss,0
+1568,not bite,Red Card,defender,off field,Netherlands,49,Full,2010,Win,2
+1569,bite,Red Card,forward,opponent team penalty area,Netherlands,80,Half,2010,Draw,3
+1570,not bite,Suspended for several games,midfielder,off field,Netherlands,4,No Moon,2010,Win,0
+1571,not bite,Yellow card,midfielder,his team penalty area,Netherlands,45,Half,2010,Win,0
+1572,bite,None,defender,opponent team penalty area,Netherlands,82,Full,2010,Win,2
+1573,not bite,Suspended for several games,None,midfield,Netherlands,19,No Moon,2010,Draw,1
+1574,not bite,Red Card,defender,midfield,Netherlands,74,No Moon,2010,Loss,0
+1575,not bite,Not Caught,goalkeeper,off field,Netherlands,44,Full,2010,Win,1
+1576,not bite,Suspended for several games,referee,midfield,Netherlands,28,Half,2010,Win,1
+1577,not bite,None,None,No location,Netherlands,90,Half,2010,Loss,1
+1578,not bite,Yellow card,None,opponent team penalty area,Netherlands,1,No Moon,2010,Win,2
+1579,not bite,Red Card,journalist,off field,Netherlands,63,Full,2010,Win,1
+1580,not bite,None,None,No location,Netherlands,90,Half,2010,Draw,1
+1581,bite,Not Caught,spectator,off field,Netherlands,81,Half,2010,Win,3
+1582,not bite,Suspended for several games,spectator,off field,Netherlands,74,Full,2010,Win,2
+1583,not bite,None,None,No location,Netherlands,90,Full,2010,Win,4
+1584,not bite,Yellow card,midfielder,his team penalty area,Netherlands,14,No Moon,2010,Win,0
+1585,not bite,Yellow card,forward,his team penalty area,Netherlands,46,Full,2010,Loss,0
+1586,bite,Yellow card,referee,opponent team penalty area,Netherlands,85,Half,2011,Win,1
+1587,not bite,Red Card,journalist,off field,Netherlands,4,No Moon,2011,Win,2
+1588,not bite,Suspended for several games,goalkeeper,opponent team penalty area,Netherlands,88,No Moon,2011,Win,0
+1589,not bite,Not Caught,referee,off field,Netherlands,39,Half,2011,Draw,2
+1590,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,48,Half,2011,Draw,2
+1591,not bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,66,No Moon,2011,Loss,1
+1592,not bite,Not Caught,forward,opponent team penalty area,Netherlands,45,Full,2011,Win,0
+1593,not bite,yellow card,midfielder,off field,Netherlands,51,Full,2011,Draw,1
+1594,bite,Suspended for several games,goalkeeper,off field,Netherlands,84,Full,2011,Win,0
+1595,not bite,Red Card,spectator,off field,Netherlands,63,Full,2011,Win,3
+1596,not bite,None,None,No location,Netherlands,90,Full,2011,Win,2
+1597,not bite,Suspended for several games,midfielder,midfield,Netherlands,33,Full,2011,Loss,0
+1598,not bite,Suspended for several games,defender,off field,Netherlands,10,Half,2011,Draw,0
+1599,not bite,Suspended for several games,spectator,off field,Netherlands,27,Full,2011,Win,1
+1600,bite,Not Caught,defender,off field,Netherlands,82,Half,2011,Loss,3
+1601,not bite,None,None,No location,Netherlands,90,Half,2011,Win,1
+1602,bite,Yellow card,journalist,off field,Netherlands,90,Half,2011,Win,1
+1603,not bite,Yellow card,goalkeeper,off field,Netherlands,3,No Moon,2011,Win,0
+1604,not bite,None,None,his team penalty area,Netherlands,0,No Moon,2011,Draw,1
+1605,not bite,None,None,No location,Netherlands,90,No Moon,2011,Win,1
+1606,not bite,Not Caught,journalist,off field,Netherlands,71,Half,2011,Win,0
+1607,not bite,None,None,No location,Netherlands,90,No Moon,2011,Win,1
+1608,bite,Suspended for several games,goalkeeper,opponent team penalty area,Netherlands,87,Half,2011,Loss,1
+1609,not bite,Suspended for several games,spectator,off field,Netherlands,22,No Moon,2011,Draw,0
+1610,not bite,None,spectator,off field,Netherlands,89,Half,2011,Win,1
+1611,not bite,yellow card,defender,opponent team penalty area,Netherlands,29,Full,2011,Loss,0
+1612,not bite,Suspended for several games,forward,opponent team penalty area,Netherlands,40,Full,2011,Loss,1
+1613,not bite,None,None,off field,Netherlands,83,No Moon,2011,Win,0
+1614,not bite,Suspended for several games,journalist,off field,Netherlands,32,Full,2011,Loss,3
+1615,not bite,Red Card,referee,midfield,Netherlands,68,Full,2011,Win,1
+1616,not bite,Not Caught,forward,his team penalty area,Netherlands,62,Half,2011,Draw,1
+1617,not bite,Red Card,spectator,off field,Netherlands,28,Full,2011,Loss,2
+1618,not bite,Not Caught,journalist,off field,Netherlands,40,Half,2011,Loss,1
+1619,not bite,None,goalkeeper,midfield,Netherlands,24,Half,2011,Loss,1
+1620,not bite,Not Caught,midfielder,his team penalty area,Netherlands,49,Full,2011,Draw,1
+1621,not bite,Red Card,forward,his team penalty area,Netherlands,77,No Moon,2011,Win,2
+1622,not bite,Yellow card,journalist,off field,Netherlands,63,No Moon,2011,Win,3
+1623,not bite,Suspended for several games,referee,his team penalty area,Netherlands,28,Half,2011,Draw,0
+1624,not bite,Suspended for several games,goalkeeper,his team penalty area,Netherlands,65,Full,2011,Draw,0
+1625,bite,Not Caught,forward,opponent team penalty area,Netherlands,81,No Moon,2011,Win,2
+1626,not bite,Yellow card,journalist,off field,Netherlands,75,Full,2011,Loss,1
+1627,not bite,None,None,No location,Netherlands,90,Half,2011,Draw,1
+1628,not bite,None,journalist,off field,Netherlands,45,Half,2011,Loss,1
+1629,not bite,Not Caught,journalist,off field,Netherlands,79,No Moon,2011,Loss,1
+1630,not bite,Yellow card,forward,opponent team penalty area,Netherlands,46,Full,2011,Win,2
+1631,not bite,Not Caught,midfielder,midfield,Netherlands,52,Full,2011,Draw,0
+1632,not bite,Suspended for several games,None,midfield,Netherlands,4,Half,2011,Win,2
+1633,not bite,yellow card,forward,off field,Netherlands,9,No Moon,2011,Loss,1
+1634,not bite,Suspended for several games,goalkeeper,off field,Netherlands,21,Full,2011,Win,1
+1635,not bite,Not Caught,forward,off field,Netherlands,90,No Moon,2011,Win,2
+1636,bite,Not Caught,spectator,off field,Netherlands,86,No Moon,2011,Draw,0
+1637,not bite,Red Card,referee,off field,Netherlands,88,Full,2011,Loss,0
+1638,not bite,Not Caught,forward,off field,Netherlands,39,No Moon,2011,Win,3
+1639,not bite,None,forward,off field,Netherlands,18,Half,2011,Win,2
+1640,not bite,None,None,No location,Netherlands,90,Full,2011,Draw,1
+1641,not bite,Red Card,defender,midfield,Netherlands,65,Full,2011,Draw,2
+1642,not bite,Yellow card,spectator,off field,Netherlands,75,Half,2011,Loss,2
+1643,not bite,Red Card,referee,his team penalty area,Netherlands,78,Full,2011,Win,1
+1644,not bite,Red Card,defender,midfield,Netherlands,4,Full,2011,Win,1
+1645,not bite,Yellow card,forward,midfield,Netherlands,13,Full,2011,Loss,1
+1646,not bite,Yellow card,goalkeeper,opponent team penalty area,Netherlands,41,Half,2011,Loss,1
+1647,not bite,None,forward,off field,Netherlands,53,No Moon,2011,Draw,2
+1648,not bite,None,journalist,off field,Netherlands,89,Half,2011,Draw,0
+1649,not bite,Suspended for several games,forward,off field,Netherlands,62,Half,2011,Draw,0
+1650,not bite,Yellow card,goalkeeper,opponent team penalty area,Netherlands,2,Half,2011,Loss,1
+1651,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,71,Half,2011,Draw,1
+1652,bite,None,goalkeeper,opponent team penalty area,Netherlands,83,Full,2011,Win,0
+1653,not bite,None,None,No location,Netherlands,90,No Moon,2011,Draw,1
+1654,bite,Yellow card,forward,midfield,Netherlands,88,Half,2011,Win,0
+1655,not bite,yellow card,spectator,off field,Netherlands,70,No Moon,2011,Win,0
+1656,not bite,yellow card,goalkeeper,midfield,Netherlands,54,No Moon,2011,Draw,1
+1657,not bite,yellow card,goalkeeper,off field,Netherlands,63,Full,2011,Win,0
+1658,not bite,Red Card,referee,midfield,Netherlands,80,Half,2011,Draw,1
+1659,not bite,Not Caught,forward,his team penalty area,Netherlands,77,Full,2011,Loss,1
+1660,not bite,None,None,No location,Netherlands,90,Half,2011,Loss,3
+1661,not bite,Suspended for several games,forward,opponent team penalty area,Netherlands,60,Full,2011,Win,2
+1662,not bite,Not Caught,midfielder,off field,Netherlands,27,Full,2011,Win,0
+1663,not bite,yellow card,journalist,off field,Netherlands,6,Full,2011,Win,1
+1664,not bite,Suspended for several games,spectator,off field,Netherlands,23,No Moon,2011,Loss,1
+1665,not bite,Suspended for several games,spectator,off field,Netherlands,13,Full,2011,Win,1
+1666,not bite,Red Card,None,opponent team penalty area,Netherlands,24,Full,2011,Win,0
+1667,bite,Not Caught,midfielder,opponent team penalty area,Netherlands,83,Full,2011,Draw,1
+1668,not bite,Red Card,None,opponent team penalty area,Netherlands,62,Half,2011,Win,1
+1669,not bite,yellow card,journalist,off field,Netherlands,59,Full,2011,Loss,0
+1670,not bite,Yellow card,midfielder,opponent team penalty area,Netherlands,30,Full,2011,Draw,0
+1671,not bite,Not Caught,forward,midfield,Netherlands,22,Full,2011,Loss,1
+1672,not bite,Not Caught,goalkeeper,his team penalty area,Netherlands,19,Half,2011,Win,0
+1673,not bite,None,None,No location,Netherlands,90,No Moon,2011,Win,2
+1674,bite,Yellow card,referee,off field,Netherlands,83,Half,2011,Win,2
+1675,not bite,Yellow card,defender,off field,Netherlands,35,Full,2011,Draw,2
+1676,not bite,Yellow card,defender,midfield,Netherlands,34,Half,2011,Win,0
+1677,not bite,None,journalist,off field,Netherlands,14,Full,2011,Loss,1
+1678,not bite,yellow card,spectator,off field,Netherlands,61,No Moon,2012,Loss,1
+1679,not bite,Yellow card,defender,his team penalty area,Netherlands,11,Half,2012,Loss,0
+1680,not bite,None,None,No location,Netherlands,90,Full,2012,Draw,2
+1681,not bite,Suspended for several games,spectator,off field,Netherlands,8,Full,2012,Win,2
+1682,not bite,None,referee,opponent team penalty area,Netherlands,66,Full,2012,Draw,0
+1683,not bite,Red Card,journalist,off field,Netherlands,51,No Moon,2012,Win,3
+1684,not bite,None,spectator,off field,Netherlands,90,Half,2012,Win,0
+1685,not bite,None,None,No location,Netherlands,90,Full,2012,Win,2
+1686,not bite,None,None,No location,Netherlands,90,No Moon,2012,Draw,0
+1687,not bite,None,None,No location,Netherlands,90,Half,2012,Win,0
+1688,not bite,Not Caught,spectator,off field,Netherlands,59,Full,2012,Draw,1
+1689,not bite,Not Caught,referee,off field,Netherlands,24,No Moon,2012,Draw,0
+1690,not bite,yellow card,journalist,off field,Netherlands,63,No Moon,2012,Loss,1
+1691,not bite,Not Caught,midfielder,opponent team penalty area,Netherlands,13,Full,2012,Win,1
+1692,not bite,Yellow card,midfielder,midfield,Netherlands,78,Half,2012,Draw,3
+1693,not bite,Not Caught,midfielder,midfield,Netherlands,6,No Moon,2012,Win,3
+1694,not bite,None,None,No location,Netherlands,90,Full,2012,Loss,1
+1695,not bite,Red Card,midfielder,off field,Netherlands,55,Full,2012,Win,2
+1696,not bite,Yellow card,defender,midfield,Netherlands,41,Full,2012,Loss,0
+1697,not bite,None,None,No location,Netherlands,90,No Moon,2012,Win,1
+1698,bite,Not Caught,journalist,off field,Netherlands,81,Full,2012,Win,2
+1699,not bite,None,None,No location,Netherlands,90,Half,2012,Draw,2
+1700,not bite,None,journalist,off field,Netherlands,72,Full,2012,Draw,1
+1701,not bite,None,None,No location,Netherlands,90,No Moon,2012,Draw,2
+1702,not bite,Not Caught,referee,opponent team penalty area,Netherlands,11,Half,2012,Loss,0
+1703,bite,Not Caught,None,midfield,Netherlands,87,Full,2012,Draw,1
+1704,not bite,Yellow card,midfielder,opponent team penalty area,Netherlands,10,Half,2012,Win,1
+1705,not bite,Not Caught,defender,midfield,Netherlands,34,Full,2012,Win,1
+1706,not bite,yellow card,midfielder,his team penalty area,Netherlands,46,Half,2012,Win,1
+1707,not bite,None,referee,his team penalty area,Netherlands,28,Full,2012,Draw,1
+1708,not bite,None,None,his team penalty area,Netherlands,6,No Moon,2012,Loss,0
+1709,not bite,Red Card,goalkeeper,his team penalty area,Netherlands,9,No Moon,2012,Draw,0
+1710,not bite,Not Caught,spectator,off field,Netherlands,28,No Moon,2012,Draw,3
+1711,not bite,Red Card,goalkeeper,midfield,Uruguay,39,Half,2012,Win,2
+1712,not bite,Red Card,forward,midfield,Netherlands,68,Half,2012,Win,2
+1713,not bite,Red Card,None,off field,England,48,Full,2012,Draw,2
+1714,not bite,None,None,No location,Uruguay,90,No Moon,2012,Draw,0
+1715,not bite,None,None,No location,Netherlands,90,No Moon,2012,Win,2
+1716,not bite,Yellow card,defender,his team penalty area,Uruguay,80,No Moon,2012,Win,1
+1717,not bite,Not Caught,spectator,off field,England,52,Half,2012,Win,1
+1718,not bite,Yellow card,forward,midfield,Netherlands,19,No Moon,2012,Loss,2
+1719,bite,Not Caught,referee,midfield,England,87,Full,2012,Win,3
+1720,not bite,None,None,No location,England,90,Full,2012,Win,0
+1721,not bite,Yellow card,spectator,off field,England,66,Half,2012,Win,2
+1722,not bite,None,None,No location,England,90,Full,2012,Win,1
+1723,not bite,Yellow card,referee,off field,England,13,No Moon,2012,Win,0
+1724,not bite,Suspended for several games,defender,midfield,Uruguay,83,No Moon,2012,Draw,1
+1725,not bite,None,None,No location,England,90,No Moon,2012,Win,1
+1726,not bite,Not Caught,forward,off field,England,88,Half,2012,Draw,1
+1727,not bite,Not Caught,journalist,off field,Uruguay,49,Full,2012,Draw,3
+1728,not bite,None,None,No location,Uruguay,90,Full,2012,Loss,0
+1729,not bite,None,None,No location,England,90,No Moon,2012,Win,1
+1730,not bite,yellow card,referee,opponent team penalty area,Uruguay,36,Full,2012,Win,0
+1731,not bite,Suspended for several games,journalist,off field,Netherlands,21,Full,2012,Win,2
+1732,not bite,Suspended for several games,defender,his team penalty area,Uruguay,82,Full,2012,Draw,0
+1733,not bite,Red Card,defender,opponent team penalty area,Netherlands,89,Half,2012,Win,2
+1734,not bite,None,None,No location,England,90,Half,2012,Loss,0
+1735,not bite,yellow card,referee,midfield,Uruguay,77,Half,2012,Draw,3
+1736,not bite,None,None,No location,England,90,Full,2012,Win,1
+1737,not bite,None,None,No location,Uruguay,90,Half,2012,Win,1
+1738,not bite,Yellow card,midfielder,off field,Netherlands,4,Full,2012,Draw,4
+1739,not bite,Not Caught,defender,midfield,Netherlands,29,Full,2012,Win,0
+1740,not bite,None,None,No location,England,90,Half,2012,Loss,0
+1741,bite,Yellow card,forward,midfield,Uruguay,2,Full,2012,Draw,1
+1742,not bite,Yellow card,journalist,off field,England,46,Full,2012,Win,2
+1743,not bite,Red Card,None,off field,Uruguay,57,Half,2012,Draw,1
+1744,not bite,None,None,No location,Uruguay,90,Full,2012,Loss,2
+1745,bite,Not Caught,forward,his team penalty area,England,80,Half,2012,Win,0
+1746,not bite,None,None,No location,Netherlands,90,Half,2012,Loss,2
+1747,not bite,Not Caught,journalist,off field,England,4,Full,2012,Draw,0
+1748,not bite,None,None,No location,Uruguay,90,No Moon,2012,Loss,2
+1749,not bite,None,defender,off field,England,59,No Moon,2012,Win,2
+1750,not bite,yellow card,spectator,off field,Netherlands,58,Full,2012,Loss,2
+1751,not bite,Suspended for several games,spectator,off field,England,81,No Moon,2012,Loss,2
+1752,bite,Yellow card,goalkeeper,opponent team penalty area,Uruguay,85,Full,2012,Draw,1
+1753,not bite,Yellow card,goalkeeper,off field,Uruguay,54,Full,2012,Win,1
+1754,bite,Suspended for several games,journalist,off field,Uruguay,29,Half,2012,Draw,3
+1755,not bite,None,None,No location,Netherlands,90,Half,2012,Win,2
+1756,not bite,Suspended for several games,spectator,off field,England,44,Full,2012,Loss,1
+1757,not bite,Not Caught,defender,opponent team penalty area,Netherlands,66,Full,2012,Loss,2
+1758,not bite,Suspended for several games,goalkeeper,midfield,Netherlands,26,No Moon,2012,Win,1
+1759,not bite,Suspended for several games,goalkeeper,midfield,Netherlands,86,Half,2012,Draw,3
+1760,not bite,Yellow card,goalkeeper,his team penalty area,Netherlands,90,Full,2012,Draw,1
+1761,not bite,Suspended for several games,None,midfield,Uruguay,27,No Moon,2012,Win,2
+1762,not bite,None,None,No location,Netherlands,90,Half,2012,Loss,1
+1763,not bite,Not Caught,forward,midfield,England,39,Full,2012,Win,1
+1764,not bite,yellow card,journalist,off field,Netherlands,88,Full,2012,Win,2
+1765,bite,Suspended for several games,midfielder,off field,England,82,No Moon,2012,Loss,2
+1766,not bite,None,None,No location,Uruguay,90,No Moon,2012,Win,0
+1767,not bite,Yellow card,forward,his team penalty area,Netherlands,46,Full,2012,Draw,2
+1768,not bite,Suspended for several games,goalkeeper,his team penalty area,Uruguay,64,No Moon,2013,Win,2
+1769,bite,Suspended for several games,referee,his team penalty area,England,81,No Moon,2013,Win,0
+1770,not bite,None,None,No location,Netherlands,90,Full,2013,Draw,0
+1771,bite,None,spectator,off field,England,83,Half,2013,Loss,1
+1772,not bite,Yellow card,midfielder,opponent team penalty area,Uruguay,11,No Moon,2013,Loss,2
+1773,not bite,yellow card,defender,off field,England,36,Full,2013,Draw,3
+1774,not bite,yellow card,midfielder,opponent team penalty area,England,70,Full,2013,Win,0
+1775,bite,Suspended for several games,None,his team penalty area,Uruguay,21,Full,2013,Draw,1
+1776,not bite,Red Card,midfielder,midfield,Uruguay,71,Full,2013,Draw,0
+1777,not bite,Yellow card,journalist,off field,England,13,No Moon,2013,Draw,2
+1778,not bite,Suspended for several games,spectator,off field,Uruguay,3,Full,2013,Loss,2
+1779,bite,Red Card,midfielder,his team penalty area,Uruguay,88,Half,2013,Draw,2
+1780,not bite,None,None,No location,Netherlands,90,Full,2013,Win,0
+1781,not bite,Suspended for several games,forward,off field,England,59,No Moon,2013,Draw,3
+1782,not bite,Yellow card,forward,his team penalty area,England,19,Half,2013,Win,0
+1783,not bite,None,None,No location,Netherlands,90,No Moon,2013,Draw,0
+1784,not bite,Red Card,referee,off field,Netherlands,23,Full,2013,Loss,0
+1785,not bite,None,None,No location,Uruguay,90,Full,2013,Win,1
+1786,not bite,Red Card,goalkeeper,midfield,England,31,Full,2013,Win,0
+1787,not bite,Red Card,goalkeeper,off field,Netherlands,89,Full,2013,Win,1
+1788,not bite,Suspended for several games,spectator,off field,Netherlands,57,Full,2013,Win,2
+1789,bite,Suspended for several games,defender,opponent team penalty area,Uruguay,37,Full,2013,Draw,0
+1790,bite,Not Caught,journalist,off field,Netherlands,82,Half,2013,Win,0
+1791,not bite,Suspended for several games,spectator,off field,Netherlands,62,No Moon,2013,Draw,2
+1792,not bite,Not Caught,spectator,off field,England,71,Half,2013,Win,0
+1793,not bite,Yellow card,journalist,off field,England,40,Half,2013,Win,3
+1794,not bite,None,None,No location,England,90,No Moon,2013,Win,2
+1795,not bite,None,journalist,off field,Netherlands,16,No Moon,2013,Draw,2
+1796,bite,Yellow card,journalist,off field,Uruguay,87,No Moon,2013,Win,2
+1797,not bite,Red Card,midfielder,midfield,Uruguay,15,Half,2013,Win,2
+1798,not bite,Not Caught,goalkeeper,opponent team penalty area,Netherlands,72,No Moon,2013,Loss,0
+1799,bite,Red Card,goalkeeper,his team penalty area,Netherlands,88,Half,2013,Draw,0
+1800,not bite,None,None,No location,Netherlands,90,Half,2013,Draw,0
+1801,not bite,Suspended for several games,referee,his team penalty area,Uruguay,83,Half,2013,Win,0
+1802,bite,Yellow card,forward,off field,Uruguay,38,Full,2013,Loss,1
+1803,not bite,Yellow card,referee,opponent team penalty area,Uruguay,56,Half,2013,Draw,0
+1804,bite,Red Card,defender,his team penalty area,Uruguay,62,No Moon,2013,Win,1
+1805,not bite,Yellow card,None,off field,Uruguay,21,No Moon,2013,Draw,2
+1806,not bite,None,None,No location,Uruguay,90,Full,2013,Win,1
+1807,not bite,None,None,No location,Uruguay,90,Half,2013,Win,2
+1808,not bite,Yellow card,journalist,off field,Netherlands,54,No Moon,2013,Win,0
+1809,not bite,Suspended for several games,journalist,off field,England,51,Half,2013,Win,2
+1810,not bite,Suspended for several games,spectator,off field,Netherlands,51,Full,2013,Loss,1
+1811,not bite,Red Card,goalkeeper,opponent team penalty area,England,11,Full,2013,Win,0
+1812,not bite,Yellow card,referee,opponent team penalty area,Uruguay,3,No Moon,2013,Win,1
+1813,not bite,Red Card,midfielder,opponent team penalty area,Netherlands,67,Half,2013,Loss,0
+1814,not bite,Suspended for several games,journalist,off field,Netherlands,74,Full,2013,Win,2
+1815,not bite,Red Card,spectator,off field,England,81,Half,2013,Win,1
+1816,not bite,None,journalist,off field,Uruguay,29,Full,2013,Loss,1
+1817,not bite,None,None,No location,Uruguay,90,Half,2013,Loss,1
+1818,not bite,None,None,No location,Uruguay,90,Half,2013,Draw,3
+1819,not bite,Red Card,journalist,off field,England,18,Full,2013,Loss,0
+1820,bite,Red Card,spectator,off field,Uruguay,10,Full,2013,Win,0
+1821,not bite,None,None,No location,Uruguay,90,Full,2013,Loss,3
+1822,not bite,Suspended for several games,forward,his team penalty area,England,83,Full,2013,Win,1
+1823,not bite,Yellow card,journalist,off field,Netherlands,9,No Moon,2013,Win,2
+1824,not bite,Red Card,forward,off field,England,52,Full,2013,Win,1
+1825,bite,Red Card,defender,opponent team penalty area,Netherlands,87,Half,2013,Win,1
+1826,not bite,Suspended for several games,defender,midfield,Netherlands,3,Half,2013,Win,1
+1827,not bite,Not Caught,spectator,off field,Netherlands,55,Full,2013,Loss,1
+1828,not bite,yellow card,journalist,off field,England,41,No Moon,2013,Win,3
+1829,not bite,Yellow card,None,off field,England,61,Full,2013,Win,2
+1830,not bite,Not Caught,spectator,off field,Netherlands,64,No Moon,2013,Draw,1
+1831,not bite,None,None,No location,England,90,Full,2013,Loss,1
+1832,not bite,None,None,No location,Netherlands,90,Full,2013,Win,1
+1833,not bite,Yellow card,midfielder,opponent team penalty area,Netherlands,43,Full,2013,Draw,2
+1834,not bite,Red Card,goalkeeper,off field,England,59,No Moon,2013,Draw,1
+1835,not bite,Yellow card,goalkeeper,opponent team penalty area,England,46,No Moon,2013,Loss,1
+1836,bite,Suspended for several games,journalist,off field,Netherlands,82,No Moon,2013,Loss,0
+1837,not bite,Not Caught,None,midfield,Uruguay,89,Half,2013,Loss,0
+1838,not bite,Yellow card,referee,opponent team penalty area,Netherlands,87,Full,2013,Loss,0
+1839,not bite,Not Caught,referee,off field,Netherlands,18,Full,2013,Draw,0
+1840,not bite,Suspended for several games,midfielder,off field,Netherlands,37,Half,2013,Win,3
+1841,not bite,Not Caught,spectator,off field,Netherlands,59,No Moon,2013,Draw,0
+1842,not bite,None,None,No location,England,90,Full,2013,Win,2
+1843,not bite,yellow card,goalkeeper,opponent team penalty area,Netherlands,72,Full,2013,Win,2
+1844,not bite,yellow card,referee,off field,England,21,No Moon,2013,Win,3
+1845,not bite,None,None,No location,Uruguay,90,Full,2013,Loss,1
+1846,not bite,Not Caught,midfielder,off field,England,81,Half,2013,Win,1
+1847,not bite,Yellow card,referee,opponent team penalty area,England,50,Half,2013,Win,1
+1848,not bite,Yellow card,None,off field,Netherlands,49,Half,2013,Draw,0
+1849,not bite,Suspended for several games,journalist,off field,Netherlands,31,Half,2013,Loss,2
+1850,not bite,None,None,No location,England,90,No Moon,2013,Draw,0
+1851,bite,Yellow card,spectator,off field,England,88,No Moon,2013,Win,1
+1852,not bite,Red Card,forward,opponent team penalty area,England,28,No Moon,2013,Draw,1
+1853,not bite,yellow card,None,opponent team penalty area,England,37,No Moon,2013,Win,0
+1854,not bite,None,None,his team penalty area,England,40,Half,2013,Win,1
+1855,not bite,None,defender,midfield,Netherlands,89,Half,2013,Draw,0
+1856,not bite,None,None,No location,Uruguay,90,No Moon,2013,Loss,1
+1857,not bite,None,None,his team penalty area,Uruguay,25,Full,2013,Loss,4
+1858,not bite,yellow card,journalist,off field,Uruguay,36,Half,2014,Loss,1
+1859,not bite,Yellow card,defender,midfield,England,32,Half,2014,Loss,1
+1860,bite,Suspended for several games,midfielder,opponent team penalty area,Netherlands,87,No Moon,2014,Loss,0
+1861,not bite,yellow card,midfielder,off field,Uruguay,24,Half,2014,Loss,3
+1862,not bite,Suspended for several games,referee,off field,England,37,No Moon,2014,Win,1
+1863,not bite,Not Caught,spectator,off field,Uruguay,19,Full,2014,Draw,2
+1864,not bite,Not Caught,goalkeeper,midfield,England,30,Half,2014,Win,1
+1865,bite,Not Caught,defender,off field,Uruguay,47,Half,2014,Win,0
+1866,not bite,None,None,No location,England,90,Full,2014,Loss,1
+1867,bite,None,journalist,off field,Netherlands,83,Full,2014,Loss,0
+1868,not bite,Suspended for several games,forward,opponent team penalty area,England,35,Half,2014,Win,3
+1869,not bite,Not Caught,spectator,off field,Netherlands,68,No Moon,2014,Loss,0
+1870,bite,Not Caught,referee,opponent team penalty area,England,81,No Moon,2014,Loss,1
+1871,not bite,None,None,No location,Netherlands,90,Half,2014,Win,0
+1872,not bite,Red Card,journalist,off field,England,85,No Moon,2014,Win,1
+1873,not bite,Not Caught,spectator,off field,Uruguay,58,Half,2014,Draw,3
+1874,not bite,Not Caught,defender,off field,Netherlands,75,No Moon,2014,Win,1
+1875,not bite,Yellow card,journalist,off field,Netherlands,38,No Moon,2014,Win,1
+1876,not bite,Yellow card,goalkeeper,his team penalty area,Uruguay,74,No Moon,2014,Win,1
+1877,not bite,Not Caught,journalist,off field,England,58,Full,2014,Draw,0
+1878,not bite,Red Card,goalkeeper,midfield,Uruguay,8,Full,2014,Win,1
+1879,not bite,Yellow card,referee,his team penalty area,Uruguay,89,Half,2014,Win,0
+1880,not bite,Yellow card,forward,opponent team penalty area,England,59,Full,2014,Draw,1
+1881,not bite,Not Caught,forward,off field,Netherlands,86,No Moon,2014,Win,1
+1882,not bite,Not Caught,midfielder,opponent team penalty area,England,5,Full,2014,Win,0
+1883,not bite,Red Card,spectator,off field,Netherlands,16,Full,2014,Win,1
+1884,bite,Red Card,forward,opponent team penalty area,Netherlands,88,Half,2014,Loss,1
+1885,not bite,Red Card,midfielder,midfield,Uruguay,39,No Moon,2014,Loss,3
+1886,not bite,Yellow card,referee,midfield,England,72,Half,2014,Win,0
+1887,not bite,yellow card,defender,opponent team penalty area,Uruguay,70,Full,2014,Win,3
+1888,not bite,Yellow card,forward,opponent team penalty area,Uruguay,53,Half,2014,Loss,1
+1889,not bite,None,None,No location,Uruguay,90,Half,2014,Draw,1
+1890,bite,Suspended for several games,None,opponent team penalty area,Netherlands,87,No Moon,2014,Loss,1
