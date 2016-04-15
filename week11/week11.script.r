@@ -1,5 +1,5 @@
 #import your pacakge before using it
-library(randomForest)
+#library(randomForest)
 library(MASS)
 library(rpart)
 #import training and testing data
